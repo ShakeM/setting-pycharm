@@ -271,11 +271,11 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1527904747055">
-        <mark key="[" line="52" column="56" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1528894633262">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -390,23 +390,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>267068</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgTmV3SW5kZXgoQmFzZUluZGV4KToKICAgIF9fdGFibGVuYW1lX18gPSAnbmV3X2luZGV4JwogICAgcGFzcwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>267068</text>
+        <text>wise</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGhvdXNlID09IHUnxM++qcK3JzoKICAgICAgICAgICAgcHJvZHVjdElkLmFwcGVuZCgnOTMyMDk4NScpCg==</text>
+        <text encoding="base64">ICAgIHdpc2UgPSBDb2x1bW4oU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamsK</text>
+        <text encoding="base64">Y2xhc3MgTmV3SW5kZXgoQmFzZUluZGV4KToKICAgIF9fdGFibGVuYW1lX18gPSAnbmV3X2luZGV4JwogICAgcGFzcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -416,28 +416,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2V4aXN0cycpCg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIElzIHRoZSBzYW1lIG5hbWVqawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">a2pqawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Y2xhc3MgQmFzZVpoaXNodSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubmV3X2NvdW50ICs9IDEK</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
