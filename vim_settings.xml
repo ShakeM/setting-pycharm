@@ -30,6 +30,9 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1528903933068">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/items.py" timestamp="1527003833747">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="24" column="25" />
@@ -186,12 +189,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" timestamp="1528899012174">
-        <mark key="'" line="99" column="21" />
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="50" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" timestamp="1528904175242">
+        <mark key="'" line="101" column="21" />
+        <mark key="[" line="87" column="26" />
+        <mark key="]" line="87" column="28" />
+        <mark key="." line="87" column="28" />
+        <mark key="^" line="87" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-27_04-00-29__1527364829.json" timestamp="1527399570412">
         <mark key="[" line="9" column="45" />
@@ -271,16 +274,14 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1528903270026">
-        <mark key="[" line="54" column="3" />
-        <mark key="]" line="53" column="3" />
-        <mark key="^" line="53" column="3" />
-        <mark key="." line="53" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1528905818162">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="327" filename="$USER_HOME$/PycharmProjects/scrapy_project/stock_list.json" />
-      <jump line="1" column="1481" filename="$USER_HOME$/PycharmProjects/scrapy_project/stock_list.json" />
       <jump line="49" column="1179" filename="$USER_HOME$/PycharmProjects/scrapy_project/stock_list.json" />
       <jump line="10" column="38" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/shs.py" />
       <jump line="12" column="12" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/shs.py" />
@@ -377,8 +378,10 @@
       <jump line="14" column="10" filename="$USER_HOME$/untitled3/main.py" />
       <jump line="32" column="24" filename="$USER_HOME$/untitled3/main.py" />
       <jump line="44" column="3" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
-      <jump line="50" column="3" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" />
       <jump line="101" column="21" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,23 +392,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZGIudGFibGVzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>meta.tables</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ip</text>
       </register>
-      <register name="0" type="4">
-        <text>for e in session.query(Stock.extra).all():</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG5hbWVzID0gc2Vzc2lvbi5xdWVyeShTdG9jay5uYW1lKS5hbGwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZGIudGFibGVzKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -418,25 +421,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Iga2V5IGluIG1ldGEudGFibGVzOgo=</text>
+        <text encoding="base64">aW1wb3J0IHNxbGFsY2hlbXkuZXhjLkludmFsaWRSZXF1ZXN0RXJyb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamtrZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgbWV0YSA9IHNlbGYuQmFzZS5NZXRh</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2Vyc190YWJsZSA9IG1ldGEudGFibGVzWyd1c2VycyddCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzZXNfdGFibGUgPSBtZXRhLnRhYmxlc1snYWRkcmVzc2VzJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
