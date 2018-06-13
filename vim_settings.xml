@@ -271,11 +271,11 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1528900491290">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1528903270026">
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="53" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -568,6 +568,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
