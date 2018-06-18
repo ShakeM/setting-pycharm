@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1528903933068">
+      <file name="/a.dummy" timestamp="1529324672815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
@@ -24,7 +24,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1529324123111">
+      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1529324131664">
         <mark key="'" line="8" column="999" />
         <mark key="[" line="6" column="11" />
         <mark key="]" line="18" column="25" />
@@ -74,6 +74,11 @@
         <mark key="^" line="49" column="47" />
         <mark key="." line="49" column="47" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/__init__.py" timestamp="1529327521421">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/py36project/indexer/main.py" timestamp="1526130186067">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -99,11 +104,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529321505755">
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529327380207">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -140,7 +145,7 @@
         <mark key="." line="18" column="81" />
         <mark key="o" line="24" column="40" />
       </file>
-      <file name="/Python Console" timestamp="1529323254286">
+      <file name="/Python Console" timestamp="1529326314048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -185,11 +190,11 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529321419299">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="69" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529327439573">
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="68" column="44" />
+        <mark key="." line="68" column="44" />
+        <mark key="^" line="68" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index.json" timestamp="1527009469862">
         <mark key="[" line="0" column="0" />
@@ -277,13 +282,13 @@
         <mark key="]" line="499" column="69" />
         <mark key="." line="499" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/tujia_order.py" timestamp="1529324105750">
-        <mark key="a" line="17" column="16" />
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="33" column="11" />
-        <mark key="^" line="33" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/tujia_order.py" timestamp="1529325152872">
+        <mark key="a" line="19" column="16" />
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="49" column="20" />
+        <mark key="." line="49" column="20" />
+        <mark key="^" line="49" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/myapp.py" timestamp="1527427234209">
         <mark key="'" line="135" column="4" />
@@ -410,19 +415,23 @@
       <register name="a" type="4">
         <keys>
           <key char="105" code="0" mods="0" />
-          <key char="38" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>super</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZiA9IEZhbnFpZSgpCmYubG9naW4oKQpvcmRlcnMgPSBmLmdldF9vcmRlcnMoJzIwMTgtMDYtMTgnLCAnMjAxOC0wNi0xOScpCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>super</text>
+        <text>广东路27楼</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
@@ -431,7 +440,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3X29yZGVyWydjaGVja2luJ10gPSBvWydjaGVja0luRGF0ZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZiA9IEZhbnFpZSgpCmYubG9naW4oKQpvcmRlcnMgPSBmLmdldF9vcmRlcnMoJzIwMTgtMDYtMTgnLCAnMjAxOC0wNi0xOScpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -441,28 +450,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">cHJpbnQoJ2EnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">cHJpbnQobGVuKHR1amlhX29yZGVycykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnMgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwLmNvbnRlbnQpCg==</text>
+        <text encoding="base64">cHJpbnQob3JkZXJzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvcmRlcnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgIyAgICAgc3VwZXIoVHVqaWFPcmRlcixzZWxmKS5fX2luaXRfXygpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaWQgPT0gKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dC5sb2dpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZHMgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZ2V0JykK</text>
+        <text encoding="base64">ICAgICAgICBmb3IK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
