@@ -69,12 +69,12 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1528818893717">
+      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1529308748543">
         <mark key="'" line="8" column="999" />
-        <mark key="[" line="166" column="24" />
-        <mark key="]" line="165" column="37" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
         <mark key="^" line="165" column="37" />
-        <mark key="." line="165" column="37" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
         <mark key="[" line="0" column="0" />
@@ -392,8 +392,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -408,7 +408,7 @@
         <text encoding="base64">ICAgIG5hbWVzID0gc2Vzc2lvbi5xdWVyeShTdG9jay5uYW1lKS5hbGwoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIDAtOSBJdGVtCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgICAgICAgICB5aWVsZCBTdG9ja0l0ZW0oY29kZT1zdHIoaSksIG5hbWU9c3RyKGkpLCBzeW1ib2w9c3RyKGkpKQogICAgICAgICMKICAgICAgICBmb3IgaSBpbiByYW5nZSg5NywgMTIzKToKICAgICAgICAgICAgY2hhciA9IGNocihpKQogICAgICAgICAgICB5aWVsZCBTdG9ja0l0ZW0oY29kZT1jaGFyLCBuYW1lPWNoYXIsIHN5bWJvbD1jaGFyKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -418,28 +418,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAjIDAtOSBJdGVtCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMTApOgogICAgICAgICAgICB5aWVsZCBTdG9ja0l0ZW0oY29kZT1zdHIoaSksIG5hbWU9c3RyKGkpLCBzeW1ib2w9c3RyKGkpKQogICAgICAgICMKICAgICAgICBmb3IgaSBpbiByYW5nZSg5NywgMTIzKToKICAgICAgICAgICAgY2hhciA9IGNocihpKQogICAgICAgICAgICB5aWVsZCBTdG9ja0l0ZW0oY29kZT1jaGFyLCBuYW1lPWNoYXIsIHN5bWJvbD1jaGFyKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNxbGFsY2hlbXkuZXhjLkludmFsaWRSZXF1ZXN0RXJyb3IK</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNxbGFsY2hlbXkuZXhjLkludmFsaWRSZXF1ZXN0RXJyb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
