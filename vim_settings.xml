@@ -24,12 +24,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1529308748543">
+      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1529324123111">
         <mark key="'" line="8" column="999" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="165" column="37" />
-        <mark key="." line="167" column="0" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
         <mark key="[" line="0" column="0" />
@@ -57,7 +57,7 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/airbnb.py" timestamp="1527260150514">
+      <file name="$USER_HOME$/PycharmProjects/list/airbnb.py" timestamp="1529320547467">
         <mark key="[" line="134" column="24" />
         <mark key="]" line="134" column="23" />
         <mark key="." line="134" column="23" />
@@ -99,6 +99,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529321505755">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
@@ -134,7 +140,7 @@
         <mark key="." line="18" column="81" />
         <mark key="o" line="24" column="40" />
       </file>
-      <file name="/Python Console" timestamp="1529317650889">
+      <file name="/Python Console" timestamp="1529323254286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -179,11 +185,11 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529317646792">
-        <mark key="[" line="29" column="105" />
-        <mark key="]" line="29" column="105" />
-        <mark key="^" line="29" column="104" />
-        <mark key="." line="29" column="105" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529321419299">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index.json" timestamp="1527009469862">
         <mark key="[" line="0" column="0" />
@@ -271,6 +277,14 @@
         <mark key="]" line="499" column="69" />
         <mark key="." line="499" column="69" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/tujia_order.py" timestamp="1529324105750">
+        <mark key="a" line="17" column="16" />
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+        <mark key="^" line="33" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/myapp.py" timestamp="1527427234209">
         <mark key="'" line="135" column="4" />
         <mark key="[" line="139" column="53" />
@@ -291,9 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="38" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/shs.py" />
-      <jump line="12" column="12" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/shs.py" />
-      <jump line="16" column="22" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/shs.py" />
       <jump line="37" column="37" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/stocks.py" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/stocks.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
@@ -391,6 +402,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" />
       <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" />
       <jump line="29" column="32" filename="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" />
+      <jump line="0" column="3" filename="$USER_HOME$/PycharmProjects/list/verify_status/main.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/PycharmProjects/list/verify_status/tujia_order.py" />
+      <jump line="5" column="10" filename="$USER_HOME$/PycharmProjects/list/verify_status/tujia_order.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -402,22 +416,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>super</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>super</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50X2pzb24gPSBqc29uLmxvYWRzKHJlc3AuY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X29yZGVyWydjaGVja2luJ10gPSBvWydjaGVja0luRGF0ZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmltcG9ydCByZXF1ZXN0cwoKdXJsID0gImh0dHA6Ly93d3cuZmFucWllbGUuY29tL2lubi9vcmRlcnMvcXVlcnkiCgpyZXNwb25zZSA9IHJlcXVlc3RzLnJlcXVlc3QoIlBPU1QiLCB1cmwsIGRhdGE9cGF5bG9hZCwgaGVhZGVycz1oZWFkZXJzKQoKcHJpbnQocmVzcG9uc2UudGV4dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -427,28 +441,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgJyZwYWdlU2l6ZToxMDAmc2VhcmNoVHlwZTpDSEVDS19JTl9BVCcK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkX3RlbXBsYXRlID0gJ2NoZWNrSW5Gcm9tOiVzJmNoZWNrSW5UbzolcyZkYXRhUmVzcG9uc2VUeXBlOkFQSSZvcmRlckZsYWc6QUxMJm9yZGVyU3RhdHVzOjEsMiZwYWdlTm86JXMnIFwK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGF5bG9hZCA9ICJjaGVja0luRnJvbT0yMDE4LTA2LTE4JmNoZWNrSW5Ubz0yMDE4LTA3LTE4JmRhdGFSZXNwb25zZVR5cGU9QVBJJm9yZGVyRmxhZz1BTEwmb3JkZXJTdGF0dXM9MSUyQzImcGFnZU5vPTEmcGFnZVNpemU9MTAwJnNlYXJjaFR5cGU9Q0hFQ0tfSU5fQVQiCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlcnMgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwLmNvbnRlbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJzLmFwcGVuZChvcmRlcikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRlbnRfanNvbiA9IGpzb24ubG9hZHMocmVzcC5jb250ZW50KQo=</text>
+        <text encoding="base64">ICAgICMgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgIyAgICAgc3VwZXIoVHVqaWFPcmRlcixzZWxmKS5fX2luaXRfXygpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVycyA9IAo=</text>
+        <text encoding="base64">dC5sb2dpbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF5bG9hZCA9ICIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZ2V0JykK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
