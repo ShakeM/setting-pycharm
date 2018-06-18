@@ -74,7 +74,7 @@
         <mark key="^" line="49" column="47" />
         <mark key="." line="49" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/__init__.py" timestamp="1529327521421">
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/__init__.py" timestamp="1529336152139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -103,6 +103,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529336531909">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -139,11 +145,11 @@
         <mark key="." line="18" column="81" />
         <mark key="o" line="24" column="40" />
       </file>
-      <file name="/Python Console" timestamp="1529326314048">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Python Console" timestamp="1529336343014">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1527410071467">
         <mark key="[" line="135" column="23" />
@@ -184,11 +190,11 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529327439573">
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="68" column="44" />
-        <mark key="." line="68" column="44" />
-        <mark key="^" line="68" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529336274259">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index.json" timestamp="1527009469862">
         <mark key="[" line="0" column="0" />
@@ -419,13 +425,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobGVuKHJlc3VsdCkpCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>广东路27楼</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
@@ -434,7 +440,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3X29yZGVyWydjaGVja2luJ10gPSBvWydjaGVja0luRGF0ZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobGVuKHJlc3VsdCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -444,28 +450,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoJ2VuZCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">byA9IHR1amlhX29yZGVyc1swXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amtra2RkCg==</text>
+        <text encoding="base64">bm90X2luX3RvdGFsID0gZmlsdGVyKGxhbWJkYSB4OiB4IG5vdCBpbiB0b3RhbF9vcmRlcnMsIHR1amlhX29yZGVycykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZiA9IEZhbnFpZSgpCmYubG9naW4oKQpvcmRlcnMgPSBmLmdldF9vcmRlcnMoJzIwMTgtMDYtMTgnLCAnMjAxOC0wNi0xOScpCg==</text>
+        <text encoding="base64">byA9IHR1amlhX29yZGVyc1swXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoJ2EnKQo=</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHR1amlhX29yZGVycykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQob3JkZXJzKQo=</text>
+        <text encoding="base64">byA9IHR1amlhX29yZGVyc1swXQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
