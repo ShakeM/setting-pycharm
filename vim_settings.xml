@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1529324672815">
@@ -103,12 +103,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529327380207">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -425,7 +419,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZiA9IEZhbnFpZSgpCmYubG9naW4oKQpvcmRlcnMgPSBmLmdldF9vcmRlcnMoJzIwMTgtMDYtMTgnLCAnMjAxOC0wNi0xOScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -440,7 +434,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3X29yZGVyWydjaGVja2luJ10gPSBvWydjaGVja0luRGF0ZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZiA9IEZhbnFpZSgpCmYubG9naW4oKQpvcmRlcnMgPSBmLmdldF9vcmRlcnMoJzIwMTgtMDYtMTgnLCAnMjAxOC0wNi0xOScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,28 +444,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJ2EnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHR1amlhX29yZGVycykpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">byA9IHR1amlhX29yZGVyc1swXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">amtra2RkCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQob3JkZXJzKQo=</text>
+        <text encoding="base64">ZiA9IEZhbnFpZSgpCmYubG9naW4oKQpvcmRlcnMgPSBmLmdldF9vcmRlcnMoJzIwMTgtMDYtMTgnLCAnMjAxOC0wNi0xOScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcmRlcnMpCg==</text>
+        <text encoding="base64">cHJpbnQoJ2EnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaWQgPT0gKQo=</text>
+        <text encoding="base64">cHJpbnQobGVuKHR1amlhX29yZGVycykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZHMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">cHJpbnQob3JkZXJzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
