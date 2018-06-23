@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1529734527878">
@@ -207,11 +207,11 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529730611467">
-        <mark key="[" line="93" column="27" />
-        <mark key="]" line="90" column="46" />
-        <mark key="^" line="90" column="46" />
-        <mark key="." line="90" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529736684379">
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="33" />
+        <mark key="^" line="68" column="33" />
+        <mark key="." line="68" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index.json" timestamp="1527009469862">
         <mark key="[" line="0" column="0" />
