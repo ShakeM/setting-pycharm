@@ -95,6 +95,12 @@
         <mark key="." line="107" column="8" />
         <mark key="^" line="134" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/utils/database.py" timestamp="1529835952490">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/mayi.py" timestamp="1529756447488">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -236,12 +242,12 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1529834484573">
-        <mark key="a" line="100" column="7" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1529837613360">
+        <mark key="a" line="101" column="7" />
+        <mark key="[" line="31" column="75" />
+        <mark key="]" line="31" column="75" />
+        <mark key="^" line="31" column="74" />
+        <mark key="." line="31" column="75" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
         <mark key="[" line="23" column="13" />
@@ -426,6 +432,7 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1529836469525" />
     </filemarks>
     <jumps>
       <jump line="19" column="3" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
@@ -538,23 +545,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>db.text('CURRENT_TIMESTAMP')</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>56304931a</text>
+        <text>db.text('CURRENT_TIMESTAMP')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkknXSA9ICdteXNxbCtweW15c3FsOi8vcm9vdDo1NjMwNDkzMWFAMTkyLjE2OC4zMS4xMzg6MzMwNi9pbmRleF9xdWVyeScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzPWRiLkNvbHVtbihkYi5CT09MRUFOLCBkZWZhdWx0PVRydWUsIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVfdGltZT1kYi5Db2x1bW4oZGIuU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -564,31 +571,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGIgPSBTUUxBbGNoZW15KGFwcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGw9ZGIuQ29sdW1uKGRiLlN0cmluZyg1MCksIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1snU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkknXSA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aXNlPWRiLkNvbHVtbihkYi5TdHJpbmcoNTApLCBudWxsYWJsZT1GYWxzZSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVfdGltZT1kYi5Db2x1bW4oZGIuU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGw9ZGIuQ29sdW1uKGRiLlN0cmluZyg1MCksIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aXNlPWRiLkNvbHVtbihkYi5TdHJpbmcoNTApLCBudWxsYWJsZT1GYWxzZSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYz1kYi5Db2x1bW4oZGIuU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJpb2Q9ZGIuQ29sdW1uKGRiLlN0cmluZyg1MCksIHVuaXF1ZT1UcnVlLCBudWxsYWJsZT1GYWxzZSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3b3JkPWRiLkNvbHVtbihkYi5TdHJpbmcoNTApLCBkZWZhdWx0PW5hbWVkZCksCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action MoveTabRight</text>
       </register>
     </registers>
     <search>
@@ -638,10 +645,10 @@
         <entry>action PrevSplitter</entry>
         <entry>action CloseAllEditorsButActive</entry>
         <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action MoveTabRight</entry>
         <entry>action Replace</entry>
+        <entry>action NextTab</entry>
+        <entry>action MoveTabRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
