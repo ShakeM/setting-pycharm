@@ -199,12 +199,12 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/index_flask/app.py" timestamp="1529831197331">
-        <mark key="'" line="154" column="14" />
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="13" column="62" />
-        <mark key="." line="13" column="62" />
-        <mark key="^" line="166" column="49" />
+      <file name="$USER_HOME$/index_flask/app.py" timestamp="1529848262106">
+        <mark key="'" line="155" column="14" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb3_order.py" timestamp="1529413169403">
         <mark key="'" line="43" column="0" />
@@ -235,7 +235,6 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/time.pyi" timestamp="1529830643302" />
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/items.py" timestamp="1527003833747">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="24" column="25" />
@@ -432,7 +431,6 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1529836469525" />
     </filemarks>
     <jumps>
       <jump line="19" column="3" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
@@ -546,13 +544,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>db.text('CURRENT_TIMESTAMP')</text>
+        <text>flask_sqlalchemy</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>db.text('CURRENT_TIMESTAMP')</text>
+        <text>flask_sqlalchemy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
