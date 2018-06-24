@@ -235,12 +235,12 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1529824198155">
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1529824477656">
         <mark key="a" line="100" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="130" column="42" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
         <mark key="[" line="23" column="13" />
@@ -320,7 +320,7 @@
         <mark key="." line="23" column="295" />
         <mark key="^" line="23" column="295" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529824200728">
+      <file name="/Dummy.txt" timestamp="1529824480327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -537,14 +537,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Home</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>booking</text>
+        <text>Home</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
