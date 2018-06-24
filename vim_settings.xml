@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1529764330469">
@@ -27,17 +27,15 @@
         <mark key="." line="103" column="37" />
         <mark key="^" line="103" column="37" />
       </file>
-      <file name="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/threading.py" timestamp="1529808487773" />
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/__init__.py" timestamp="1529804470632">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/utils/q_thread.py" timestamp="1529810080820">
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="43" column="45" />
-        <mark key="." line="43" column="45" />
-        <mark key="^" line="43" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/list3/utils/q_thread.py" timestamp="1529811629368">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/index_stock.json" timestamp="1526739600789">
         <mark key="[" line="4" column="28" />
@@ -237,7 +235,7 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1529811492653">
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1529822291644">
         <mark key="a" line="102" column="7" />
         <mark key="[" line="136" column="36" />
         <mark key="]" line="136" column="36" />
@@ -539,8 +537,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>booking</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuX3RhcmdldCkK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -555,7 +553,7 @@
         <text encoding="base64">ICAgIGZvciB0IGluIHRocmVhZF9wb29sOgogICAgICAgIHQuc3RhcnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWlyYm5iM19yZXN1bHQpICsgdSI8YnI+Ym9va2luZ6O6IiArIHN0cihib29raW5nX3Jlc3VsdCkgKyB1Ijxicj7pu7n7OiIgKyBzdHIoemhlbmd1b19yZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlbGYuX3RhcmdldCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -565,28 +563,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVqaWFfcmVzdWx0KSArIHUiPGJyPrCu0rujuiIgKyBzdHIoYWlyYm5iX3Jlc3VsdCkgKyB1Ijxicj6wrrb+o7oiICsgc3RyKGFpcmJuYjJfcmVzdWx0KSArIHUiPGJyPrCuyP2juiIgKyBzdHIoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWlyYm5iM19yZXN1bHQpICsgdSI8YnI+Ym9va2luZ6O6IiArIHN0cihib29raW5nX3Jlc3VsdCkgKyB1Ijxicj7pu7n7OiIgKyBzdHIoemhlbmd1b19yZXN1bHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB1Ijxicj7Qodbto7oiICsgc3RyKHhpYW96aHVfcmVzdWx0KSArIHUiPGJyPs2+vNKjuiIgKyBzdHIoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVqaWFfcmVzdWx0KSArIHUiPGJyPrCu0rujuiIgKyBzdHIoYWlyYm5iX3Jlc3VsdCkgKyB1Ijxicj6wrrb+o7oiICsgc3RyKGFpcmJuYjJfcmVzdWx0KSArIHUiPGJyPrCuyP2juiIgKyBzdHIoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB1Ijxicj7Qodbto7oiICsgc3RyKHhpYW96aHVfcmVzdWx0KSArIHUiPGJyPs2+vNKjuiIgKyBzdHIoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF9haXJibmIuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRocmVhZF9haXJibmIuc3RhcnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF9haXJibmIzLnN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Replace</text>
