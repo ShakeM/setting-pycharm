@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1529764330469">
@@ -120,7 +120,6 @@
         <mark key="^" line="53" column="61" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/reminder.js" timestamp="1529907104724" />
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/verification.py" timestamp="1527263244191">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="22" />
@@ -366,7 +365,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529907193320">
+      <file name="/Dummy.txt" timestamp="1529909676946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -425,6 +424,11 @@
         <mark key="]" line="38" column="46" />
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="46" />
+      </file>
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1529909673076">
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -555,10 +559,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>@app.route('/js/qcc.js', methods=['GET'])
-def qcc_js():
-    return app.send_static_file('js/qcc.js')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWxlcnQoJ29wcGprJykK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -572,10 +574,8 @@ def qcc_js():
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzPWRiLkNvbHVtbihkYi5CT09MRUFOLCBkZWZhdWx0PVRydWUsIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
-      <register name="1" type="4">
-        <text>@app.route('/js/qcc.js', methods=['GET'])
-def qcc_js():
-    return app.send_static_file('js/qcc.js')</text>
+      <register name="1" type="2">
+        <text encoding="base64">YWxlcnQoJ29wcGprJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -584,29 +584,31 @@ def qcc_js():
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>@app.route('/js/qcc.js', methods=['GET'])
+def qcc_js():
+    return app.send_static_file('js/qcc.js')</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CkBhcHAucm91dGUoJy9leGVjJywgbWV0aG9kcz1bJ0dFVCddKQpkZWYgZXhlY3V0ZSgpOgogICAgZ2xvYmFsIGRiCgogICAgY2FsbGJhY2sgPSByZXF1ZXN0LmFyZ3MuZ2V0KCJjYWxsYmFjayIpIG9yICcnCiAgICBpZCA9IHJlcXVlc3QuYXJncy5nZXQoImlkIikgb3IgJ25vbmUnCiAgICBkYltpZF0gPSByZXF1ZXN0LmFyZ3MuZ2V0KCJmZWVkYmFjayIpCgogICAgY2lkID0gc3RyKGlkKSArICdjJwogICAgY21kID0gJycKICAgIGlmIGNpZCBpbiBkYi5rZXlzKCk6CiAgICAgICAgY21kID0gZGJbY2lkXQogICAgICAgIGRiW2NpZF0gPSAnRE9ORScKCiAgICBkYXRhID0gewogICAgICAgICJyZXN1bHQiOiBjbWQsCiAgICB9CiAgICByZXN1bHQgPSBjYWxsYmFjayArICcoJyArIGpzb24uZHVtcHMoZGF0YSkgKyAnKScKICAgIHJldHVybiByZXN1bHQKCgpAYXBwLnJvdXRlKCcvYmVhdCcsIG1ldGhvZHM9WydHRVQnXSkKZGVmIHNlbmRfanNvbigpOgogICAgZ2xvYmFsIGRiCiAgICBpZCA9IHJlcXVlc3QuYXJncy5nZXQoImlkIikgb3IgJ25vbmUnCiAgICBkYltpZF0gPSByZXF1ZXN0LmFyZ3MuZ2V0KCJmZWVkYmFjayIpCiAgICBjYWxsYmFjayA9IHJlcXVlc3QuYXJncy5nZXQoImNhbGxiYWNrIikgb3IgJycKCiAgICByZXN1bHQgPSBjYWxsYmFjayArICcoJyArICd7InJlc3VsdCI6InN1Y2Nlc3MifScgKyAnKScKICAgIHJldHVybiByZXN1bHQKCgpAYXBwLnJvdXRlKCcvY29uJywgbWV0aG9kcz1bJ0dFVCcsICdQT1NUJ10pCmRlZiBjb25zb2xlKCk6CiAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnR0VUJzoKICAgICAgICBnbG9iYWwgZGIKCiAgICAgICAgaWRzID0gZGIua2V5cygpIG9yICdOT05FJwoKICAgICAgICBpZiBub3QgcmVxdWVzdC5hcmdzLmdldCgiaWQiKToKICAgICAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoaWRzKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGNtZCA9ICcnJwogICAgICAgICAgICA8Zm9ybSBhY3Rpb249Ii9jb24iIG1ldGhvZD0icG9zdCI+CiAgICAgICAgICAgIDxwPmlkOiA8aW5wdXQgdHlwZT0ibnVtYmVyIiBuYW1lPSJpZCIgLz48cD4KICAgICAgICAgICAgPHA+Y21kOiA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iY21kIiAvPjwvcD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IlN1Ym1pdCIgLz4KICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICAnJycKICAgICAgICAgICAgcmV0dXJuIGNtZCArIHN0cihkYltyZXF1ZXN0LmFyZ3MuZ2V0KCJpZCIpXSkKCiAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6CiAgICAgICAgaWQgPSByZXF1ZXN0LmZvcm1bImlkIl0gKyAnYycKICAgICAgICBjbWQgPSByZXF1ZXN0LmZvcm1bImNtZCJdCiAgICAgICAgZGJbaWRdID0gY21kCiAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoZGIpCgoKQGFwcC5yb3V0ZSgnL2pzb24nLCBtZXRob2RzPVsnR0VUJ10pCmRlZiBqc29uX2RlbW8oKToKICAgIGQgPSB7CiAgICAgICAgJ25hbWUnOiAnam9uYXRoYW4nLAogICAgICAgICdhZ2UnOiAyNSwKICAgICAgICAnaW5mbyc6ICd3ZWxjb21lJwoKICAgIH0KICAgIHJldHVybiBqc29uLmR1bXBzKGQp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVfdGltZT1kYi5Db2x1bW4oZGIuU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGw9ZGIuQ29sdW1uKGRiLlN0cmluZyg1MCksIG51bGxhYmxlPUZhbHNlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVfdGltZT1kYi5Db2x1bW4oZGIuU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aXNlPWRiLkNvbHVtbihkYi5TdHJpbmcoNTApLCBudWxsYWJsZT1GYWxzZSksCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVfdGltZT1kYi5Db2x1bW4oZGIuU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGw9ZGIuQ29sdW1uKGRiLlN0cmluZyg1MCksIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aXNlPWRiLkNvbHVtbihkYi5TdHJpbmcoNTApLCBudWxsYWJsZT1GYWxzZSksCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVfdGltZT1kYi5Db2x1bW4oZGIuU3RyaW5nKDUwKSwgbnVsbGFibGU9RmFsc2UpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGw9ZGIuQ29sdW1uKGRiLlN0cmluZyg1MCksIG51bGxhYmxlPUZhbHNlKSwK</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
