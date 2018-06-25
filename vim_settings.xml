@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1529764330469">
@@ -431,7 +431,7 @@
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1529911647586">
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1529913297117">
         <mark key="[" line="155" column="11" />
         <mark key="]" line="155" column="80" />
         <mark key="." line="155" column="80" />
