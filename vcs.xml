@@ -18,8 +18,12 @@
           <option name="url" value="https://git.sinacloud.com/extension" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sinacloud.com/jslib" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jsy\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\jonathan.jiang" />
   </component>
 </application>
