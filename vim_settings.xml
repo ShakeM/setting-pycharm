@@ -125,11 +125,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" timestamp="1530019602371">
+      <file name="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" timestamp="1530021116092">
         <mark key="'" line="2" column="22" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="20" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/xiaozhu.py" timestamp="1529732658868">
         <mark key="[" line="8" column="13" />
@@ -221,7 +221,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1529942313627">
+      <file name="/Python Console" timestamp="1530020984742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1529413514601">
@@ -258,11 +258,11 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530018271541">
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="16" />
-        <mark key="." line="65" column="16" />
-        <mark key="^" line="66" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530020878665">
+        <mark key="[" line="120" column="12" />
+        <mark key="]" line="49" column="29" />
+        <mark key="." line="49" column="29" />
+        <mark key="^" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
         <mark key="[" line="0" column="0" />
@@ -413,12 +413,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530018560173">
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530021616962">
         <mark key="a" line="50" column="0" />
-        <mark key="[" line="25" column="89" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="20" column="0" />
+        <mark key="'" line="33" column="25" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
         <mark key="[" line="499" column="69" />
@@ -445,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="9" column="53" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="46" column="27" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="47" column="53" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
@@ -545,6 +545,7 @@
       <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
       <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
       <jump line="13" column="42" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
+      <jump line="35" column="25" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -555,23 +556,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBwcmludCgnPScgKiAxMDApCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Fanqie</text>
+        <text>total_dates</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>(</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoJz0nICogNDAgKyAnt6zH0c60udg6JyArICc9JyAqIDQwKQpmb3IgciBpbiByZXVzbHQ6CiAgICBwcmludChqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCnByaW50KCc9JyAqIDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnJlYWtwb2ludCgpCg==</text>
+        <text encoding="base64">IyBwcmludCgnPScgKiAxMDApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -581,37 +582,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMociwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Zm9yIHIgaW4gdG90YWxfZGF0ZXM6CiAgICBwcmludChqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amtrCg==</text>
+        <text encoding="base64">cHJpbnQoJz0nICogNDAgKyAnt6zH0c60udg6JyArICc9JyAqIDQwKQpmb3IgciBpbiByZXVzbHQ6CiAgICBwcmludChqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCnByaW50KCc9JyAqIDEwMCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>def pick_out(total, *parts):
-    not_input = []
-    for part in parts:
-        for p in part:
-            if p in total:
-                total.remove(p)
-            else:
-                not_input.append(p)
-
-    return not_input</text>
+      <register name="5" type="2">
+        <text encoding="base64">YnJlYWtwb2ludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvb21fY2hlY2tpblsncm9vbSddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
+        <text encoding="base64">cHJpbnQoJz0nICogNDAgKyAnudi3v7rLttQ6JyArICc9JyAqIDQwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgneWVzICcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
+        <text encoding="base64">YnJlYWtwb2ludCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
