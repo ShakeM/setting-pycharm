@@ -125,12 +125,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" timestamp="1529943432194">
+      <file name="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" timestamp="1529971197989">
         <mark key="'" line="2" column="22" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="9" />
-        <mark key="." line="90" column="9" />
-        <mark key="^" line="90" column="9" />
+        <mark key="[" line="77" column="72" />
+        <mark key="]" line="77" column="70" />
+        <mark key="." line="77" column="70" />
+        <mark key="^" line="77" column="70" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/xiaozhu.py" timestamp="1529732658868">
         <mark key="[" line="8" column="13" />
@@ -258,6 +258,12 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1529970888030">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="15" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
         <mark key="[" line="0" column="0" />
@@ -408,12 +414,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1529943327176">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1529970843109">
+        <mark key="a" line="70" column="0" />
+        <mark key="'" line="26" column="42" />
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="29" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
         <mark key="[" line="499" column="69" />
@@ -440,7 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="9" column="53" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="46" column="27" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
@@ -540,6 +546,7 @@
       <jump line="56" column="4" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
       <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
       <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
+      <jump line="13" column="42" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -550,23 +557,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>filterjkjby getall sqlalchemy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>filterjkjby getall sqlalchemy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vbSA9IHQuX190YWJsZW5hbWVfXwo=</text>
+        <text encoding="base64">dG9kYXkgPSBhcnJvdy51dGNub3coKS5mb3JtYXQoJ1lZWVktTU0tREQnKQp0d295ZWFyID0gYXJyb3cudXRjbm93KCkuc2hpZnQoZGF5cz03MzApLmZvcm1hdCgnWVlZWS1NTS1ERCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjaGVja2luKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -576,31 +583,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGJfZGF0ZXMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGIgPSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHIuY2hlY2tpbikK</text>
+        <text encoding="base64">cHJpbnQoZGJfZGF0ZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb21fY2hlY2tpbiA9IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGRiLnN3aXRjaCgnu8a608K3JywgJzIwMTgtMDYtMjUnLCAwLCAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRlKQo=</text>
+        <text encoding="base64">ZGVmIHBpY2tfb3V0KHRvdGFsLCAqcGFydHMpOgogICAgbm90X2lucHV0ID0gW10KICAgIGZvciBwYXJ0IGluIHBhcnRzOgogICAgICAgIGZvciBwIGluIHBhcnQ6CiAgICAgICAgICAgIGlmIHAgaW4gdG90YWw6CiAgICAgICAgICAgICAgICB0b3RhbC5yZW1vdmUocCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5vdF9pbnB1dC5hcHBlbmQocCkKCiAgICByZXR1cm4gbm90X2lucHV0Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MoveTabRight</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -650,10 +657,10 @@
         <entry>action PrevSplitter</entry>
         <entry>action CloseAllEditorsButActive</entry>
         <entry>wq</entry>
-        <entry>action PreviousTab</entry>
         <entry>action Replace</entry>
         <entry>action NextTab</entry>
         <entry>action MoveTabRight</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
