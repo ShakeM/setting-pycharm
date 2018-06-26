@@ -258,11 +258,11 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530017023322">
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="51" column="23" />
-        <mark key="." line="51" column="23" />
-        <mark key="^" line="51" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530017648747">
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
         <mark key="[" line="0" column="0" />
@@ -413,13 +413,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530017014694">
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530017898643">
         <mark key="a" line="47" column="0" />
         <mark key="'" line="13" column="42" />
-        <mark key="[" line="79" column="9" />
-        <mark key="]" line="79" column="9" />
-        <mark key="." line="79" column="9" />
-        <mark key="^" line="79" column="15" />
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+        <mark key="^" line="54" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
         <mark key="[" line="499" column="69" />
@@ -557,13 +557,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>total_orders</text>
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>total_orders</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
