@@ -258,11 +258,11 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1529972581826">
-        <mark key="[" line="78" column="46" />
-        <mark key="]" line="78" column="63" />
-        <mark key="^" line="78" column="63" />
-        <mark key="." line="78" column="63" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530017023322">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
         <mark key="[" line="0" column="0" />
@@ -413,13 +413,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530015954777">
-        <mark key="a" line="74" column="0" />
-        <mark key="'" line="26" column="42" />
-        <mark key="[" line="113" column="18" />
-        <mark key="]" line="113" column="19" />
-        <mark key="." line="113" column="19" />
-        <mark key="^" line="113" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530017014694">
+        <mark key="a" line="47" column="0" />
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="79" column="9" />
+        <mark key="." line="79" column="9" />
+        <mark key="^" line="79" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
         <mark key="[" line="499" column="69" />
@@ -557,13 +557,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>对</text>
+        <text>total_orders</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>对</text>
+        <text>total_orders</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
@@ -572,7 +572,7 @@
         <text encoding="base64">Zm9yIHIgaW4gcmV1c2x0OgogICAgcHJpbnQoanNvbi5kdW1wcyhyLCBlbnN1cmVfYXNjaWk9RmFsc2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvb21fY2hlY2tpblsncm9vbSddKQo=</text>
+        <text encoding="base64">amtrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -581,11 +581,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
+      <register name="2" type="4">
+        <text>def pick_out(total, *parts):
+    not_input = []
+    for part in parts:
+        for p in part:
+            if p in total:
+                total.remove(p)
+            else:
+                not_input.append(p)
+
+    return not_input</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvb21fY2hlY2tpblsncm9vbSddKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
@@ -594,16 +603,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmcmVzdWx0LmFwcGVuZChyb29tX2NoZWNraW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYXBwZW5kKHJvb21fY2hlY2tpbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGZvbGxvd19yZW1hcms6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmcmVzdWx0LmFwcGVuZChyb29tX2NoZWNraW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYXJyb3cuZ2V0KHIuY2hlY2tpbi5zdHJmdGltZSgiJVktJW0tJWQiKSwgJ1lZWVktTU0tREQnKSA8IGFycm93LnV0Y25vdygpLnNoaWZ0KGRheXM9LTEpOgogICAgICAgICAgICAgICAgY29udGludWUKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
