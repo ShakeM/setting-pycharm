@@ -125,11 +125,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" timestamp="1530021116092">
+      <file name="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" timestamp="1530022411994">
         <mark key="'" line="2" column="22" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/xiaozhu.py" timestamp="1529732658868">
         <mark key="[" line="8" column="13" />
@@ -221,9 +221,6 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530020984742">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1529413514601">
         <mark key="[" line="151" column="33" />
         <mark key="]" line="151" column="30" />
@@ -258,8 +255,8 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530020878665">
-        <mark key="[" line="120" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530022527747">
+        <mark key="[" line="65" column="40" />
         <mark key="]" line="49" column="29" />
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
@@ -413,13 +410,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530021616962">
-        <mark key="a" line="50" column="0" />
-        <mark key="'" line="33" column="25" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="44" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530023890699">
+        <mark key="a" line="46" column="0" />
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
         <mark key="[" line="499" column="69" />
@@ -557,13 +553,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBwcmludCgnPScgKiAxMDApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>total_dates</text>
+        <text>total_close</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
@@ -572,7 +568,7 @@
         <text encoding="base64">cHJpbnQoJz0nICogNDAgKyAnt6zH0c60udg6JyArICc9JyAqIDQwKQpmb3IgciBpbiByZXVzbHQ6CiAgICBwcmludChqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCnByaW50KCc9JyAqIDEwMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcmludCgnPScgKiAxMDApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -582,28 +578,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMociwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Zm9yIHIgaW4gdG90YWxfZGF0ZXM6CiAgICBwcmludChqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoJz0nICogNDAgKyAnt6zH0c60udg6JyArICc9JyAqIDQwKQpmb3IgciBpbiByZXVzbHQ6CiAgICBwcmludChqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSkpCnByaW50KCc9JyAqIDEwMCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YnJlYWtwb2ludCgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CnRvdGFsX2Nsb3NlX3N0ciA9IFtdCmZvciBjIGluIHRvdGFsX2Nsb3NlOgogICAgdG90YWxfY2xvc2Vfc3RyLmFwcGVuZChqc29uLmR1bXBzKGMsZW5zdXJlX2FzY2lpPUZhbHNlKSkKCnJlc3VsdCA9IENvdW50ZXIodG90YWxfY2xvc2Vfc3RyKQpwcmludChyZXVzbHQp</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29sbGVjdCh0b3RhbF9jbG9zZV9zdHIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0cihjKQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>print('=' * 40 + '房态未关:' + '=' * 40)
+counter = Counter([1,2,3])
+print(counter)</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoJz0nICogNDAgKyAnudi3v7rLttQ6JyArICc9JyAqIDQwKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgneWVzICcpCg==</text>
+        <text encoding="base64">Zm9yIHIgaW4gcmV1c2x0OmRkZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YnJlYWtwb2ludCgpCg==</text>
+        <text encoding="base64">IyAgICAgcHJpbnQoanNvbi5kdW1wcyhjLGVuc3VyZV9hc2NpaT1GYWxzZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
