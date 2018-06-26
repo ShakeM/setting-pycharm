@@ -413,13 +413,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1529972921027">
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1530015954777">
         <mark key="a" line="74" column="0" />
         <mark key="'" line="26" column="42" />
-        <mark key="[" line="67" column="9" />
-        <mark key="]" line="67" column="9" />
-        <mark key="." line="67" column="9" />
-        <mark key="^" line="66" column="0" />
+        <mark key="[" line="113" column="18" />
+        <mark key="]" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+        <mark key="^" line="113" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
         <mark key="[" line="499" column="69" />
@@ -556,14 +556,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHJvb21fY2hlY2tpblsncm9vbSddKQo=</text>
+      <register name="&quot;" type="4">
+        <text>对</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>对</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
