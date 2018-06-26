@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1529764330469">
@@ -276,7 +276,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/main.py" timestamp="1529919684399">
+      <file name="$USER_HOME$/jslib/main.py" timestamp="1529920368320">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -365,7 +365,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529919636347">
+      <file name="/Dummy.txt" timestamp="1529979256934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -431,11 +431,11 @@
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1529913297117">
-        <mark key="[" line="155" column="11" />
-        <mark key="]" line="155" column="80" />
-        <mark key="." line="155" column="80" />
-        <mark key="^" line="155" column="80" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1529979252995">
+        <mark key="[" line="166" column="11" />
+        <mark key="]" line="166" column="80" />
+        <mark key="." line="166" column="80" />
+        <mark key="^" line="166" column="80" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -567,22 +567,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiMgQGFwcC5yb3V0ZSgnL2pzL29wcC5qcycsIG1ldGhvZHM9WydHRVQnXSkKIyBkZWYgb3BwX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvb3BwLmpzJykKIwojCiMgQGFwcC5yb3V0ZSgnL2pzL3Rhc2suanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIHRhc2tfanMoKToKIyAgICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdqcy90YXNrLmpzJykKIwojCiMgQGFwcC5yb3V0ZSgnL2pzL2FjdGl2aXR5X2hpc3RvcnkuanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIGFjdGl2aXR5X2hpc3RvcnlfanMoKToKIyAgICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdqcy9hY3Rpdml0eV9oaXN0b3J5LmpzJykKCgojIEBhcHAucm91dGUoJy9qcy9leHByZXNzLmpzJywgbWV0aG9kcz1bJ0dFVCddKQojIGRlZiBleHByZXNzX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvZXhwcmVzcy5qcycpCgoKIyBAYXBwLnJvdXRlKCcvanMvcmVjb3JkLmpzJywgbWV0aG9kcz1bJ0dFVCddKQojIGRlZiByZWNvcmRfanMoKToKIyAgICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdqcy9yZWNvcmQuanMnKQojCiMKIyBAYXBwLnJvdXRlKCcvanMvcmVtaW5kZXIuanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIHJlbWluZGVyX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvcmVtaW5kZXIuanMnKQojCiMKIyBAYXBwLnJvdXRlKCcvanMvcG9wdXAuanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIHBvcHVwX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvcG9wdXAuanMnKQojCiMKIyBAYXBwLnJvdXRlKCcvanMvYmFja2dyb3VuZC5qcycsIG1ldGhvZHM9WydHRVQnXSkKIyBkZWYgYmFja2dyb3VuZF9qcygpOgojICAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoJ2pzL2JhY2tncm91bmQuanMnKQ==</text>
+        <text encoding="base64">I2VwID4gZGl2LnBiQm9keSA+IGRpdjpudGgtY2hpbGQoMykgPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDE0KQ==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>background.js'</text>
+        <text encoding="base64">I2VwID4gZGl2LnBiQm9keSA+IGRpdjpudGgtY2hpbGQoMykgPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDE0KQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvYmFja2dyb3VuZC5qcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTQpJykuaGlkZSgpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiMgQGFwcC5yb3V0ZSgnL2pzL29wcC5qcycsIG1ldGhvZHM9WydHRVQnXSkKIyBkZWYgb3BwX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvb3BwLmpzJykKIwojCiMgQGFwcC5yb3V0ZSgnL2pzL3Rhc2suanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIHRhc2tfanMoKToKIyAgICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdqcy90YXNrLmpzJykKIwojCiMgQGFwcC5yb3V0ZSgnL2pzL2FjdGl2aXR5X2hpc3RvcnkuanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIGFjdGl2aXR5X2hpc3RvcnlfanMoKToKIyAgICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdqcy9hY3Rpdml0eV9oaXN0b3J5LmpzJykKCgojIEBhcHAucm91dGUoJy9qcy9leHByZXNzLmpzJywgbWV0aG9kcz1bJ0dFVCddKQojIGRlZiBleHByZXNzX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvZXhwcmVzcy5qcycpCgoKIyBAYXBwLnJvdXRlKCcvanMvcmVjb3JkLmpzJywgbWV0aG9kcz1bJ0dFVCddKQojIGRlZiByZWNvcmRfanMoKToKIyAgICAgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdqcy9yZWNvcmQuanMnKQojCiMKIyBAYXBwLnJvdXRlKCcvanMvcmVtaW5kZXIuanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIHJlbWluZGVyX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvcmVtaW5kZXIuanMnKQojCiMKIyBAYXBwLnJvdXRlKCcvanMvcG9wdXAuanMnLCBtZXRob2RzPVsnR0VUJ10pCiMgZGVmIHBvcHVwX2pzKCk6CiMgICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvcG9wdXAuanMnKQojCiMKIyBAYXBwLnJvdXRlKCcvanMvYmFja2dyb3VuZC5qcycsIG1ldGhvZHM9WydHRVQnXSkKIyBkZWYgYmFja2dyb3VuZF9qcygpOgojICAgICByZXR1cm4gYXBwLnNlbmRfc3RhdGljX2ZpbGUoJ2pzL2JhY2tncm91bmQuanMnKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTUpID4gdGQ6bnRoLWNoaWxkKDIpJykuaGlkZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -592,30 +592,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTUpID4gdGQ6bnRoLWNoaWxkKDEpJykuaGlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTQpID4gdGQ6bnRoLWNoaWxkKDIpJykuaGlkZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvYmFja2dyb3VuZC5qcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTQpID4gdGQ6bnRoLWNoaWxkKDEpJykuaGlkZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2Zyb20gYmcnKWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWxlcnQoJ2Zyb20gYmchJykK</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTQpID4gdGQ6bnRoLWNoaWxkKDEpJykuaGlkZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWxlcnQoJ29wcGprJykK</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTQpID4gdGQ6bnRoLWNoaWxkKDEpJykuaGlkZSgpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>@app.route('/js/qcc.js', methods=['GET'])
-def qcc_js():
-    return app.send_static_file('js/qcc.js')</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTUpJykuaGlkZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTIpJykuaGlkZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
