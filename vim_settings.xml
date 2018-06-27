@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1529764330469">
@@ -245,6 +245,9 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1530110936453">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1529413514601">
         <mark key="[" line="151" column="33" />
         <mark key="]" line="151" column="30" />
@@ -279,10 +282,9 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530024999959">
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530110994460">
         <mark key="a" line="65" column="43" />
         <mark key="'" line="5" column="30" />
-        <mark key="[" line="80" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
         <mark key="[" line="0" column="0" />
@@ -583,13 +585,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>56304931a</text>
+        <text encoding="base64">SG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMwOTAxMzsgSG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMxMTAzMA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>56304931a</text>
+        <text encoding="base64">SG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMwOTAxMzsgSG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMxMTAzMA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
