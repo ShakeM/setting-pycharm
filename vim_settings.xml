@@ -1,11 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1529764330469">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/test.py" timestamp="1530544241566">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -23,9 +20,6 @@
         <mark key="]" line="67" column="28" />
         <mark key="." line="67" column="28" />
         <mark key="^" line="67" column="28" />
-      </file>
-      <file name="/a.dummy" timestamp="1529927362379">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/templates/index.html" timestamp="1530026062434">
         <mark key="[" line="7" column="1" />
@@ -261,9 +255,6 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="vim_settings.xml" timestamp="1529930416359">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb3_order.py" timestamp="1529413169403">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="43" column="0" />
@@ -277,17 +268,16 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1530110936453">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1529413514601">
         <mark key="[" line="151" column="33" />
         <mark key="]" line="151" column="30" />
         <mark key="." line="151" column="30" />
         <mark key="^" line="151" column="30" />
       </file>
-      <file name="/fragment.py" timestamp="1529940692781">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp_demo.py" timestamp="1530549365210">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
         <mark key="[" line="34" column="0" />
@@ -301,12 +291,12 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1530548532846">
-        <mark key="'" line="313" column="4" />
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="38" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1530549772589">
+        <mark key="'" line="311" column="4" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="^" line="321" column="25" />
+        <mark key="." line="322" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
         <mark key="[" line="23" column="13" />
@@ -359,6 +349,12 @@
         <mark key="^" line="226" column="7" />
         <mark key="." line="226" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp_sleep.py" timestamp="1530549627499">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/stocks.py" timestamp="1529249065703">
         <mark key="[" line="49" column="23" />
         <mark key="]" line="49" column="23" />
@@ -396,10 +392,10 @@
         <mark key="." line="23" column="295" />
         <mark key="^" line="23" column="295" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530544706616">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="/Dummy.txt" timestamp="1530549791755">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_15-05-29__1527404729.json" timestamp="1527419904269">
@@ -619,24 +615,25 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>UPDATE STATUS.HTML. 
-USE FOR LOOP TO GET A BETTER VIEW.</text>
+        <text>Keep booking's always True.</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Keep booking's always True.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZwo=</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBpbmRleCgpOgogICAgdGltZS5zbGVlcCg1KSAgIyC1pc67w+sKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2luZGV4Lmh0bWwnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>UPDATE STATUS.HTML. 
-USE FOR LOOP TO GET A BETTER VIEW.</text>
+        <text>@app.route('/sleep',methods=['GET'])
+def sleep():
+    time.sleep(10)
+    return 'awake'</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -646,25 +643,26 @@ USE FOR LOOP TO GET A BETTER VIEW.</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBteWFwcCBpbXBvcnQgcm9vbXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IFJPT01TCg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL3NsZWVwJyxtZXRob2RzPVsnR0VUJ10pCmRlZiBzbGVlcCgpOgogICAgdGltZS5zbGVlcCgxMCkKICAgIHJldHVybiAnYXdha2UnCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IFJPT01TCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBteWFwcCBpbXBvcnQgcm9vbXMK</text>
+      <register name="5" type="4">
+        <text>UPDATE STATUS.HTML. 
+USE FOR LOOP TO GET A BETTER VIEW.</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZnJvbSBteWFwcCBpbXBvcnQgcm9vbXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBteWFwcCBpbXBvcnQgcm9vbXMK</text>
+        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IFJPT01TCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IFJPT01TCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZnJvbSBteWFwcCBpbXBvcnQgcm9vbXMK</text>
