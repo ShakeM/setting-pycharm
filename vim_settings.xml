@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1529764330469">
@@ -301,12 +301,12 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1530543664876">
-        <mark key="'" line="309" column="4" />
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="19" />
-        <mark key="." line="34" column="19" />
-        <mark key="^" line="34" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1530548532846">
+        <mark key="'" line="313" column="4" />
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
         <mark key="[" line="23" column="13" />
