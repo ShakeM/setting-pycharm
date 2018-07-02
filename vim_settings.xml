@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1529764330469">
@@ -315,11 +315,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/tujia.py" timestamp="1529937925417">
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="46" />
-        <mark key="^" line="38" column="15" />
-        <mark key="." line="38" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/list3/tujia.py" timestamp="1530527987203">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="2121" />
+        <mark key="^" line="8" column="2121" />
+        <mark key="." line="8" column="2121" />
       </file>
       <file name="C:/Python27/Lib/smtplib.py" timestamp="1506178131527">
         <mark key="[" line="72" column="4" />
@@ -358,7 +358,7 @@
         <mark key="." line="23" column="295" />
         <mark key="^" line="23" column="295" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530027879850">
+      <file name="/Dummy.txt" timestamp="1530528001442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -585,13 +585,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">SG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMwOTAxMzsgSG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMxMTAzMA==</text>
+        <text>gr_user_id=2dfe3bbb-d59d-4ec7-a04a-3583af5c7b5e; tujia.com_UserSessionId=2d127c5f-25e0-4209-ba6e-aa2ba17c1a24; tujia.com_MobileContext_StatUVId=2caade2f-cd23-4c98-9437-217668cc810f; tujia.com_PortalContext_UserSessionId=87d6e38d-db77-4f23-b89c-5cede55069cb; __utma=196523689.1615393984.1502636438.1507733910.1512044216.14; bad_id797098a0-b29d-11e5-b3b1-49764155fe50=1b3dc531-e402-11e7-a648-6f9398adc6e5; _ga=GA1.2.1615393984.1502636438; bad_id165b4c70-a652-11e6-b76e-33c4a4da8f45=25309d61-e402-11e7-9efd-135cb6741dd3; tujia.com_PortalContext_RefUrl=https://www.tujia.com/; tujia.com_PortalContext_LongerRefUrl=https://www.tujia.com/; tujia.com_PortalContext_LandingUrl=http://www.tujia.com/api/pchome/homepage; tujia.com_PortalContext_GuestCount=0; tujia.com_PortalContext_BedCount=0; tujia.com_PortalContext_RoomCount=0; _gid=GA1.2.1300934119.1527908421; Hm_lvt_405c96e7f6bed44fb846abfe1f65c6f5=1527089576,1527258199,1527776490,1527908421; gr_cs1_2f2226db-b6f7-437e-91b9-209591762691=user_id%3A0; nice_id797098a0-b29d-11e5-b3b1-49764155fe50=16f014b1-6611-11e8-8187-43fd4f6f1706; tujia.com_PortalContext_VerifyCode=0140adc1-5896-475f-87eb-4b46572aeac7; tujia.com_PortalContext_LoginErrorTimes=0; tujia.com_PortalContext_UserToken=56abc4a4-e2b5-4567-aa41-71ced3ea63b4; tujia.com_PortalContext_UserId=3261105; gr_cs1_cb1d5cab-a489-4ec0-bf28-1fe6b1a8f98c=user_id%3A3261105; gr_session_id_1fa38dc3b3e047ffa08b14193945e261=cb1d5cab-a489-4ec0-bf28-1fe6b1a8f98c_true; tujia.com_PortalContext_Language=zh-CN; tujia.com_PortalContext_MerchantGlobalID=9e322f3a-7d82-4f4a-90bd-4b5040176ff4; tujia.com_PortalContext_SMerchantID=14248; tujia.com_PortalContext_StoreID=16478; tujia.com_PortalContext_GroupGlobalID=6e5b4683-0bb8-469c-b045-10f894d9a73d; gr_cs1_05cc4c8b-4b0e-429b-b0b4-3b52da030347=user_id%3A3261105; gr_session_id_b152364ae85c11b6=05cc4c8b-4b0e-429b-b0b4-3b52da030347_true; tujia.com_PortalContext_LoginName=13916673748; nice_id165b4c70-a652-11e6-b76e-33c4a4da8f45=25a222a1-6611-11e8-b9ee-3bd1c470d7e3; _gat=1; Hm_lpvt_405c96e7f6bed44fb846abfe1f65c6f5=1527908555</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMwOTAxMzsgSG1fbHZ0XzA5NzNmNjViNTNhZTdlNTdmOTQxOGRmY2Q0MTM1N2E4PTE1MjkwNjY2MzYsMTUyOTExMzkzNywxNTI5MjAxNTUyLDE1MjkzMDg4OTg7IFBMQVlfU0VTU0lPTj1cIjRlNzE4M2VmYzJhYjExMmQ5YzlhNTZkNDQyMjU5MzcxODc2NjkyZTAtaW5uTmFtZT0lRTYlOTglOUYlRTUlQUUlQkYmcGFjNGpTZXNzaW9uSWQ9ZmY5ODllZmYtMTEzOC00ZjQ3LWE0NGYtYzM3MWU5ZmU3YWE2JnVzZXJDb2RlPWFpcmJuYl9jaGVuJmlubklkPTgxOTA0XCI7IEhtX2xwdnRfMDk3M2Y2NWI1M2FlN2U1N2Y5NDE4ZGZjZDQxMzU3YTg9MTUyOTMxMTAzMA==</text>
+        <text>gr_user_id=2dfe3bbb-d59d-4ec7-a04a-3583af5c7b5e; tujia.com_UserSessionId=2d127c5f-25e0-4209-ba6e-aa2ba17c1a24; tujia.com_MobileContext_StatUVId=2caade2f-cd23-4c98-9437-217668cc810f; tujia.com_PortalContext_UserSessionId=87d6e38d-db77-4f23-b89c-5cede55069cb; __utma=196523689.1615393984.1502636438.1507733910.1512044216.14; bad_id797098a0-b29d-11e5-b3b1-49764155fe50=1b3dc531-e402-11e7-a648-6f9398adc6e5; _ga=GA1.2.1615393984.1502636438; bad_id165b4c70-a652-11e6-b76e-33c4a4da8f45=25309d61-e402-11e7-9efd-135cb6741dd3; tujia.com_PortalContext_RefUrl=https://www.tujia.com/; tujia.com_PortalContext_LongerRefUrl=https://www.tujia.com/; tujia.com_PortalContext_LandingUrl=http://www.tujia.com/api/pchome/homepage; tujia.com_PortalContext_GuestCount=0; tujia.com_PortalContext_BedCount=0; tujia.com_PortalContext_RoomCount=0; _gid=GA1.2.1300934119.1527908421; Hm_lvt_405c96e7f6bed44fb846abfe1f65c6f5=1527089576,1527258199,1527776490,1527908421; gr_cs1_2f2226db-b6f7-437e-91b9-209591762691=user_id%3A0; nice_id797098a0-b29d-11e5-b3b1-49764155fe50=16f014b1-6611-11e8-8187-43fd4f6f1706; tujia.com_PortalContext_VerifyCode=0140adc1-5896-475f-87eb-4b46572aeac7; tujia.com_PortalContext_LoginErrorTimes=0; tujia.com_PortalContext_UserToken=56abc4a4-e2b5-4567-aa41-71ced3ea63b4; tujia.com_PortalContext_UserId=3261105; gr_cs1_cb1d5cab-a489-4ec0-bf28-1fe6b1a8f98c=user_id%3A3261105; gr_session_id_1fa38dc3b3e047ffa08b14193945e261=cb1d5cab-a489-4ec0-bf28-1fe6b1a8f98c_true; tujia.com_PortalContext_Language=zh-CN; tujia.com_PortalContext_MerchantGlobalID=9e322f3a-7d82-4f4a-90bd-4b5040176ff4; tujia.com_PortalContext_SMerchantID=14248; tujia.com_PortalContext_StoreID=16478; tujia.com_PortalContext_GroupGlobalID=6e5b4683-0bb8-469c-b045-10f894d9a73d; gr_cs1_05cc4c8b-4b0e-429b-b0b4-3b52da030347=user_id%3A3261105; gr_session_id_b152364ae85c11b6=05cc4c8b-4b0e-429b-b0b4-3b52da030347_true; tujia.com_PortalContext_LoginName=13916673748; nice_id165b4c70-a652-11e6-b76e-33c4a4da8f45=25a222a1-6611-11e8-b9ee-3bd1c470d7e3; _gat=1; Hm_lpvt_405c96e7f6bed44fb846abfe1f65c6f5=1527908555</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
@@ -600,7 +600,7 @@
         <text encoding="base64">PGgzPre/zKzOtLnYOjwvaDM+CjxwPnt7ZGJfdW5jbG9zZX19PC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwLmRlYnVnID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGprCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -610,28 +610,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLmRlYnVnID0gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc9JyAqIDEwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhyLCBlbnN1cmVfYXNjaWk9RmFsc2UpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCc9JyAqIDEwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoanNvbi5kdW1wcyhyLCBlbnN1cmVfYXNjaWk9RmFsc2UpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByWydwbGF0Zm9ybSddID09IHUnzqLQxSc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciByIGluIHRvdGFsX29yZGVyczoK</text>
+        <text encoding="base64">ICAgICAgICBpZiByWydwbGF0Zm9ybSddID09IHUnzqLQxSc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc9JyAqIDQwICsgJ9POwOu2qbWlOicgKyBzdHIobGVuKHRvdGFsX29yZGVycykpICsgJ7j2JyArICc9JyAqIDQwKQo=</text>
+        <text encoding="base64">ICAgIGZvciByIGluIHRvdGFsX29yZGVyczoK</text>
       </register>
       <register name=":" type="4">
         <text>action PreviousTab</text>
