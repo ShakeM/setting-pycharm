@@ -166,11 +166,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" timestamp="1530103313368">
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" timestamp="1530613185856">
         <mark key="'" line="100" column="21" />
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="28" column="49" />
-        <mark key="." line="28" column="49" />
+        <mark key="[" line="28" column="70" />
+        <mark key="]" line="28" column="70" />
+        <mark key="." line="28" column="70" />
         <mark key="^" line="87" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/main.py" timestamp="1527349528098">
@@ -303,10 +303,6 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530110994460">
-        <mark key="a" line="65" column="43" />
-        <mark key="'" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
         <mark key="[" line="0" column="0" />
@@ -499,6 +495,12 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/sql.py" timestamp="1530613212669">
+        <mark key="[" line="33" column="36" />
+        <mark key="]" line="33" column="59" />
+        <mark key="." line="33" column="59" />
+        <mark key="^" line="33" column="59" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="54" column="2" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
@@ -615,13 +617,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>127</text>
+        <text>56304931a</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>127</text>
+        <text>56304931a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
