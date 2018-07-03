@@ -177,9 +177,6 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" timestamp="1530631536236">
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/main.py" timestamp="1527349528098">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="14" column="22" />
@@ -397,11 +394,8 @@
         <mark key="." line="23" column="295" />
         <mark key="^" line="23" column="295" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530632560945">
+      <file name="/Dummy.txt" timestamp="1530633416162">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_15-05-29__1527404729.json" timestamp="1527419904269">
         <mark key="[" line="999" column="69" />
@@ -619,8 +613,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>更新requirements</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q3JlYXRlIGJyYW5jaGVzLgo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -635,7 +629,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uLmFkZChzdG9jaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Q3JlYXRlIGJyYW5jaGVzLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,25 +639,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oc2VsZi5vdXRwZGR1dF9wYXRoLCBzZWxmLmZpbGVfbmFtZSkucmVwbGFjZSgnXFwnLCAnLycpLnJlcGxhY2UoJy8nLCAnLy8nKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oc2VsZi5vdXRwZGR1dF9wYXRoLCBzZWxmLmZpbGVfbmFtZSkucmVwbGFjZSgnXFwnLCAnLycpLnJlcGxhY2UoJy8nLCAnLy8nKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGIuY3JlYXRlX2FsbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZGIuY3JlYXRlX2FsbCgpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGIuY3JlYXRlX2FsbCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
