@@ -291,12 +291,12 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1530549772589">
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1530550714292">
         <mark key="'" line="311" column="4" />
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
+        <mark key="[" line="329" column="29" />
+        <mark key="]" line="329" column="29" />
         <mark key="^" line="321" column="25" />
-        <mark key="." line="322" column="0" />
+        <mark key="." line="329" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
         <mark key="[" line="23" column="13" />
@@ -392,7 +392,7 @@
         <mark key="." line="23" column="295" />
         <mark key="^" line="23" column="295" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530549791755">
+      <file name="/Dummy.txt" timestamp="1530550722429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -615,13 +615,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Keep booking's always True.</text>
+        <text>127</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Keep booking's always True.</text>
+        <text>127</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
