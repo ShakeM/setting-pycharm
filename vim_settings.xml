@@ -322,8 +322,8 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/run_stock.py" timestamp="1527382379947">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/run_stock.py" timestamp="1530633722959">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="1" column="0" />
@@ -394,8 +394,10 @@
         <mark key="." line="23" column="295" />
         <mark key="^" line="23" column="295" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530633416162">
+      <file name="/Dummy.txt" timestamp="1530633725376">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_15-05-29__1527404729.json" timestamp="1527419904269">
         <mark key="[" line="999" column="69" />
@@ -613,14 +615,14 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q3JlYXRlIGJyYW5jaGVzLgo=</text>
+      <register name="&quot;" type="4">
+        <text>Stock scrapy</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>更新requirements</text>
+        <text>Stock scrapy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
