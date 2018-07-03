@@ -318,6 +318,11 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530624155452">
+        <mark key="[" line="114" column="44" />
+        <mark key="]" line="114" column="44" />
+        <mark key="." line="114" column="44" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -402,7 +407,7 @@
         <mark key="." line="23" column="295" />
         <mark key="^" line="23" column="295" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530623059497">
+      <file name="/Dummy.txt" timestamp="1530624230268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -630,13 +635,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Upload the project</text>
+        <text>'</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Upload the project</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
