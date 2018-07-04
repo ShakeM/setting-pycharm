@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1529764330469">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/test.py" timestamp="1530544241566">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/airbnb.py" timestamp="1529756245417">
         <mark key="[" line="22" column="18" />
@@ -12,65 +15,45 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/index_stock.json" timestamp="1526739600789">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb_order.py" timestamp="1530544012383">
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529738700976">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/list3/templates/index.html" timestamp="1530026062434">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb2_order.py" timestamp="1529413148988">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="8" />
-        <mark key="." line="47" column="8" />
-        <mark key="^" line="44" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/a#.py" timestamp="1526697762970">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/untitled3/main.py" timestamp="1528388842643">
+        <mark key="'" line="34" column="24" />
+        <mark key="[" line="103" column="37" />
+        <mark key="]" line="103" column="37" />
+        <mark key="." line="103" column="37" />
+        <mark key="^" line="103" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1529927362379">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/stocks.py" timestamp="1529249065703">
-        <mark key="[" line="49" column="23" />
-        <mark key="]" line="49" column="23" />
-        <mark key="." line="49" column="23" />
-        <mark key="^" line="49" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/__init__.py" timestamp="1529804470632">
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/__init__.py" timestamp="1530543791382">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index.json" timestamp="1527009469862">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/items.py" timestamp="1527003833747">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/utils/q_thread.py" timestamp="1529811629368">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/test.py" timestamp="1527909168932">
-        <mark key="'" line="33" column="220" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="38" />
-        <mark key="." line="34" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/index_stock.json" timestamp="1526739600789">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/zhenguo.py" timestamp="1529757332965">
         <mark key="'" line="122" column="3" />
@@ -79,7 +62,100 @@
         <mark key="." line="56" column="20" />
         <mark key="^" line="56" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-25_00-42-29__1527180149.json" timestamp="1527180561661">
+      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1529324131664">
+        <mark key="'" line="8" column="999" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/run_index.py" timestamp="1527354178649">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/xueqiu.py" timestamp="1526661373730">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/BD Cookie" timestamp="1530614385058">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/index.wsgi" timestamp="1527168080825">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb2_order.py" timestamp="1529413148988">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="8" />
+        <mark key="." line="47" column="8" />
+        <mark key="^" line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb3_order.py" timestamp="1530543832258">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/__init__.py" timestamp="1530614344690">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/config.py" timestamp="1530615193205">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/airbnb.py" timestamp="1529339679459">
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="107" column="8" />
+        <mark key="." line="107" column="8" />
+        <mark key="^" line="134" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/utils/database.py" timestamp="1529927358516">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/mayi.py" timestamp="1529756447488">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="57" column="26" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_demo.py" timestamp="1529731954928">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/xiaozhu_order.py" timestamp="1530543918678">
+        <mark key="[" line="58" column="17" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+        <mark key="^" line="58" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/airbnb3.py" timestamp="1529413575193">
+        <mark key="[" line="133" column="33" />
+        <mark key="]" line="133" column="30" />
+        <mark key="^" line="133" column="30" />
+        <mark key="." line="133" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-25_23-54-30__1527263670.json" timestamp="1527300257053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -90,274 +166,16 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/booking.py" timestamp="1526223084593">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="295" />
-        <mark key="." line="23" column="295" />
-        <mark key="^" line="23" column="295" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-27_22-03-00__1527429780.json" timestamp="1527430259511">
-        <mark key="[" line="7423" column="266" />
-        <mark key="]" line="7423" column="266" />
-        <mark key="." line="7423" column="266" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/run_stock.py" timestamp="1527382379947">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/__init__.py" timestamp="1529336152139">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/py36project/indexer/main.py" timestamp="1526130186067">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/myapp.py" timestamp="1527427234209">
-        <mark key="'" line="135" column="4" />
-        <mark key="[" line="139" column="53" />
-        <mark key="]" line="191" column="66" />
-        <mark key="^" line="53" column="61" />
-        <mark key="." line="191" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" timestamp="1529943432194">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="9" />
-        <mark key="." line="90" column="9" />
-        <mark key="^" line="90" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/verification.py" timestamp="1527263244191">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529736684379">
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="33" />
-        <mark key="^" line="68" column="33" />
-        <mark key="." line="68" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/main.py" timestamp="1529804345332">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_15-05-29__1527404729.json" timestamp="1527419904269">
-        <mark key="[" line="999" column="69" />
-        <mark key="]" line="999" column="69" />
-        <mark key="." line="999" column="69" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" timestamp="1529943327176">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="15" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/run_index.py" timestamp="1527354178649">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
-        <mark key="[" line="499" column="69" />
-        <mark key="]" line="499" column="69" />
-        <mark key="." line="499" column="69" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="149" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/airbnb.py" timestamp="1529339679459">
-        <mark key="[" line="107" column="8" />
-        <mark key="]" line="107" column="8" />
-        <mark key="." line="107" column="8" />
-        <mark key="^" line="134" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/airbnb3.py" timestamp="1529413575193">
-        <mark key="[" line="133" column="33" />
-        <mark key="]" line="133" column="30" />
-        <mark key="^" line="133" column="30" />
-        <mark key="." line="133" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-27_04-00-29__1527364829.json" timestamp="1527399570412">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="8" column="48" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_order.py" timestamp="1529736056518">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="30" column="20" />
-        <mark key="^" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-      </file>
-      <file name="$USER_HOME$/index_flask/app.py" timestamp="1529930208160">
-        <mark key="'" line="153" column="14" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/index.wsgi" timestamp="1527168080825">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="49" />
-        <mark key="." line="7" column="49" />
-        <mark key="^" line="7" column="49" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_demo.py" timestamp="1529731954928">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="20" column="15" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/tujia.py" timestamp="1529324131664">
-        <mark key="'" line="8" column="999" />
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1529930416359">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1529942313627">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/utils/database.py" timestamp="1529927358516">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="/fragment.py" timestamp="1529940692781">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/yijia_order.py" timestamp="1529738400750">
-        <mark key="[" line="24" column="49" />
-        <mark key="]" line="24" column="57" />
-        <mark key="." line="24" column="57" />
-        <mark key="^" line="24" column="57" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" timestamp="1527900434801">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="102" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/untitled3/main.py" timestamp="1528388842643">
-        <mark key="'" line="34" column="24" />
-        <mark key="[" line="103" column="37" />
-        <mark key="]" line="103" column="37" />
-        <mark key="." line="103" column="37" />
-        <mark key="^" line="103" column="37" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/mayi.py" timestamp="1529756447488">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="57" column="26" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/zhenguo_order.py" timestamp="1529736160553">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="66" column="3" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="53" column="13" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/airbnb3.py" timestamp="1529756468539">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="26" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/xueqiu.py" timestamp="1526661373730">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/BD Cookie" timestamp="1527007854512">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/xiaozhu.py" timestamp="1529940545309">
-        <mark key="'" line="148" column="3" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="^" line="148" column="3" />
-        <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-25_23-54-30__1527263670.json" timestamp="1527300257053">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Python27/Lib/smtplib.py" timestamp="1506178131527">
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="226" column="7" />
-        <mark key="^" line="226" column="7" />
-        <mark key="." line="226" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1529943842138">
-        <mark key="a" line="89" column="7" />
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="37" column="37" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="37" column="37" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb3_order.py" timestamp="1529413169403">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1529413514601">
-        <mark key="[" line="151" column="33" />
-        <mark key="]" line="151" column="30" />
-        <mark key="." line="151" column="30" />
-        <mark key="^" line="151" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/middlewares.py" timestamp="1527009757170">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="C:/py36project/indexer/indexer/spiders/xueqiu.py" timestamp="1526132298022">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/__init__.py" timestamp="1529336152139">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/main.py" timestamp="1527349528098">
         <mark key="'" line="15" column="0" />
@@ -366,10 +184,231 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530690854435">
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-25_00-42-29__1527180149.json" timestamp="1527180561661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529738700976">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/yijia_order.py" timestamp="1529738400750">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/zhenguo_order.py" timestamp="1530543965784">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/tujia_order.py" timestamp="1530544045377">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/templates/form.html" timestamp="1530541718424">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="42" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/templates/status.html" timestamp="1530536077555">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb2_order.py" timestamp="1530543686440">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="53" column="13" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" timestamp="1530614336818">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="102" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/test.py" timestamp="1530614366918">
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="66" column="20" />
+        <mark key="." line="66" column="20" />
+        <mark key="^" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb3_order.py" timestamp="1529413169403">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/config.py" timestamp="1530543628170">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="/Python Console" timestamp="1530622178746">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1529413514601">
+        <mark key="[" line="151" column="33" />
+        <mark key="]" line="151" column="30" />
+        <mark key="." line="151" column="30" />
+        <mark key="^" line="151" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp_demo.py" timestamp="1530549365210">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="61" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp.py" timestamp="1530550714292">
+        <mark key="'" line="311" column="4" />
+        <mark key="[" line="329" column="29" />
+        <mark key="]" line="329" column="29" />
+        <mark key="^" line="321" column="25" />
+        <mark key="." line="329" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" timestamp="1530624155452">
+        <mark key="[" line="114" column="44" />
+        <mark key="]" line="114" column="44" />
+        <mark key="." line="114" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mail/Parser.py" timestamp="1506176242476">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/airbnb2.py" timestamp="1529756263744">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/run_stock.py" timestamp="1530633722959">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529736684379">
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="33" />
+        <mark key="^" line="68" column="33" />
+        <mark key="." line="68" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index.json" timestamp="1527009469862">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/tujia.py" timestamp="1530527987203">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="2121" />
+        <mark key="^" line="8" column="2121" />
+        <mark key="." line="8" column="2121" />
+      </file>
+      <file name="C:/Python27/Lib/smtplib.py" timestamp="1506178131527">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="226" column="7" />
+        <mark key="^" line="226" column="7" />
+        <mark key="." line="226" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/myapp_sleep.py" timestamp="1530549627499">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/stocks.py" timestamp="1529249065703">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/zhenguo_order.py" timestamp="1529736160553">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="66" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/templates/price.html" timestamp="1530541725858">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/test.py" timestamp="1527909168932">
+        <mark key="'" line="33" column="220" />
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="34" column="37" />
+        <mark key="^" line="34" column="38" />
+        <mark key="." line="34" column="37" />
+      </file>
+      <file name="C:/py36project/indexer/indexer/spiders/xueqiu.py" timestamp="1526132298022">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list/booking.py" timestamp="1526223084593">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="295" />
+        <mark key="." line="23" column="295" />
+        <mark key="^" line="23" column="295" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530633725376">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_15-05-29__1527404729.json" timestamp="1527419904269">
+        <mark key="[" line="999" column="69" />
+        <mark key="]" line="999" column="69" />
+        <mark key="." line="999" column="69" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/verification.py" timestamp="1527263244191">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
@@ -377,17 +416,30 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb_order.py" timestamp="1529730560507">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="82" column="19" />
-        <mark key="." line="82" column="19" />
-        <mark key="^" line="82" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/list3/xiaozhu.py" timestamp="1529940545309">
+        <mark key="'" line="148" column="3" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="148" column="3" />
+        <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="61" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/main.py" timestamp="1529804345332">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-27_04-00-29__1527364829.json" timestamp="1527399570412">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/list3/booking.py" timestamp="1530544668039">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="52" column="36" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/zhenguo.py" timestamp="1529735662540">
         <mark key="'" line="15" column="10" />
@@ -396,67 +448,60 @@
         <mark key="^" line="101" column="8" />
         <mark key="." line="137" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" timestamp="1529248780608">
-        <mark key="'" line="100" column="21" />
-        <mark key="[" line="91" column="66" />
-        <mark key="]" line="91" column="65" />
-        <mark key="." line="91" column="65" />
-        <mark key="^" line="87" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/list3/airbnb3.py" timestamp="1529756468539">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/booking.py" timestamp="1529756506884">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="49" column="36" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_order.py" timestamp="1529736056518">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="26" column="41" />
+        <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/airbnb2.py" timestamp="1529756263744">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-27_22-03-00__1527429780.json" timestamp="1527430259511">
+        <mark key="[" line="7423" column="266" />
+        <mark key="]" line="7423" column="266" />
+        <mark key="." line="7423" column="266" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/list3/tujia.py" timestamp="1529937925417">
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="46" />
-        <mark key="^" line="38" column="15" />
-        <mark key="." line="38" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/a#.py" timestamp="1526697762970">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1530690850581">
-        <mark key="[" line="194" column="53" />
-        <mark key="]" line="194" column="56" />
-        <mark key="." line="194" column="56" />
-        <mark key="^" line="194" column="56" />
+      <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-27_21-03-55__1527426235.json" timestamp="1527427391538">
+        <mark key="[" line="499" column="69" />
+        <mark key="]" line="499" column="69" />
+        <mark key="." line="499" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/test.py" timestamp="1528015042304">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb_order.py" timestamp="1529730560507">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="82" column="19" />
+        <mark key="." line="82" column="19" />
+        <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="14" />
-        <mark key="." line="23" column="14" />
-        <mark key="^" line="23" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/list/myapp.py" timestamp="1527427234209">
+        <mark key="'" line="135" column="4" />
+        <mark key="[" line="139" column="53" />
+        <mark key="]" line="191" column="66" />
+        <mark key="^" line="53" column="61" />
+        <mark key="." line="191" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/middlewares.py" timestamp="1527009757170">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="9" column="53" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="46" column="27" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="47" column="53" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="28" column="2" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="29" column="6" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="52" column="20" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="53" column="46" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="54" column="2" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="75" column="14" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="77" column="14" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="86" column="46" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
@@ -546,33 +591,47 @@
       <jump line="56" column="4" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
       <jump line="96" column="0" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
       <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
+      <jump line="13" column="42" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
+      <jump line="35" column="25" filename="$USER_HOME$/PycharmProjects/list3/verify_status/app.py" />
+      <jump line="68" column="43" filename="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" />
+      <jump line="131" column="8" filename="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" />
+      <jump line="5" column="30" filename="$USER_HOME$/PycharmProjects/list3/verify_status/fanqie.py" />
+      <jump line="404" column="13" filename="$USER_HOME$/PycharmProjects/list3/myapp.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/list3/myapp.py" />
+      <jump line="427" column="4" filename="$USER_HOME$/PycharmProjects/list3/myapp.py" />
+      <jump line="13" column="25" filename="$USER_HOME$/PycharmProjects/list3/templates/status.html" />
+      <jump line="67" column="0" filename="$USER_HOME$/PycharmProjects/list3/templates/form.html" />
+      <jump line="79" column="94" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
           <key char="105" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>hide</text>
+        <text>Stock scrapy</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>hide</text>
+        <text>Stock scrapy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCg1KScpLmhpZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uLmFkZChzdG9jaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCd0ZXN0JykK</text>
+        <text encoding="base64">Q3JlYXRlIGJyYW5jaGVzLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -582,28 +641,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ860uMTH+NPyJykK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oc2VsZi5vdXRwZGR1dF9wYXRoLCBzZWxmLmZpbGVfbmFtZSkucmVwbGFjZSgnXFwnLCAnLycpLnJlcGxhY2UoJy8nLCAnLy8nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICI8YnV0dG9uPruqtqs8L2J1dHRvbj4iICsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICI8YnV0dG9uPiIgKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICI8YnV0dG9uPiIgKwo=</text>
+        <text encoding="base64">ZGIuY3JlYXRlX2FsbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICI8YnV0dG9uPjw+IiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZGIuY3JlYXRlX2FsbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
@@ -640,7 +699,6 @@
         <entry encoding="base64">XDxBUElcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>s</entry>
         <entry>saveas</entry>
@@ -656,9 +714,10 @@
         <entry>action PrevSplitter</entry>
         <entry>action CloseAllEditorsButActive</entry>
         <entry>wq</entry>
-        <entry>action PreviousTab</entry>
         <entry>action Replace</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVRhYlJpZ2h0</entry>
         <entry>action MoveTabRight</entry>
       </history-cmd>
       <history-expr />
