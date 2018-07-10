@@ -393,11 +393,11 @@
         <mark key="^" line="321" column="25" />
         <mark key="." line="329" column="29" />
       </file>
-      <file name="$USER_HOME$/flaskbook/static/index.html" timestamp="1531208320942">
+      <file name="$USER_HOME$/flaskbook/static/index.html" timestamp="1531209203108">
         <mark key="[" line="9" column="81" />
-        <mark key="]" line="9" column="86" />
+        <mark key="]" line="9" column="81" />
         <mark key="^" line="9" column="86" />
-        <mark key="." line="9" column="86" />
+        <mark key="." line="9" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb3_order.py" timestamp="1529413169403">
         <mark key="'" line="43" column="0" />
@@ -441,7 +441,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531208258176">
+      <file name="/Dummy.txt" timestamp="1531209210804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -633,14 +633,14 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>。</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>render_template,</text>
+        <text>。</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
