@@ -441,7 +441,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531209210804">
+      <file name="/Dummy.txt" timestamp="1531210118601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -517,6 +517,11 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/flaskbook/index.wsgi" timestamp="1531210112882">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -633,8 +638,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -649,7 +654,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uLmFkZChzdG9jaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -659,28 +664,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdpbmRleC5odG1sJykK</text>
+        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAncmVxdWVzdHMnKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdpbmRleC5odG1sJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgZwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgZwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
