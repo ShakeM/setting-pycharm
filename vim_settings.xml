@@ -441,7 +441,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531210118601">
+      <file name="/Dummy.txt" timestamp="1531298101687">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -500,6 +500,12 @@
         <mark key="]" line="8" column="2121" />
         <mark key="^" line="8" column="2121" />
         <mark key="." line="8" column="2121" />
+      </file>
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1531298056870">
+        <mark key="[" line="184" column="130" />
+        <mark key="]" line="184" column="130" />
+        <mark key="^" line="185" column="122" />
+        <mark key="." line="184" column="130" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -638,23 +644,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>||</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>。</text>
+        <text>||</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXNzaW9uLmFkZChzdG9jaykK</text>
+        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCg1KSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoNCkgID4gdGQ6bnRoLWNoaWxkKDIpJykudGV4dCgpID09PSAnQ2hpbmEgLSBQUkMnIG9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJCgnI2VwID4gZGl2LnBiQm9keSA+IGRpdjpudGgtY2hpbGQoNSkgPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDQpICA+IHRkOm50aC1jaGlsZCgyKScpLnRleHQoKSA9PT0gJ0NoaW5hIC0gUFJDJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -664,28 +670,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAncmVxdWVzdHMnKSkK</text>
+        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAncmVxdWVzdHMnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdpbmRleC5odG1sJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdpbmRleC5odG1sJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgZwo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdAo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgZwo=</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
