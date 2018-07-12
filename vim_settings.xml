@@ -322,11 +322,11 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/main.py" timestamp="1530782706924">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="11" />
+      <file name="$USER_HOME$/jslib/main.py" timestamp="1531374093060">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
         <mark key="'" line="24" column="0" />
@@ -441,7 +441,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531298101687">
+      <file name="/Dummy.txt" timestamp="1531298407614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -645,22 +645,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>||</text>
+        <text>dict({'a': 'b'})</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>||</text>
+        <text>dict({'a': 'b'})</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCg1KSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoNCkgID4gdGQ6bnRoLWNoaWxkKDIpJykudGV4dCgpID09PSAnQ2hpbmEgLSBQUkMnIG9yCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkaWN0KHsnYSc6ICdiJ30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJCgnI2VwID4gZGl2LnBiQm9keSA+IGRpdjpudGgtY2hpbGQoNSkgPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDQpICA+IHRkOm50aC1jaGlsZCgyKScpLnRleHQoKSA9PT0gJ0NoaW5hIC0gUFJDJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -670,28 +670,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBkYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAncmVxdWVzdHMnKSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd0ZXN0JzogJ3Rlc3REYXRhJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIGFwcC5zZW5kX3N0YXRpY19maWxlKCdpbmRleC5odG1sJykK</text>
+        <text encoding="base64">ZGIgPSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJCgnI2VwID4gZGl2LnBiQm9keSA+IGRpdjpudGgtY2hpbGQoNSkgPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDQpICA+IHRkOm50aC1jaGlsZCgyKScpLnRleHQoKSA9PT0gJ0NoaW5hIC0gUFJDJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAncmVxdWVzdHMnKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
@@ -822,7 +822,7 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
