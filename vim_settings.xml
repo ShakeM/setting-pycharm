@@ -132,6 +132,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/twins/dash.txt" timestamp="1531389444932">
+        <mark key="[" line="290" column="12" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/templates/index.html" timestamp="1530026062434">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="2" />
@@ -173,6 +178,13 @@
         <mark key="]" line="191" column="66" />
         <mark key="^" line="53" column="61" />
         <mark key="." line="191" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/twins/main.py" timestamp="1531389671317">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="35" column="10" />
+        <mark key="." line="35" column="10" />
+        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/util/verification.py" timestamp="1527263244191">
         <mark key="[" line="11" column="0" />
@@ -531,9 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="14" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="77" column="14" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
-      <jump line="86" column="46" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="8" column="46" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="26" column="60" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/settings.py" />
       <jump line="29" column="17" filename="$USER_HOME$/PycharmProjects/list/test.py" />
@@ -631,6 +640,9 @@
       <jump line="13" column="25" filename="$USER_HOME$/PycharmProjects/list3/templates/status.html" />
       <jump line="67" column="0" filename="$USER_HOME$/PycharmProjects/list3/templates/form.html" />
       <jump line="79" column="94" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
+      <jump line="14" column="27" filename="$USER_HOME$/PycharmProjects/twins/main.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/twins/main.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/twins/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -645,13 +657,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dict({'a': 'b'})</text>
+        <text>duplicate_in_all</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dict({'a': 'b'})</text>
+        <text>duplicate_in_all</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
@@ -660,7 +672,7 @@
         <text encoding="base64">ICAgIHJldHVybiBkaWN0KHsnYSc6ICdiJ30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UoKQo=</text>
+        <text encoding="base64">c3RvcCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -670,28 +682,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBkYgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQocmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodlsxXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICd0ZXN0JzogJ3Rlc3REYXRhJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGIgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb3VudGVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJCgnI2VwID4gZGl2LnBiQm9keSA+IGRpdjpudGgtY2hpbGQoNSkgPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDQpICA+IHRkOm50aC1jaGlsZCgyKScpLnRleHQoKSA9PT0gJ0NoaW5hIC0gUFJDJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAneWFnbWFpbCcpKQo=</text>
+        <text encoding="base64">cHJpbnQoYWxsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKGFwcF9yb290LCAncmVxdWVzdHMnKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9ucy5Db2pqamprawo=</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
