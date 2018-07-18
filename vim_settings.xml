@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list3/airbnb.py" timestamp="1529756245417">
@@ -513,11 +513,11 @@
         <mark key="^" line="8" column="2121" />
         <mark key="." line="8" column="2121" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1531897075079">
-        <mark key="[" line="306" column="31" />
-        <mark key="]" line="306" column="31" />
-        <mark key="." line="306" column="31" />
-        <mark key="^" line="306" column="26" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1531898052871">
+        <mark key="[" line="330" column="31" />
+        <mark key="]" line="330" column="31" />
+        <mark key="." line="330" column="31" />
+        <mark key="^" line="330" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
