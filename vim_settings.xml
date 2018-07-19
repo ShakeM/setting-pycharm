@@ -15,7 +15,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/jslib/static/index.html" timestamp="1531991984841" />
+      <file name="$USER_HOME$/jslib/static/index.html" timestamp="1531994715885" />
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529738700976">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -37,6 +37,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1531994825595">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/templates/form.html" timestamp="1530541718424">
         <mark key="'" line="64" column="0" />
@@ -341,13 +347,13 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/main.py" timestamp="1531992000480">
-        <mark key="a" line="37" column="10" />
+      <file name="$USER_HOME$/jslib/main.py" timestamp="1531994785163">
+        <mark key="a" line="42" column="10" />
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="1" column="68" />
-        <mark key="^" line="1" column="68" />
-        <mark key="." line="1" column="68" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
         <mark key="'" line="24" column="0" />
@@ -462,7 +468,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531993046289">
+      <file name="/Dummy.txt" timestamp="1531994834867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -665,23 +671,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMz612sbfsr2jujwvaDM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>使用指南</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>左击右上角Altium的标志LOGO，再点击保存</text>
+        <text>使用指南</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxoMz612sbfsr2jujwvaDM+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ3R1dG9yaWFsLmh0bWwnKQoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwPmQ8L3A+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuamI1MS5uZXQvc29mdGpjLzQxNzEyNS5odG1sIiB0YXJnZXQ9Il9ibGFuayI+0ruhorCy17DAqdW5s8zQ8jwvYT4KICAgIDxpZnJhbWUgc3JjPSJodHRwOi8vbG9jYWxob3N0OjYzMzQyL2pzbGliL3N0YXRpYy9pbmRleC5odG1sP19panQ9bnQ4NGZlZHI0bjNicmRvN25wZ2pkcWMwc2MiIGlkPSJpbm5lckZyYW1lIiBmcmFtZWJvcmRlcj0iMCI+PC9pZnJhbWU+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uYm9vdGNzcy5jb20vanF1ZXJ5LzMuMy4xL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0PgogICAgPCEtLTxzY3JpcHQ+LS0+CiAgICAgICAgPCEtLSQoZnVuY3Rpb24gKCkgey0tPgogICAgICAgICAgICA8IS0taWYgKHNlbGYuZnJhbWVFbGVtZW50LmlkID09PSAnaW5uZXJGcmFtZScpIHstLT4KICAgICAgICAgICAgICAgIDwhLS12YXIgdXJsID0gImh0dHBzOi8vanNsaWIuYXBwbGluemkuY29tL2pzb24/Y2FsbGJhY2s9PyI7LS0+CiAgICAgICAgICAgICAgICA8IS0tJC5nZXRKU09OKHVybCwgZnVuY3Rpb24gKGRhdGEpIHstLT4KICAgICAgICAgICAgICAgICAgICA8IS0tYWxlcnQoZGF0YS5hZ2UpOy0tPgogICAgICAgICAgICAgICAgPCEtLX0pLS0+CiAgICAgICAgICAgIDwhLS19LS0+CiAgICAgICAgPCEtLX0pLS0+CgogICAgPCEtLTwvc2NyaXB0Pi0tPg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -691,28 +697,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwPrXju/cgTE9BRCBVTlBBQ0tFRCjU2MjrzrS94tG5tcSwstewsPwpINGh1PG41bLF1NpDxcy1xEFsdGl1bSBEaXJlY3Rvcs7EvP680DwvcD4K</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ3R1dG9yaWFsLmh0bWwnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxwPtPSyc+9x0RldmVsb3BlciBtb2RlKL+qt6LV38Sjyr0ptPK/qjwvcD4K</text>
+        <text encoding="base64">ICAgIDxwPmQ8L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxwPrXju/cgTE9BRCBVTlBBQ0tFRCjU2MjrzrS94tG5tcSwstewsPwpINGh1PG41bLF1NpDxcy1xEFsdGl1bSBEaXJlY3Rvcs7EvP680DwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwPjxwPjwvcD4K</text>
+        <text encoding="base64">ICAgIDxwPtPSyc+9x0RldmVsb3BlciBtb2RlKL+qt6LV38Sjyr0ptPK/qjwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9IiI+PC9hPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwPrTyv6rkr8DAxvfRodTxIE1vcmUgdG9vbHMouPy24Lmkvt8pIC0+IDwvcD4K</text>
+        <text encoding="base64">ICAgIDxwPjxwPjwvcD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGRpdj4KICAgIDxoMz612rb+sr2jujwvaDM+CiAgICA8cD694tG5tb1Dxcw8L3A+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxhIGhyZWY9IiI+PC9hPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Int7IHVybF9mb3IoImRvd25sb2FkX2V4dGVuc2lvbiIpIH19Ij6147v3z8LU2DwvYT4K</text>
+        <text encoding="base64">ICAgIDxwPrTyv6rkr8DAxvfRodTxIE1vcmUgdG9vbHMouPy24Lmkvt8pIC0+IDwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
