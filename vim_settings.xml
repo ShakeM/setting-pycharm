@@ -15,7 +15,6 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/jslib/static/index.html" timestamp="1531994715885" />
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/main.py" timestamp="1529738700976">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -468,10 +467,13 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531994834867">
+      <file name="/Dummy.txt" timestamp="1532398700178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1532399225183">
+        <mark key="[" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
@@ -528,11 +530,11 @@
         <mark key="^" line="8" column="2121" />
         <mark key="." line="8" column="2121" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1531898052871">
-        <mark key="[" line="330" column="31" />
-        <mark key="]" line="330" column="31" />
-        <mark key="." line="330" column="31" />
-        <mark key="^" line="330" column="26" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1532398694862">
+        <mark key="[" line="84" column="71" />
+        <mark key="]" line="84" column="71" />
+        <mark key="." line="84" column="71" />
+        <mark key="^" line="79" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -672,13 +674,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>使用指南</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>使用指南</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
