@@ -346,13 +346,13 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/main.py" timestamp="1532411419694">
+      <file name="$USER_HOME$/jslib/main.py" timestamp="1532412973931">
         <mark key="a" line="46" column="10" />
         <mark key="'" line="3" column="18" />
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="45" />
-        <mark key="^" line="37" column="45" />
-        <mark key="." line="37" column="45" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
         <mark key="'" line="24" column="0" />
@@ -467,7 +467,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532411713230">
+      <file name="/Dummy.txt" timestamp="1532413300277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -533,11 +533,11 @@
         <mark key="^" line="8" column="2121" />
         <mark key="." line="8" column="2121" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1532411517892">
-        <mark key="[" line="352" column="120" />
-        <mark key="]" line="352" column="124" />
-        <mark key="." line="352" column="124" />
-        <mark key="^" line="352" column="124" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1532413298498">
+        <mark key="[" line="344" column="23" />
+        <mark key="]" line="344" column="24" />
+        <mark key="." line="344" column="24" />
+        <mark key="^" line="344" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -676,23 +676,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>tyc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTIpID4gdGQ6bnRoLWNoaWxkKDIpID4gZGl2JykuaHRtbCgnPGgxPjg2t9Y8L2gxPicpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvJyArIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjME5EMDAwMDAwNWVKVFFfaWxlaW5uZXInKS50ZXh0KCdoYWhhJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -702,28 +702,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjZXAgPiBkaXYucGJCb2R5ID4gZGl2Om50aC1jaGlsZCgzKSA+IHRhYmxlID4gdGJvZHkgPiB0cjpudGgtY2hpbGQoMTIpID4gdGQ6bnRoLWNoaWxkKDIpID4gZGl2JykuaGlkZSgpCg==</text>
+        <text encoding="base64">ICAgIGNocm9tZS5ydW50aW1lLnNlbmRNZXNzYWdlKHsKICAgICAgICBjbWQ6ICdnZXRfc2NvcmUnLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgJ2NvbXBhbnknOiAkKCcjb3BwNF9pbGVpbm5lcicpLnRleHQoKQogICAgICAgIH0KICAgIH0sIGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgIGNvbnNvbGUubG9nKCfM7NHbsum31sr9o7onKQogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQogICAgICAgICQoJyNlcCA+IGRpdi5wYkJvZHkgPiBkaXY6bnRoLWNoaWxkKDMpID4gdGFibGUgPiB0Ym9keSA+IHRyOm50aC1jaGlsZCgxMikgPiB0ZDpudGgtY2hpbGQoMSkgPiBzcGFuJykudGV4dCgnzOzR27LpxsC31ii8x7XDtcfCvCknKQogICAgICAgICQoJyNlcCA+IGRpdi5wYkJvZHkgPiBkaXY6bnRoLWNoaWxkKDMpID4gdGFibGUgPiB0Ym9keSA+IHRyOm50aC1jaGlsZCgxMikgPiB0ZDpudGgtY2hpbGQoMikgPiBkaXYnKS5odG1sKGA8aDE+JHtyZXNwb25zZX231jwvaDE+PHA+xNG2yDogs/W8tjo4MH4xMDAgINbQvLY6NzB+ODAgILjfvLY6NjB+NzAgIExlYWRlcjo1MH42MCAgQ0VPOjB+NTA8L3A+YCkKICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnzOzR27Lpt9bK/aO6JykKICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSkK</text>
+        <text encoding="base64">ZGVmIGdldF9qczIoZmlsZW5hbWUpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL2pzMi88c3RyaW5nOmZpbGVuYW1lPi8nLCBtZXRob2RzPVsnR0VUJ10pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBydW4oKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdnZXRfanMyJywgZmlsZW5hbWU9ZmlsZW5hbWUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvJyArIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdnZXRfanMnLCBmaWxlbmFtZT1maWxlbmFtZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgZ2V0U2NvcmUoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvJyArIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyBmdW5jdGlvbiBydW4oKSB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdnZXRfanMnLCBmaWxlbmFtZT0nb3BwLmpzJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
