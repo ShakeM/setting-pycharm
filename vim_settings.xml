@@ -354,11 +354,11 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/manifest.json" timestamp="1532594073950">
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/manifest.json" timestamp="1532595030398">
         <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="14" />
+        <mark key="]" line="4" column="11" />
         <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
         <mark key="'" line="24" column="0" />
@@ -691,13 +691,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Altium Director</text>
+        <text>Burn</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Altium Director</text>
+        <text>Burn</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
