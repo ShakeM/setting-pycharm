@@ -354,11 +354,11 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/manifest.json" timestamp="1532586291381">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="51" column="4" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/manifest.json" timestamp="1532594073950">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
         <mark key="'" line="24" column="0" />
@@ -509,11 +509,13 @@
         <mark key="^" line="101" column="8" />
         <mark key="." line="137" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532590595233">
-        <mark key="[" line="18" column="96" />
-        <mark key="]" line="18" column="103" />
-        <mark key="." line="18" column="103" />
-        <mark key="^" line="18" column="103" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532594001961">
+        <mark key="a" line="78" column="27" />
+        <mark key="'" line="83" column="28" />
+        <mark key="[" line="89" column="28" />
+        <mark key="]" line="89" column="29" />
+        <mark key="^" line="93" column="24" />
+        <mark key="." line="89" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb3_order.py" timestamp="1530543832258">
         <mark key="[" line="33" column="17" />
@@ -575,8 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="17" filename="$USER_HOME$/PycharmProjects/list/test.py" />
-      <jump line="51" column="8" filename="C:/Python27/Lib/site-packages/yagmail/sender.py" />
       <jump line="129" column="22" filename="$USER_HOME$/PycharmProjects/list/myapp.py" />
       <jump line="128" column="4" filename="$USER_HOME$/PycharmProjects/list/myapp.py" />
       <jump line="59" column="56" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
@@ -675,6 +675,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/twins/main.py" />
       <jump line="37" column="10" filename="$USER_HOME$/jslib/main.py" />
       <jump line="3" column="18" filename="$USER_HOME$/jslib/main.py" />
+      <jump line="54" column="42" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
+      <jump line="83" column="28" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -689,22 +691,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>oppDone</text>
+        <text>Altium Director</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>oppDone</text>
+        <text>Altium Director</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBUElcPg==</text>
+        <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvJyArIGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPmp1bHlAZXhhbXBsZS5jb208L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPsv509DQ6NKquMS8209QUNTa1eLA78XFttM8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -714,43 +716,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPrXEPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPmp1bHlAZXhhbXBsZS5jb208L3RkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPmp1bHlAZXhhbXBsZS5jb208L3RkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ib3BwRG9uZSI+zrTN6rPJo7o8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPkRvb2xleTwvdGQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY2VudGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPkp1bHk8L3RkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjZW50ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dHI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPm1hcnlAZXhhbXBsZS5jb208L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbnRhaW5lcj48L2NvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPm1hcnlAZXhhbXBsZS5jb208L3RkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBUElcPg==</last-search>
+      <last-search>2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBUElcPg==</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>2</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>b</entry>
         <entry>{</entry>
         <entry>middleware</entry>
         <entry>download</entry>
@@ -770,6 +771,7 @@
         <entry>remote</entry>
         <entry>ip</entry>
         <entry encoding="base64">XDxBUElcPg==</entry>
+        <entry>2</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
