@@ -354,6 +354,12 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/manifest.json" timestamp="1532586291381">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="51" column="4" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="58" column="0" />
@@ -502,6 +508,11 @@
         <mark key="]" line="137" column="32" />
         <mark key="^" line="101" column="8" />
         <mark key="." line="137" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532588807189">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb3_order.py" timestamp="1530543832258">
         <mark key="[" line="33" column="17" />
@@ -677,13 +688,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>text-cente</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>text-cente</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElcPg==</text>
@@ -692,7 +703,7 @@
         <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvJyArIGZpbGVuYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBhcHAucmVzcG9uc2VfY2xhc3MgPSBKc29uUmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY2VudGVyPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -702,28 +713,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjZW50ZXI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNocm9tZS5ydW50aW1lLnNlbmRNZXNzYWdlKHsKICAgICAgICBjbWQ6ICdnZXRfc2NvcmUnLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgJ2NvbXBhbnknOiAkKCcjb3BwNF9pbGVpbm5lcicpLnRleHQoKQogICAgICAgIH0KICAgIH0sIGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgIGNvbnNvbGUubG9nKCfM7NHbsum31sr9o7onKQogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQogICAgICAgICQoJyNlcCA+IGRpdi5wYkJvZHkgPiBkaXY6bnRoLWNoaWxkKDMpID4gdGFibGUgPiB0Ym9keSA+IHRyOm50aC1jaGlsZCgxMikgPiB0ZDpudGgtY2hpbGQoMSkgPiBzcGFuJykudGV4dCgnzOzR27LpxsC31ii8x7XDtcfCvCknKQogICAgICAgICQoJyNlcCA+IGRpdi5wYkJvZHkgPiBkaXY6bnRoLWNoaWxkKDMpID4gdGFibGUgPiB0Ym9keSA+IHRyOm50aC1jaGlsZCgxMikgPiB0ZDpudGgtY2hpbGQoMikgPiBkaXYnKS5odG1sKGA8aDE+JHtyZXNwb25zZX231jwvaDE+PHA+xNG2yDogs/W8tjo4MH4xMDAgINbQvLY6NzB+ODAgILjfvLY6NjB+NzAgIExlYWRlcjo1MH42MCAgQ0VPOjB+NTA8L3A+YCkKICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9qczIoZmlsZW5hbWUpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnL2pzMi88c3RyaW5nOmZpbGVuYW1lPi8nLCBtZXRob2RzPVsnR0VUJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbnRhaW5lcj48L2NvbnRhaW5lcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdnZXRfanMyJywgZmlsZW5hbWU9ZmlsZW5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uYXRpYW5lciI+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvJyArIGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZWRpcmVjdCh1cmxfZm9yKCdnZXRfanMnLCBmaWxlbmFtZT1maWxlbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wiPjwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHAuc2VuZF9zdGF0aWNfZmlsZSgnanMvJyArIGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
