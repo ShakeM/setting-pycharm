@@ -174,11 +174,11 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/activity_history.js" timestamp="1532672777627">
-        <mark key="[" line="0" column="229" />
-        <mark key="]" line="0" column="132" />
-        <mark key="^" line="0" column="132" />
-        <mark key="." line="0" column="132" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/activity_history.js" timestamp="1532675569848">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/mayi.py" timestamp="1529756447488">
         <mark key="[" line="100" column="0" />
@@ -715,22 +715,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3NiUGFnZUNvbnRhaW5lcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2NvbnRlbnQgPiBzYi1saW5lLWVkaXRvcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2FjdGlvbnMgPiBzYi1jdXN0b20tYWN0aW9uOm50aC1jaGlsZCgzKScpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI21haW5CdXR0b24nKQ==</text>
+        <text>ADBundleCheck</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3NiUGFnZUNvbnRhaW5lcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2NvbnRlbnQgPiBzYi1saW5lLWVkaXRvcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2FjdGlvbnMgPiBzYi1jdXN0b20tYWN0aW9uOm50aC1jaGlsZCgzKScpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI21haW5CdXR0b24nKQ==</text>
+        <text>ADBundleCheck</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGlzTG9hZGVkKCkK</text>
+        <text encoding="base64">ICAgIGV2YWwoQURCdW5kbGVDaGVjaykuY2xpY2soKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb2FkaW5nTWFzayA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYlBhZ2VDb250YWluZXInKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjb250ZW50ID4gc2ItbGluZS1lZGl0b3InKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjdXN0b21BY3Rpb25TZXJ2aWNlcycpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3Rvcignc2ItbG9hZGluZy1zcGlubmVyJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjbWFzaycpCg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYlBhZ2VDb250YWluZXInKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjb250ZW50ID4gc2ItcHJvZHVjdC1sb29rdXAnKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNwbFNlbGVjdCcpLmNsaWNrKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,28 +740,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGFkZFByb2R1Y3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNvbHZlKCdhJykK</text>
+        <text encoding="base64">amoK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsb2FkaW5nTWFzay5oaWRkZW4pIHsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGFkZFByb2R1Y3QoKSB7CiAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjc2JQYWdlQ29udGFpbmVyJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjY29udGVudCA+IHNiLWxpbmUtZWRpdG9yJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjYWN0aW9ucyA+IHNiLWN1c3RvbS1hY3Rpb246bnRoLWNoaWxkKDMpJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjbWFpbkJ1dHRvbicpLmNsaWNrKCkKfQoKZnVuY3Rpb24gY2hlY2tCdW5kaWxlKCkgewogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3NiUGFnZUNvbnRhaW5lcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2NvbnRlbnQgPiBzYi1wcm9kdWN0LWxvb2t1cCcpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2xvb2t1cExheW91dCcpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2xpc3QgPiAjdGFibGVSb3c6bnRoLWNoaWxkKDMpJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjc2VsZWN0aW9uJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjZyA+IGRpdiA+IHNiLXRhYmxlLWNlbGwtc2VsZWN0Jykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjY2hlY2tib3gnKS5jbGljaygpCgogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3NiUGFnZUNvbnRhaW5lcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2NvbnRlbnQgPiBzYi1wcm9kdWN0LWxvb2t1cCcpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI3BsU2VsZWN0JykuY2xpY2soKQoKfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb2FkaW5nTWFzayA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYlBhZ2VDb250YWluZXInKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjb250ZW50ID4gc2ItbGluZS1lZGl0b3InKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjdXN0b21BY3Rpb25TZXJ2aWNlcycpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3Rvcignc2ItbG9hZGluZy1zcGlubmVyJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjbWFzaycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYlBhZ2VDb250YWluZXInKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjb250ZW50ID4gc2ItbGluZS1lZGl0b3InKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNhY3Rpb25zID4gc2ItY3VzdG9tLWFjdGlvbjpudGgtY2hpbGQoMyknKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNtYWluQnV0dG9uJykuY2xpY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIENoZWNrIEFsdGl1bSBEZXNpZ25lciBCdW5kbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNvbHZlKCdhJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsb2FkaW5nTWFzay5oaWRkZW4pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gQ2xpY2sgU2VsZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
