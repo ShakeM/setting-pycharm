@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list3/myapp_demo.py" timestamp="1530549365210">
@@ -133,6 +133,12 @@
         <mark key="]" line="999" column="69" />
         <mark key="." line="999" column="69" />
       </file>
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/background.js" timestamp="1532687229611">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/airbnb3.py" timestamp="1529413575193">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="133" column="30" />
@@ -160,9 +166,6 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1530622178746">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -186,11 +189,11 @@
         <mark key="^" line="57" column="26" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/manifest.json" timestamp="1532597667133">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="84" column="119" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/manifest.json" timestamp="1532684284675">
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="42" column="9" />
+        <mark key="^" line="47" column="16" />
+        <mark key="." line="42" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/test.py" timestamp="1529808697344">
         <mark key="'" line="24" column="0" />
@@ -267,13 +270,12 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532658580757">
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532680929792">
         <mark key="a" line="74" column="27" />
         <mark key="'" line="79" column="28" />
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="51" column="40" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb3_order.py" timestamp="1530543832258">
         <mark key="[" line="33" column="17" />
@@ -321,11 +323,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532659756236">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="12" column="59" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532687030162">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="53" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb2_order.py" timestamp="1530543686440">
         <mark key="[" line="34" column="17" />
@@ -564,6 +566,17 @@
         <mark key="^" line="40" column="47" />
         <mark key="." line="40" column="47" />
       </file>
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/price.js" timestamp="1532687067261">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="14" column="52" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+      </file>
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/inject.js" timestamp="1532685428920">
+        <mark key="[" line="126" column="25" />
+        <mark key="]" line="126" column="25" />
+        <mark key="." line="126" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/booking.py" timestamp="1530544668039">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="60" column="0" />
@@ -601,7 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="22" filename="$USER_HOME$/PycharmProjects/list/myapp.py" />
       <jump line="128" column="4" filename="$USER_HOME$/PycharmProjects/list/myapp.py" />
       <jump line="59" column="56" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
       <jump line="87" column="21" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
@@ -701,6 +713,7 @@
       <jump line="3" column="18" filename="$USER_HOME$/jslib/main.py" />
       <jump line="54" column="42" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
       <jump line="83" column="28" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
+      <jump line="129" column="0" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/js/price.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -714,23 +727,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>licensecheck</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>licensecheck</text>
+        <text encoding="base64">IGZ1bmN0aW9uIChyZXNwb25zZSkgew==</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV2YWwoQURCdW5kbGVDaGVjaykuY2xpY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZW5kZXIudGFiLmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGF3YWl0IGlzTG9hZGVkMigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -740,28 +753,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNoZWNrQnVuZGlsZSgpamtkZAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZW5kZXIudGFiLmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYlBhZ2VDb250YWluZXInKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjb250ZW50ID4gc2ItcHJvZHVjdC1jb25maWcnKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNidW5kbGVzJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjZmVhdHVyZXMnKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJ3NiLXByb2R1Y3QtZmVhdHVyZS1saXN0Jykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjZmVhdHVyZUxpc3QgPiBzYi1wcm9kdWN0LWZlYXR1cmU6bnRoLWNoaWxkKDEpJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjb3QnKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyN0Ym9keSA+IHNiLXRhYmxlLXJvdycpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI3NlbGVjdGlvbicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2cgPiBkaXYgPiBzYi10YWJsZS1jZWxsLXNlbGVjdCcpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2NoZWNrYm94JykuY2xpY2soKQo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYlBhZ2VDb250YWluZXInKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjb250ZW50ID4gc2ItcHJvZHVjdC1sb29rdXAnKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNwbFNlbGVjdCcpLmNsaWNrKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfK1bW9wLTX1LrzzKi1xLvYuLSjuicgKyByZXNwb25zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZFByb2R1Y3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">amoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hyb21lLnRhYnMuc2VuZE1lc3NhZ2UodGFiLmlkLCAiRG8gaXQiKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGFkZFByb2R1Y3QoKSB7CiAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjc2JQYWdlQ29udGFpbmVyJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjY29udGVudCA+IHNiLWxpbmUtZWRpdG9yJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjYWN0aW9ucyA+IHNiLWN1c3RvbS1hY3Rpb246bnRoLWNoaWxkKDMpJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjbWFpbkJ1dHRvbicpLmNsaWNrKCkKfQoKZnVuY3Rpb24gY2hlY2tCdW5kaWxlKCkgewogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3NiUGFnZUNvbnRhaW5lcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2NvbnRlbnQgPiBzYi1wcm9kdWN0LWxvb2t1cCcpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2xvb2t1cExheW91dCcpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2xpc3QgPiAjdGFibGVSb3c6bnRoLWNoaWxkKDMpJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjc2VsZWN0aW9uJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjZyA+IGRpdiA+IHNiLXRhYmxlLWNlbGwtc2VsZWN0Jykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjY2hlY2tib3gnKS5jbGljaygpCgogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI3NiUGFnZUNvbnRhaW5lcicpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI2NvbnRlbnQgPiBzYi1wcm9kdWN0LWxvb2t1cCcpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3RvcignI3BsU2VsZWN0JykuY2xpY2soKQoKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHNlbmRlci50YWIgPyJmcm9kZG0gYSBjb250ZW50IHNjcmlwdDoiICsgc2VuZGVyLnRhYi51cmwgOiJmcm9tIHRoZSBleHRlbnNpb24iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsb2FkaW5nTWFzayA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNzYlBhZ2VDb250YWluZXInKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjb250ZW50ID4gc2ItbGluZS1lZGl0b3InKS5zaGFkb3dSb290LnF1ZXJ5U2VsZWN0b3IoJyNjdXN0b21BY3Rpb25TZXJ2aWNlcycpLnNoYWRvd1Jvb3QucXVlcnlTZWxlY3Rvcignc2ItbG9hZGluZy1zcGlubmVyJykuc2hhZG93Um9vdC5xdWVyeVNlbGVjdG9yKCcjbWFzaycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjaHJvbWUudGFicy5jcmVhdGUoe3VybDogc2VydmVyZV9wYXRofSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2VydmVyZV9wYXRoID0gY2hyb21lLmV4dGVuc2lvbi5nZXRVUkwoJ2xldHRlci/Rz8D3uq8ucGRmLmh0bWwnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
