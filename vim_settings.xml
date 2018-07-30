@@ -133,11 +133,10 @@
         <mark key="]" line="999" column="69" />
         <mark key="." line="999" column="69" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/background.js" timestamp="1532687229611">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/background.js" timestamp="1532918047951">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/airbnb3.py" timestamp="1529413575193">
         <mark key="[" line="133" column="33" />
@@ -323,11 +322,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532687030162">
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="53" column="19" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532917206561">
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="70" column="7" />
+        <mark key="." line="70" column="7" />
+        <mark key="^" line="70" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb2_order.py" timestamp="1530543686440">
         <mark key="[" line="34" column="17" />
@@ -566,11 +565,11 @@
         <mark key="^" line="40" column="47" />
         <mark key="." line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/price.js" timestamp="1532687067261">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="52" />
-        <mark key="^" line="14" column="52" />
-        <mark key="." line="14" column="52" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/price.js" timestamp="1532917065630">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/inject.js" timestamp="1532685428920">
         <mark key="[" line="126" column="25" />
@@ -614,7 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="4" filename="$USER_HOME$/PycharmProjects/list/myapp.py" />
       <jump line="59" column="56" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
       <jump line="87" column="21" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="131" column="24" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
@@ -714,6 +712,7 @@
       <jump line="54" column="42" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
       <jump line="83" column="28" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
       <jump line="129" column="0" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/js/price.js" />
+      <jump line="23" column="30" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/js/background.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -727,23 +726,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+      <register name="&quot;" type="4">
+        <text>tab.id</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZ1bmN0aW9uIChyZXNwb25zZSkgew==</text>
+        <text>tab.id</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZW5kZXIudGFiLmlkKQo=</text>
+        <text encoding="base64">ICAgIGNtc1RhYklkID0gc2VuZGVyLnRhYi5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -753,28 +752,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZW5kZXIudGFiLmlkKQo=</text>
+        <text encoding="base64">dmFyIGNtc1RhYklkID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICAgICBjbXNUYWJJZCA9IHNlbmRlci50YWIuaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfK1bW9wLTX1LrzzKi1xLvYuLSjuicgKyByZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">dmFyIHJlcXVlc3REYXRhID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNtc1RhYklkID0gc2VuZGVyLnRhYi5pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hyb21lLnRhYnMuc2VuZE1lc3NhZ2UodGFiLmlkLCAiRG8gaXQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHNlbmRlci50YWIgPyJmcm9kZG0gYSBjb250ZW50IHNjcmlwdDoiICsgc2VuZGVyLnRhYi51cmwgOiJmcm9tIHRoZSBleHRlbnNpb24iKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnIGRvIGl0IScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWUudGFicy5jcmVhdGUoe3VybDogc2VydmVyZV9wYXRofSkK</text>
+        <text encoding="base64">ICAgICAgICBpbmplY3RDdXN0b21KcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2VydmVyZV9wYXRoID0gY2hyb21lLmV4dGVuc2lvbi5nZXRVUkwoJ2xldHRlci/Rz8D3uq8ucGRmLmh0bWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaSA9IHByb2Nlc3NpbmcuaW5kZXhPZihzZW5kZXIudGFiLmlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
