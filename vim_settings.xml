@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list3/myapp_demo.py" timestamp="1530549365210">
@@ -270,11 +270,11 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532921510370">
-        <mark key="[" line="55" column="14" />
-        <mark key="]" line="55" column="14" />
-        <mark key="." line="55" column="14" />
-        <mark key="^" line="41" column="84" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532929999611">
+        <mark key="[" line="17" column="77" />
+        <mark key="]" line="17" column="77" />
+        <mark key="." line="17" column="77" />
+        <mark key="^" line="16" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb3_order.py" timestamp="1530543832258">
         <mark key="[" line="33" column="17" />
@@ -322,11 +322,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532921250153">
-        <mark key="[" line="69" column="37" />
-        <mark key="]" line="71" column="25" />
-        <mark key="." line="71" column="25" />
-        <mark key="^" line="71" column="25" />
+      <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532930515332">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb2_order.py" timestamp="1530543686440">
         <mark key="[" line="34" column="17" />
@@ -723,22 +723,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>a</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNtc1RhYklkID0gc2VuZGVyLnRhYi5pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tbGciIHYtb246Y2xpY2s9InN1Ym1pdElucHV0KCkiPszuyOu0psDtx/g+PjwvYnV0dG9uPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGlmICghaW8pIHsKICAgICAgICByZXR1cm4KICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbnB1dFN0ciA9IG51bGwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -748,28 +748,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvY2Vzc0xpc3QucHVzaChvYmopCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudG9rZW4gKz0gMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghaW8pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0dXM6ICe1yLT91tAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2V0U2VydmVyVXJsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHA6IHYudHJpbSgpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZlclVybCA9IGF3YWl0IHN0b3JhZ2UuZ2V0KCdzaXRlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1dWlkOiB0aGlzLnRva2VuLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2V0U2VydmVyVXJsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvYmogPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
