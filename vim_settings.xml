@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list3/myapp_demo.py" timestamp="1530549365210">
@@ -117,6 +117,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
+      <file name="/Python Console" timestamp="1533267272652" />
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -213,6 +214,9 @@
         <mark key="." line="17" column="77" />
         <mark key="^" line="16" column="57" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/company_list" timestamp="1533266038616">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/airbnb3_order.py" timestamp="1530543832258">
         <mark key="[" line="33" column="17" />
         <mark key="]" line="33" column="28" />
@@ -271,11 +275,12 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1533265964291">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="14" />
-        <mark key="." line="25" column="14" />
-        <mark key="^" line="25" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1533268207502">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="41" />
+        <mark key="^" line="41" column="41" />
+        <mark key="." line="41" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
         <mark key="[" line="47" column="17" />
@@ -503,9 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="56" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
-      <jump line="87" column="21" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
-      <jump line="131" column="24" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="205" column="8" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="214" column="35" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="215" column="22" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
@@ -603,6 +605,9 @@
       <jump line="83" column="28" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
       <jump line="129" column="0" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/js/price.js" />
       <jump line="23" column="30" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/js/background.js" />
+      <jump line="1" column="10" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
+      <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -616,23 +621,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Reader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Reader</text>
+        <text>company_name_result</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tbGciIHYtb246Y2xpY2s9InN1Ym1pdElucHV0KCkiPszuyOu0psDtx/g+PjwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbXBhbnlfbmFtZV9yZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQocmVzcG9uc2UudGV4dCkK</text>
+        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -642,28 +647,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbnB1dFN0ciA9IG51bGwK</text>
+        <text encoding="base64">ICAgICIjd2ViLWNvbnRlbnQgPiBkaXYgPiBkaXYuY29udGFpbmVyLWxlZnQgPiBkaXYgPiBkaXYucmVzdWx0LWxpc3QgPiBkaXY6bnRoLW9mLXR5cGUoMSkgPiBkaXYuc2NvcmUgPiBzcGFuLnNjb3JlLW51bSIpLnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">c2NvcmUgPSBzb3VwLnNlbGVjdF9vbmUoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvY2Vzc0xpc3QucHVzaChvYmopCg==</text>
+        <text encoding="base64">ICAgICIjd2ViLWNvbnRlbnQgPiBkaXYgPiBkaXYuY29udGFpbmVyLWxlZnQgPiBkaXYgPiBkaXYucmVzdWx0LWxpc3QgPiBkaXY6bnRoLW9mLXR5cGUoMSkgPiBkaXYuY29udGVudCA+IGRpdi5oZWFkZXIgPiBhIikudGV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudG9rZW4gKz0gMQo=</text>
+        <text encoding="base64">Y29tcGFueV9uYW1lID0gc291cC5zZWxlY3Rfb25lKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">c291cCA9IEJlYXV0aWZ1bFNvdXAoaHRtbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0dXM6ICe1yLT91tAnCg==</text>
+        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHA6IHYudHJpbSgpLAo=</text>
+        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
