@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list3/myapp_demo.py" timestamp="1530549365210">
@@ -32,6 +32,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index.json" timestamp="1527009469862">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/company_list.txt" timestamp="1533271125668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -275,12 +280,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1533268207502">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="41" />
-        <mark key="^" line="41" column="41" />
-        <mark key="." line="41" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1533271450074">
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="70" column="17" />
+        <mark key="." line="70" column="17" />
+        <mark key="^" line="70" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
         <mark key="[" line="47" column="17" />
@@ -508,8 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="8" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
-      <jump line="214" column="35" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="215" column="22" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="219" column="37" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="94" column="36" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
@@ -608,6 +610,8 @@
       <jump line="1" column="10" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
       <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
+      <jump line="9" column="31" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -622,13 +626,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
+        <text encoding="base64">cHJpbnQoaW5mb3MpCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>company_name_result</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -637,7 +641,7 @@
         <text encoding="base64">ICAgIHByaW50KGNvbXBhbnlfbmFtZV9yZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
+        <text encoding="base64">cHJpbnQoaW5mb3MpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -647,28 +651,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KENoaW5lc2UgTmFtZSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIjd2ViLWNvbnRlbnQgPiBkaXYgPiBkaXYuY29udGFpbmVyLWxlZnQgPiBkaXYgPiBkaXYucmVzdWx0LWxpc3QgPiBkaXY6bnRoLW9mLXR5cGUoMSkgPiBkaXYuc2NvcmUgPiBzcGFuLnNjb3JlLW51bSIpLnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2NvcmUgPSBzb3VwLnNlbGVjdF9vbmUoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIjd2ViLWNvbnRlbnQgPiBkaXYgPiBkaXYuY29udGFpbmVyLWxlZnQgPiBkaXYgPiBkaXYucmVzdWx0LWxpc3QgPiBkaXY6bnRoLW9mLXR5cGUoMSkgPiBkaXYuY29udGVudCA+IGRpdi5oZWFkZXIgPiBhIikudGV4dAo=</text>
+        <text encoding="base64">ye7b2sLzv8vOpLb7ucm33dPQz965q8u+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29tcGFueV9uYW1lID0gc291cC5zZWxlY3Rfb25lKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c291cCA9IEJlYXV0aWZ1bFNvdXAoaHRtbCkK</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoaW5mb3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmludChjb21wYW55X2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGluZm9fc3RyKWRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
