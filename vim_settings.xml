@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list3/airbnb.py" timestamp="1529756245417">
@@ -161,6 +161,12 @@
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled3/main.py" timestamp="1533694399040">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="C:/py36project/indexer/main.py" timestamp="1526130186067">
         <mark key="[" line="3" column="43" />
@@ -620,13 +626,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>你可能是盗版软件的受害者</text>
+        <text>60000000</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>你可能是盗版软件的受害者</text>
+        <text>60000000</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -635,7 +641,7 @@
         <text encoding="base64">ICAgIHByaW50KGNvbXBhbnlfbmFtZV9yZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoaW5mb3MpCg==</text>
+        <text encoding="base64">IyByZXNwb25zZSA9IHJlcXVlc3RzLnJlcXVlc3QoIlBPU1QiLCB1cmwsIGRhdGE9cGF5bG9hZCwgaGVhZGVycz1IRUFERVJTKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,28 +651,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KENoaW5lc2UgTmFtZSk6Cg==</text>
+        <text encoding="base64">IyB7J2RhdGUnOicyMDE4LTA4LTA4JywnaG91c2UnOifEz76pwrcnLCdkYXlzJzoxLCdwcmljZSc6Njg4fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzcG9uc2UgPSByZXF1ZXN0cy5yZXF1ZXN0KCJQT1NUIiwgVVJMLCBkYXRhPXBheWxvYWQsIGhlYWRlcnM9SEVBREVSUykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoaW5mb3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ye7b2sLzv8vOpLb7ucm33dPQz965q8u+Cg==</text>
+        <text encoding="base64">KENoaW5lc2UgTmFtZSk6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoaW5mb3MpCg==</text>
+        <text encoding="base64">ye7b2sLzv8vOpLb7ucm33dPQz965q8u+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGluZm9fc3RyKWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
