@@ -111,11 +111,12 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/report.js" timestamp="1534401110070">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/jslib/static/js/report.js" timestamp="1534405339429">
+        <mark key="'" line="5" column="22" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/stock_2018-05-25_00-42-29__1527180149.json" timestamp="1527180561661">
         <mark key="[" line="0" column="0" />
@@ -402,7 +403,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534401345867">
+      <file name="/Dummy.txt" timestamp="1534405389605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -475,11 +476,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1534400670757">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1534405801802">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="53" />
+        <mark key="^" line="31" column="53" />
+        <mark key="." line="31" column="53" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/test.py" timestamp="1530544241566">
         <mark key="[" line="2" column="10" />
@@ -517,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="37" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="94" column="36" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="204" column="19" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
       <jump line="210" column="45" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/baidu_index.py" />
@@ -617,6 +617,7 @@
       <jump line="9" column="31" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
       <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/untitled3/main.py" />
+      <jump line="9" column="22" filename="$USER_HOME$/jslib/static/js/report.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -630,14 +631,14 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ci5hcHBlbmRDaGlsZCh0ZCkK</text>
+      <register name="&quot;" type="4">
+        <text>https://eu1.salesforce.com/00OD0000007NXMv#ext</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">I2VwID4gZGl2LnBiQm9keSA+IGRpdjpudGgtY2hpbGQoMykgPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDE1KQ==</text>
+        <text>https://eu1.salesforce.com/00OD0000007NXMv#ext</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
