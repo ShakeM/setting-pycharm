@@ -403,7 +403,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534405389605">
+      <file name="/Dummy.txt" timestamp="1534497272602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -476,11 +476,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1534494891652">
-        <mark key="[" line="383" column="22" />
-        <mark key="]" line="383" column="25" />
-        <mark key="^" line="383" column="25" />
-        <mark key="." line="383" column="25" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1534497260776">
+        <mark key="[" line="319" column="27" />
+        <mark key="]" line="319" column="27" />
+        <mark key="^" line="315" column="27" />
+        <mark key="." line="319" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/test.py" timestamp="1530544241566">
         <mark key="[" line="2" column="10" />
@@ -632,22 +632,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>copyLetterInfo</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>copyLetterInfo</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmVyaWZ5RGF0ZSA9ICcnCg==</text>
+      <register name="0" type="4">
+        <text>$</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgICAgIHZhciBhcnIgPSBbb3JkZXJOdW0sIG5hbWUsIGludGVybmFsT3JkZXIsIHByb2R1Y3QsIGNvdW50LCByZWNlaXZlciwgY29tcGFueSwgcHJvdmluY2UsIGNpdHksIGFkZHIsCiAgICAgICAgICAgIHJlY2VpdmVyX3Bob25lLCBzZW5kZXIsIHNlbmRlclBob25lLCBzZW5kZXJQcm92aW5jZSwgc2VuZGVyQ2l0eSwgc2VuZGVyRGlzdHJpY3QsIHNlbmRlckFkZHIsIHNlbmRlckVtYWlsQ29kZV0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgTENXb3JrUmVxdWlyZSA9ICdCwOC6ryyzybWluvMxMCUnCiAgICAgICAgdmFyIHNhbGVzV29ya1BsYW4gPSAnJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -656,29 +656,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICB2YXIgbXlEYXRlID0gbmV3IERhdGUoKQogICAgICAgIHZhciB0b2RheSA9IG15RGF0ZS5nZXRGdWxsWWVhcigpLnRvU3RyaW5nKCkgKyAobXlEYXRlLmdldE1vbnRoKCkgKyAxKS50b1N0cmluZygpICsgbXlEYXRlLmdldERhdGUoKS50b1N0cmluZygpCgogICAgICAgIHZhciBkZXNjcmlwdGlvbiA9ICQoJyNvcHAxNF9pbGVpbm5lcicpLnRleHQoKQoKICAgICAgICB2YXIgb3JkZXJOdW0gPSAiIgogICAgICAgIHZhciBuYW1lID0gJCgnI3VzZXJOYXZCdXR0b24nKS50ZXh0KCkKICAgICAgICB2YXIgaW50ZXJuYWxPcmRlciA9ICdBbHRpdW0tJyArIHRvZGF5ICsgcGFyc2VJbnQoTWF0aC5yYW5kb20oKSAqIDEwMDAwMCkudG9TdHJpbmcoKQogICAgICAgIHZhciBwcm9kdWN0ID0gJ9bY0qrOxLz+o6zO8bHYvbvTybG+yMsnCiAgICAgICAgdmFyIGNvdW50ID0gJzEnCiAgICAgICAgdmFyIHJlY2VpdmVyID0gZGVzY3JpcHRpb24ubWF0Y2goL6G+ytW8/sjLob8uKi8pID8gZGVzY3JpcHRpb24ubWF0Y2goL6G+ytW8/sjLob8uKi8pWzBdLnJlcGxhY2UoJ6G+ytW8/sjLob+juicsICcnKSA6ICcnCiAgICAgICAgdmFyIGNvbXBhbnkgPSBkZXNjcmlwdGlvbi5tYXRjaCgvob65q8u+ob8uKi8pID8gZGVzY3JpcHRpb24ubWF0Y2goL6G+uavLvqG/LiovKVswXS5yZXBsYWNlKCehvrmry76hv6O6JywgJycpIDogJycKICAgICAgICB2YXIgcHJvdmluY2UgPSAntdjWtycKICAgICAgICB2YXIgY2l0eSA9ICc6JwogICAgICAgIHZhciBhZGRyID0gZGVzY3JpcHRpb24ubWF0Y2goL6G+tdjWt6G/LiovKSA/IGRlc2NyaXB0aW9uLm1hdGNoKC+hvrXY1rehvy4qLylbMF0ucmVwbGFjZSgnob612Na3ob+juicsICcnKSA6ICcnCiAgICAgICAgdmFyIHJlY2VpdmVyX3Bob25lID0gZGVzY3JpcHRpb24ubWF0Y2goL6G+1/m7+qG/LiovKSA/IGRlc2NyaXB0aW9uLm1hdGNoKC+hvtf5u/qhvy4qLylbMF0ucmVwbGFjZSgnob7X+bv6ob+juicsICcnKSA6ICcnCiAgICAgICAgdmFyIHNlbmRlciA9ICdBbHRpdW0nCiAgICAgICAgdmFyIHNlbmRlclBob25lID0gJzAyMS02MDE1IDIyMDAnCiAgICAgICAgdmFyIHNlbmRlclByb3ZpbmNlID0gJ8nPuqMnCiAgICAgICAgdmFyIHNlbmRlckNpdHkgPSAnyc+6oycKICAgICAgICB2YXIgc2VuZGVyRGlzdHJpY3QgPSAns6TE/icKICAgICAgICB2YXIgc2VuZGVyQWRkciA9ICfkwbrnwrcyMDe6xcP3u/nJzM7xueOzoUG2sDPCpUTX+ScKICAgICAgICB2YXIgc2VuZGVyRW1haWxDb2RlID0gJzIwMDMzNSc=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgZXh0cmFJbmZvID0gZGVzY3JpcHRpb24ubWF0Y2goLyg/PD2hvs/6ytuhv6O6KS4qPyg/PaG+KS9pbXMpCiAgICAgICAgdmFyIHJkID0gZGVzY3JpcHRpb24ubWF0Y2goLyg/PD2hvsq508Oyv8PFuLrU8MjLob+juikuKj8oPz2hvikvaW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNvcHlMYXdGaXJtSW5mbygpIHsKICAgICAgICB2YXIgbXlEYXRlID0gbmV3IERhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbGV0dGVyVHlwZSA9ICdCwOC6ryyzybWluvMxMCUnCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aWYgKGxvY2F0aW9uLmhhc2ggPT09ICcjZXh0Jykgewo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgogICAgICAgIHZhciBhcnIgPSBbb3JkZXJOdW0sIG5hbWUsIGludGVybmFsT3JkZXIsIHByb2R1Y3QsIGNvdW50LCByZWNlaXZlciwgY29tcGFueSwgcHJvdmluY2UsIGNpdHksIGFkZHIsCiAgICAgICAgICAgIHJlY2VpdmVyX3Bob25lLCBzZW5kZXIsIHNlbmRlclBob25lLCBzZW5kZXJQcm92aW5jZSwgc2VuZGVyQ2l0eSwgc2VuZGVyRGlzdHJpY3QsIHNlbmRlckFkZHIsIHNlbmRlckVtYWlsQ29kZV0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aWYgKGxvY2F0aW9uLmhhc2ggPT09ICcjZXh0Jykgewo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICB2YXIgbXlEYXRlID0gbmV3IERhdGUoKQogICAgICAgIHZhciB0b2RheSA9IG15RGF0ZS5nZXRGdWxsWWVhcigpLnRvU3RyaW5nKCkgKyAobXlEYXRlLmdldE1vbnRoKCkgKyAxKS50b1N0cmluZygpICsgbXlEYXRlLmdldERhdGUoKS50b1N0cmluZygpCgogICAgICAgIHZhciBkZXNjcmlwdGlvbiA9ICQoJyNvcHAxNF9pbGVpbm5lcicpLnRleHQoKQoKICAgICAgICB2YXIgb3JkZXJOdW0gPSAiIgogICAgICAgIHZhciBuYW1lID0gJCgnI3VzZXJOYXZCdXR0b24nKS50ZXh0KCkKICAgICAgICB2YXIgaW50ZXJuYWxPcmRlciA9ICdBbHRpdW0tJyArIHRvZGF5ICsgcGFyc2VJbnQoTWF0aC5yYW5kb20oKSAqIDEwMDAwMCkudG9TdHJpbmcoKQogICAgICAgIHZhciBwcm9kdWN0ID0gJ9bY0qrOxLz+o6zO8bHYvbvTybG+yMsnCiAgICAgICAgdmFyIGNvdW50ID0gJzEnCiAgICAgICAgdmFyIHJlY2VpdmVyID0gZGVzY3JpcHRpb24ubWF0Y2goL6G+ytW8/sjLob8uKi8pID8gZGVzY3JpcHRpb24ubWF0Y2goL6G+ytW8/sjLob8uKi8pWzBdLnJlcGxhY2UoJ6G+ytW8/sjLob+juicsICcnKSA6ICcnCiAgICAgICAgdmFyIGNvbXBhbnkgPSBkZXNjcmlwdGlvbi5tYXRjaCgvob65q8u+ob8uKi8pID8gZGVzY3JpcHRpb24ubWF0Y2goL6G+uavLvqG/LiovKVswXS5yZXBsYWNlKCehvrmry76hv6O6JywgJycpIDogJycKICAgICAgICB2YXIgcHJvdmluY2UgPSAntdjWtycKICAgICAgICB2YXIgY2l0eSA9ICc6JwogICAgICAgIHZhciBhZGRyID0gZGVzY3JpcHRpb24ubWF0Y2goL6G+tdjWt6G/LiovKSA/IGRlc2NyaXB0aW9uLm1hdGNoKC+hvrXY1rehvy4qLylbMF0ucmVwbGFjZSgnob612Na3ob+juicsICcnKSA6ICcnCiAgICAgICAgdmFyIHJlY2VpdmVyX3Bob25lID0gZGVzY3JpcHRpb24ubWF0Y2goL6G+1/m7+qG/LiovKSA/IGRlc2NyaXB0aW9uLm1hdGNoKC+hvtf5u/qhvy4qLylbMF0ucmVwbGFjZSgnob7X+bv6ob+juicsICcnKSA6ICcnCiAgICAgICAgdmFyIHNlbmRlciA9ICdBbHRpdW0nCiAgICAgICAgdmFyIHNlbmRlclBob25lID0gJzAyMS02MDE1IDIyMDAnCiAgICAgICAgdmFyIHNlbmRlclByb3ZpbmNlID0gJ8nPuqMnCiAgICAgICAgdmFyIHNlbmRlckNpdHkgPSAnyc+6oycKICAgICAgICB2YXIgc2VuZGVyRGlzdHJpY3QgPSAns6TE/icKICAgICAgICB2YXIgc2VuZGVyQWRkciA9ICfkwbrnwrcyMDe6xcP3u/nJzM7xueOzoUG2sDPCpUTX+ScKICAgICAgICB2YXIgc2VuZGVyRW1haWxDb2RlID0gJzIwMDMzNSc=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNvcHlMYXdGaXJtSW5mbygpIHsKICAgICAgICB2YXIgbXlEYXRlID0gbmV3IERhdGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJykK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
