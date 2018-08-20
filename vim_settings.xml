@@ -453,6 +453,11 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/playground/main.py" timestamp="1534742497377">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/inject.js" timestamp="1532685428920">
         <mark key="[" line="126" column="25" />
         <mark key="]" line="126" column="25" />
@@ -633,22 +638,22 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'abc'</text>
+        <text>coroutine1</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
-      <register name="0" type="4">
-        <text>$</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -658,28 +663,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoYSBvZiBhcnIpewo=</text>
+        <text encoding="base64">Y29yb3V0aW5lMiA9IHNsZWVwKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgTENXb3JrUmVxdWlyZSA9ICdCwOC6ryyzybWluvMxMCUnCiAgICAgICAgdmFyIHNhbGVzV29ya1BsYW4gPSAnJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZXh0cmFJbmZvID0gZGVzY3JpcHRpb24ubWF0Y2goLyg/PD2hvs/6ytuhv6O6KS4qPyg/PaG+KS9pbXMpCiAgICAgICAgdmFyIHJkID0gZGVzY3JpcHRpb24ubWF0Y2goLyg/PD2hvsq508Oyv8PFuLrU8MjLob+juikuKj8oPz2hvikvaW1zKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdXYWtlIScpCiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdXYWl0aW5nOiAnLCB4KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbGV0dGVyVHlwZSA9ICdCwOC6ryyzybWluvMxMCUnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
