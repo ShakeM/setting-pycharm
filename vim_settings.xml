@@ -453,10 +453,11 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/playground/main.py" timestamp="1534742497377">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/playground/main.py" timestamp="1534744169728">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/inject.js" timestamp="1532685428920">
         <mark key="[" line="126" column="25" />
@@ -637,23 +638,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQodGFzaykK</text>
+      <register name="&quot;" type="4">
+        <text>loop.create_task(sleep())k</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>coroutine1</text>
+        <text>loop.create_task(sleep())k</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQodGFzaykK</text>
+        <text encoding="base64">dGFzazEgPSBsb29wLmNyZWF0ZV90YXNrKGNvcm91dGluZTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQodGFzaykK</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -663,28 +664,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQodGFzaykK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQodGFzaykK</text>
+        <text encoding="base64">Y29yb3V0aW5lMSA9IHNsZWVwKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29yb3V0aW5lMiA9IHNsZWVwKCkK</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdXYWtlIScpCiAgICAK</text>
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGFzeW5jaW8uc2xlZXAoMSkK</text>
+        <text encoding="base64">cHJpbnQodGFzaykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdXYWl0aW5nOiAnLCB4KQo=</text>
+        <text encoding="base64">Y29yb3V0aW5lMiA9IHNsZWVwKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
