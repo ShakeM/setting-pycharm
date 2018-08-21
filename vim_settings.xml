@@ -403,16 +403,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534830790723">
+      <file name="/Dummy.txt" timestamp="1534835965952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1534397554284">
-        <mark key="[" line="89" column="10" />
-        <mark key="]" line="33" column="89" />
-        <mark key="." line="33" column="89" />
-        <mark key="^" line="102" column="36" />
+      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1534836074377">
+        <mark key="[" line="334" column="11" />
+        <mark key="]" line="334" column="12" />
+        <mark key="^" line="334" column="12" />
+        <mark key="." line="334" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
@@ -641,13 +641,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">I2VwID4gZGl2LnBiSGVhZGVyID4gdGFibGUgPiB0Ym9keSA+IHRy</text>
+        <text>in</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">I2VwID4gZGl2LnBiSGVhZGVyID4gdGFibGUgPiB0Ym9keSA+IHRy</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
