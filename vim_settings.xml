@@ -403,7 +403,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534909575642">
+      <file name="/Dummy.txt" timestamp="1534922027665">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -482,12 +482,13 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1534909564529">
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1534922023305">
+        <mark key="p" line="365" column="65" />
         <mark key="'" line="421" column="39" />
-        <mark key="[" line="6" column="93" />
-        <mark key="]" line="6" column="94" />
-        <mark key="^" line="383" column="45" />
-        <mark key="." line="6" column="94" />
+        <mark key="[" line="365" column="65" />
+        <mark key="]" line="365" column="65" />
+        <mark key="^" line="365" column="62" />
+        <mark key="." line="365" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/test.py" timestamp="1530544241566">
         <mark key="[" line="2" column="10" />
@@ -641,13 +642,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'Lucy Li'</text>
+        <text>city</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'Lucy Li'</text>
+        <text>city</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
