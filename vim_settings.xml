@@ -481,10 +481,10 @@
         <mark key="^" line="52" column="36" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/price_boom/main.py" timestamp="1535348971997">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/price_boom/main.py" timestamp="1535349865785">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
         <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/airbnb2.py" timestamp="1529756263744">
@@ -653,13 +653,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>688</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>688</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
