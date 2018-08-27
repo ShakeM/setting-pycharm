@@ -337,6 +337,12 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="46" column="28" />
       </file>
+      <file name="$USER_HOME$/list3/zhenguo.py" timestamp="1535334730878">
+        <mark key="[" line="96" column="23" />
+        <mark key="]" line="96" column="29" />
+        <mark key="." line="96" column="29" />
+        <mark key="^" line="96" column="29" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/airbnb3.py" timestamp="1529756468539">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="26" />
@@ -641,19 +647,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>// 添加Coookie
-for (var c of tycCookies) {
-    c.url = &quot;https://www.tianyancha.com/&quot;
-    delete c.session
-    delete c.hostOnly
-    chrome.cookies.set(c)
-}</text>
+        <text>2718592</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>2718592</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
