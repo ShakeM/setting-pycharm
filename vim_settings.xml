@@ -37,11 +37,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1535705975798">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
+      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1535707296097">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532930515332">
         <mark key="[" line="27" column="20" />
@@ -653,13 +653,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>54jsy</text>
+        <text>jonathan.jiang@altium.com</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>54jsy</text>
+        <text>jonathan.jiang@altium.com</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
