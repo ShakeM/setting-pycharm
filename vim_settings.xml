@@ -37,12 +37,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1535707296097">
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532930515332">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="27" column="20" />
@@ -323,7 +317,7 @@
       </file>
       <file name="$USER_HOME$/jslib/main.py" timestamp="1532927977632">
         <mark key="'" line="3" column="18" />
-        <mark key="^" line="36" column="35" />
+        <mark key="^" line="39" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/config.py" timestamp="1530543628170">
         <mark key="[" line="0" column="0" />
@@ -409,15 +403,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535684387061">
+      <file name="/Dummy.txt" timestamp="1535939901262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1535680569078">
-        <mark key="[" line="261" column="2" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
+        <mark key="]" line="346" column="0" />
+        <mark key="." line="346" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
@@ -493,13 +486,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1535597619828">
-        <mark key="p" line="367" column="65" />
-        <mark key="'" line="423" column="39" />
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1535939726200">
+        <mark key="[" line="430" column="17" />
+        <mark key="]" line="430" column="64" />
+        <mark key="." line="430" column="64" />
+        <mark key="^" line="430" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/test.py" timestamp="1530544241566">
         <mark key="[" line="2" column="10" />
@@ -653,13 +644,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>jonathan.jiang@altium.com</text>
+        <text encoding="base64">PG1hcnF1ZWUgd2lkdGg9MTIwMCBiZWhhdmlvcj1hbHRlcm5hdGUgZGlyZWN0aW9uPWxlZnQgYWxpZ249bWlkZGxlIHNjcm9sbGFtb3VudD0iMSI+MjAxOMTqONTCMjHI1aO60ru8/Li01sbCycqmuq/Qxc+io6y98cjVxvTTwyEgteO799fzsuCwtMWluvOjrLW9wsnKprqvse248UNUUkwrVtaxvdPVs8z5o6zXotLio6HErMjPQsDguq+joTwvbWFycXVlZT4=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>jonathan.jiang@altium.com</text>
+        <text encoding="base64">PG1hcnF1ZWUgd2lkdGg9MTIwMCBiZWhhdmlvcj1hbHRlcm5hdGUgZGlyZWN0aW9uPWxlZnQgYWxpZ249bWlkZGxlIHNjcm9sbGFtb3VudD0iMSI+MjAxOMTqONTCMjHI1aO60ru8/Li01sbCycqmuq/Qxc+io6y98cjVxvTTwyEgteO799fzsuCwtMWluvOjrLW9wsnKprqvse248UNUUkwrVtaxvdPVs8z5o6zXotLio6HErMjPQsDguq+joTwvbWFycXVlZT4=</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
