@@ -126,7 +126,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1535946399020">
+      <file name="/Python Console" timestamp="1535951039132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
@@ -203,7 +203,12 @@
         <mark key="^" line="9" column="86" />
         <mark key="." line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/letter_assistant/letter.py" timestamp="1535945227438" />
+      <file name="$USER_HOME$/letter_assistant/letter.py" timestamp="1535949834446">
+        <mark key="[" line="16" column="100" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/middlewares.py" timestamp="1527009757170">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
@@ -214,9 +219,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1535680569078">
-        <mark key="]" line="346" column="0" />
-        <mark key="." line="346" column="0" />
+      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1535947203958">
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="47" />
+        <mark key="^" line="35" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
         <mark key="[" line="34" column="0" />
@@ -224,11 +231,12 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1535946393442">
-        <mark key="[" line="66" column="12" />
-        <mark key="]" line="66" column="15" />
-        <mark key="^" line="66" column="15" />
-        <mark key="." line="66" column="15" />
+      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1535951683025">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="89" column="207" />
+        <mark key="." line="89" column="207" />
+        <mark key="^" line="89" column="207" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532929999611">
         <mark key="[" line="17" column="77" />
@@ -251,12 +259,12 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1535945852216">
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1535950299664">
         <mark key="'" line="352" column="223" />
-        <mark key="[" line="430" column="17" />
-        <mark key="]" line="430" column="64" />
-        <mark key="." line="430" column="64" />
-        <mark key="^" line="430" column="64" />
+        <mark key="[" line="281" column="24" />
+        <mark key="]" line="281" column="25" />
+        <mark key="." line="281" column="25" />
+        <mark key="^" line="281" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -465,7 +473,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535946366997">
+      <file name="/Dummy.txt" timestamp="1535950310920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -542,8 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/scrapy_project/main.py" />
-      <jump line="7" column="999" filename="$USER_HOME$/PycharmProjects/list/tujia.py" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/list/test.py" />
       <jump line="34" column="28" filename="$USER_HOME$/PycharmProjects/list/test.py" />
       <jump line="33" column="220" filename="$USER_HOME$/PycharmProjects/list/test.py" />
@@ -642,6 +648,8 @@
       <jump line="301" column="12" filename="$USER_HOME$/jslib/static/js/opp.js" />
       <jump line="302" column="32" filename="$USER_HOME$/jslib/static/js/opp.js" />
       <jump line="352" column="223" filename="$USER_HOME$/jslib/static/js/opp.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/letter_assistant/app.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/letter_assistant/app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -658,22 +666,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>R</text>
+        <text>setting</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>setting</text>
       </register>
       <register name="/" type="4">
-        <text>复制函件</text>
+        <text>%s</text>
       </register>
-      <register name="0" type="4">
-        <text>str(int(time.time()) + random.randint(0, 9999999999)).zfill(10),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50OiBkZXNjcmlwdGlvbi5tYXRjaCgvob61wbDmyv3Bv6G/LiovKSA/IGRlc2NyaXB0aW9uLm1hdGNoKC+hvrXBsObK/cG/ob8uKi8pWzBdLnJlcGxhY2UoJ6G+tcGw5sr9wb+hv6O6JywgJycpIDogJycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdZb3UgY2FuIGZpbmQgYW4gYXVkaW8gZmlsZSBhdHRhY2hlZC4nLCAnL2xvY2FsL3BhdGgvc29uZy5tcDMnXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -683,45 +691,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdZb3UgY2FuIGZpbmQgYW4gYXVkaW8gZmlsZSBhdHRhY2hlZC4nLCAnL2xvY2FsL3BhdGgvc29uZy5tcDMnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cHJlc3NfdGFibGUgPSAnXG4nLmpvaW4oZXhwcmVzc190YWJsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdZb3UgY2FuIGZpbmQgYW4gYXVkaW8gZmlsZSBhdHRhY2hlZC4nLCAnL2xvY2FsL3BhdGgvc29uZy5tcDMnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cHJlc3NfdGFibGUgPSAnXG4nLmpvaW4oZXhwcmVzc190YWJsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbGV0dGVyX2luZm8nOltdLAo=</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvcy5wYXRoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnZXhwcmVzc19pbmZvJzpbXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZXR0ZXJfaW5mbykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChleHByZXNzX2luZm8pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>%s/letter/1/g</text>
       </register>
     </registers>
     <search>
-      <last-search>复制函件</last-search>
+      <last-search>%s</last-search>
       <last-offset />
-      <last-pattern>复制函件</last-pattern>
+      <last-pattern>%s</last-pattern>
+      <last-replace>1</last-replace>
+      <last-substitute>letter</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>download</entry>
-        <entry>output</entry>
-        <entry>stock</entry>
         <entry>cookie</entry>
         <entry>user</entry>
         <entry>UserToekn</entry>
@@ -737,11 +744,13 @@
         <entry>ip</entry>
         <entry encoding="base64">XDxBUElcPg==</entry>
         <entry>2</entry>
-        <entry>letter</entry>
         <entry>复制函件</entry>
+        <entry>letter['region</entry>
+        <entry>:%s</entry>
+        <entry>letter</entry>
+        <entry>%s</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>s</entry>
         <entry>saveas</entry>
         <entry>x</entry>
@@ -759,8 +768,9 @@
         <entry>action Replace</entry>
         <entry>action PreviousTab</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVRhYlJpZ2h0</entry>
-        <entry>action MoveTabRight</entry>
         <entry>action NextTab</entry>
+        <entry>action MoveTabRight</entry>
+        <entry>%s/letter/1/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
