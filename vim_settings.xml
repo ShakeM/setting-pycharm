@@ -14,11 +14,11 @@
         <mark key="." line="47" column="8" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1535964877326">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="286" column="59" />
-        <mark key="^" line="286" column="59" />
-        <mark key="." line="286" column="59" />
+      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1535969881736">
+        <mark key="[" line="123" column="56" />
+        <mark key="]" line="123" column="59" />
+        <mark key="^" line="123" column="59" />
+        <mark key="." line="123" column="59" />
       </file>
       <file name="/a.dummy" timestamp="1535945930801">
         <mark key="[" line="0" column="0" />
@@ -133,7 +133,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1535953431810">
+      <file name="/Python Console" timestamp="1535969797484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
@@ -221,16 +221,22 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/jslib/static/js/record.js" timestamp="1535967695164">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/__init__.py" timestamp="1529336152139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1535947203958">
-        <mark key="[" line="35" column="47" />
-        <mark key="]" line="35" column="47" />
-        <mark key="." line="35" column="47" />
-        <mark key="^" line="35" column="48" />
+      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1535968579229">
+        <mark key="[" line="118" column="32" />
+        <mark key="]" line="115" column="8" />
+        <mark key="." line="115" column="8" />
+        <mark key="^" line="119" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
         <mark key="[" line="34" column="0" />
@@ -238,7 +244,7 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1535961413781">
+      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1535966714376">
         <mark key="'" line="65" column="4" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -441,11 +447,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/app.js" timestamp="1535962375709">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="22" column="27" />
+      <file name="$USER_HOME$/jslib/static/js/app.js" timestamp="1535969862112">
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="72" column="11" />
+        <mark key="." line="72" column="11" />
+        <mark key="^" line="72" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/zhenguo_order.py" timestamp="1529736160553">
         <mark key="[" line="8" column="26" />
@@ -482,7 +488,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535964881607">
+      <file name="/Dummy.txt" timestamp="1535969932896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -498,6 +504,12 @@
         <mark key="]" line="82" column="19" />
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
+      </file>
+      <file name="$USER_HOME$/jslib/static/js/close.js" timestamp="1535968645640">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/popup.js" timestamp="1532597337726">
         <mark key="[" line="40" column="41" />
@@ -674,23 +686,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NoZW1lLmhpZGUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>录</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>结束函</text>
+        <text>录</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NoZW1lLmhpZGUoKQo=</text>
+        <text encoding="base64">Y2hyb21lLnJ1bnRpbWUuc2VuZE1lc3NhZ2Uoe2Nsb3NlVGhpczogdHJ1ZX0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gu/HIoXNldHRpbmcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -703,25 +715,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV4cHJlc3NfdHJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSAnb3V0cHV0LycgKyBncm91cF9uYW1lICsgJy8nICsgKyAnLmRvY3gnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb2Muc2F2ZSgnb3V0cHV0LycgKyBncm91cF9uYW1lICsgJy8nICsgZG9jX25hbWUrJy5kb2N4JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHN1ZmZpeCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvYy5zYXZlKCdvdXRwdXQvJyArIGdyb3VwX25hbWUgKyAnLycgKyBkb2NfbmFtZSArICcuZG9jeCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnaGVsbG8nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPENPTCB3aWR0aD0iMTAwcHgiPiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXJsID0gJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPENPTCB3aWR0aD0iMTAwcHgiPiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
       </register>
       <register name=":" type="4">
         <text>%s/letter/1/g</text>
