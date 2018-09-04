@@ -14,11 +14,11 @@
         <mark key="." line="47" column="8" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1536043676667">
-        <mark key="[" line="201" column="56" />
-        <mark key="]" line="192" column="53" />
-        <mark key="^" line="192" column="53" />
-        <mark key="." line="192" column="53" />
+      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1536055941855">
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="193" column="53" />
+        <mark key="^" line="193" column="53" />
+        <mark key="." line="193" column="53" />
       </file>
       <file name="/a.dummy" timestamp="1535945930801">
         <mark key="[" line="0" column="0" />
@@ -243,12 +243,12 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1536053811632">
+      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1536057010079">
         <mark key="'" line="79" column="4" />
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="104" column="13" />
-        <mark key="." line="104" column="13" />
-        <mark key="^" line="4" column="0" />
+        <mark key="[" line="92" column="97" />
+        <mark key="]" line="95" column="15" />
+        <mark key="." line="95" column="15" />
+        <mark key="^" line="95" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532929999611">
         <mark key="[" line="17" column="77" />
@@ -277,12 +277,12 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1536055090536">
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1536056169345">
         <mark key="'" line="317" column="33" />
-        <mark key="[" line="383" column="27" />
-        <mark key="]" line="383" column="27" />
-        <mark key="." line="383" column="27" />
-        <mark key="^" line="377" column="38" />
+        <mark key="[" line="463" column="115" />
+        <mark key="]" line="463" column="115" />
+        <mark key="." line="463" column="115" />
+        <mark key="^" line="463" column="122" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -452,11 +452,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/app.js" timestamp="1536044762361">
-        <mark key="[" line="135" column="57" />
-        <mark key="]" line="135" column="55" />
-        <mark key="." line="135" column="55" />
-        <mark key="^" line="135" column="55" />
+      <file name="$USER_HOME$/jslib/static/js/app.js" timestamp="1536056025880">
+        <mark key="[" line="177" column="38" />
+        <mark key="]" line="177" column="42" />
+        <mark key="." line="177" column="42" />
+        <mark key="^" line="177" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/zhenguo_order.py" timestamp="1529736160553">
         <mark key="[" line="8" column="26" />
@@ -475,6 +475,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/opp.js" timestamp="1536056143923" />
       <file name="$USER_HOME$/PycharmProjects/list/airbnb2.py" timestamp="1529413514601">
         <mark key="[" line="151" column="33" />
         <mark key="]" line="151" column="30" />
@@ -493,7 +494,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536055093877">
+      <file name="/Dummy.txt" timestamp="1536057016059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -692,13 +693,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>otherLetter</text>
+        <text>一键复制律hhh师函信息，今日启用! 点击左侧按钮后，到律师函表格CTRL+V直接粘贴，注意！默认B类函！</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>otherLetter</text>
+        <text>一键复制律hhh师函信息，今日启用! 点击左侧按钮后，到律师函表格CTRL+V直接粘贴，注意！默认B类函！</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
