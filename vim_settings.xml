@@ -231,11 +231,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1536031461803">
-        <mark key="[" line="107" column="59" />
-        <mark key="]" line="107" column="59" />
-        <mark key="." line="107" column="59" />
-        <mark key="^" line="107" column="59" />
+      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1536039476023">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
         <mark key="[" line="34" column="0" />
@@ -493,7 +493,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536038604275">
+      <file name="/Dummy.txt" timestamp="1536039734144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -691,14 +691,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
