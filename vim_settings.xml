@@ -14,7 +14,7 @@
         <mark key="." line="47" column="8" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1535969881736">
+      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1536025599681">
         <mark key="[" line="123" column="56" />
         <mark key="]" line="123" column="59" />
         <mark key="^" line="123" column="59" />
@@ -120,7 +120,6 @@
         <mark key="]" line="999" column="69" />
         <mark key="." line="999" column="69" />
       </file>
-      <file name="$USER_HOME$/letter_assistant/g.py" timestamp="1535962269178" />
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/background.js" timestamp="1532944251859">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="0" column="0" />
@@ -133,7 +132,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1535969797484">
+      <file name="/Python Console" timestamp="1536026061778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
@@ -221,11 +220,11 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/record.js" timestamp="1535967695164">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="52" />
+      <file name="$USER_HOME$/jslib/static/js/record.js" timestamp="1536025785423">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/__init__.py" timestamp="1529336152139">
         <mark key="[" line="0" column="0" />
@@ -272,9 +271,9 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1535962754960">
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1536025738483">
         <mark key="'" line="352" column="223" />
-        <mark key="[" line="341" column="0" />
+        <mark key="[" line="448" column="59" />
         <mark key="]" line="341" column="26" />
         <mark key="." line="341" column="0" />
         <mark key="^" line="328" column="7" />
@@ -488,7 +487,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535969932896">
+      <file name="/Dummy.txt" timestamp="1536026019957">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -687,13 +686,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>录</text>
+        <text>结束函</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>录</text>
+        <text>结束函</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
@@ -746,7 +745,7 @@
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
