@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list3/myapp_demo.py" timestamp="1530549365210">
@@ -209,11 +209,11 @@
         <mark key="^" line="9" column="86" />
         <mark key="." line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/letter_assistant/letter.py" timestamp="1536040861122">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="42" />
-        <mark key="." line="24" column="42" />
-        <mark key="^" line="25" column="20" />
+      <file name="$USER_HOME$/letter_assistant/letter.py" timestamp="1536115187711">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/middlewares.py" timestamp="1527009757170">
         <mark key="[" line="95" column="0" />
@@ -243,12 +243,12 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1536113568183">
-        <mark key="'" line="79" column="4" />
-        <mark key="[" line="93" column="15" />
-        <mark key="]" line="93" column="16" />
-        <mark key="." line="93" column="16" />
-        <mark key="^" line="95" column="15" />
+      <file name="$USER_HOME$/letter_assistant/app.py" timestamp="1536115512683">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532929999611">
         <mark key="[" line="17" column="77" />
@@ -493,7 +493,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536114224049">
+      <file name="/Dummy.txt" timestamp="1536115580852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -692,22 +692,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>一键复制律hhh师函信息，今日启用! 点击左侧按钮后，到律师函表格CTRL+V直接粘贴，注意！默认B类函！</text>
+        <text>main_tel</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>一键复制律hhh师函信息，今日启用! 点击左侧按钮后，到律师函表格CTRL+V直接粘贴，注意！默认B类函！</text>
+        <text>main_tel</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG9wcElkID0gbGV0dGVyLm9wcExpbmsucmVwbGFjZSgnaHR0cHM6Ly9ldTEuc2FsZXNmb3JjZS5jb20vJywgJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21haW5fdGVsJzpsZXR0ZXJfaW5mb1snbWFpbl90ZWwnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -717,28 +717,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2NoZW1lLmhpZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaW50ZXJncml0eS5oaWRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVnYWwuaGlkZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2NoZW1lLmhpZGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaW50ZXJncml0eS5oaWRlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2NoZW1lLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbGVnYWwuaGlkZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaW50ZXJncml0eS5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/letter/1/g</text>
