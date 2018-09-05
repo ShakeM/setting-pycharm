@@ -14,11 +14,11 @@
         <mark key="." line="47" column="8" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1536128853608">
-        <mark key="[" line="157" column="72" />
-        <mark key="]" line="157" column="73" />
+      <file name="$USER_HOME$/jslib/templates/index.html" timestamp="1536135434101">
+        <mark key="[" line="192" column="52" />
+        <mark key="]" line="192" column="52" />
         <mark key="^" line="157" column="78" />
-        <mark key="." line="157" column="73" />
+        <mark key="." line="192" column="52" />
       </file>
       <file name="/a.dummy" timestamp="1535945930801">
         <mark key="[" line="0" column="0" />
@@ -517,7 +517,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536129314799">
+      <file name="/Dummy.txt" timestamp="1536135471834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -722,13 +722,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>成功！若为第一次使用，建议重启浏览器!</text>
+        <text>老板</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>成功！若为第一次使用，建议重启浏览器!</text>
+        <text>老板</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
