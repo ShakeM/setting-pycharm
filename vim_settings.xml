@@ -295,11 +295,11 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1536056169345">
-        <mark key="'" line="317" column="33" />
-        <mark key="[" line="463" column="115" />
-        <mark key="]" line="463" column="115" />
-        <mark key="." line="463" column="115" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1536214337712">
+        <mark key="'" line="386" column="2" />
+        <mark key="[" line="463" column="105" />
+        <mark key="]" line="463" column="105" />
+        <mark key="." line="463" column="105" />
         <mark key="^" line="463" column="122" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
@@ -523,7 +523,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536210817831">
+      <file name="/Dummy.txt" timestamp="1536214594501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -612,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="39" filename="$USER_HOME$/index_flask/app.py" />
       <jump line="423" column="19" filename="$USER_HOME$/index_flask/templates/index.html" />
       <jump line="434" column="19" filename="$USER_HOME$/index_flask/templates/index.html" />
       <jump line="76" column="4" filename="$USER_HOME$/index_flask/app.py" />
@@ -712,6 +711,7 @@
       <jump line="80" column="21" filename="$USER_HOME$/letter_assistant/app.py" />
       <jump line="65" column="4" filename="$USER_HOME$/letter_assistant/app.py" />
       <jump line="317" column="33" filename="$USER_HOME$/jslib/static/js/opp.js" />
+      <jump line="386" column="2" filename="$USER_HOME$/jslib/static/js/opp.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -728,16 +728,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>price</text>
+        <text>2018年9月4日：函件助手 正式上线！！像购物一样制作函件！第一步先点【加入购物车】，然后再点【购物车结算】。然后点【发送至我的邮箱】！到邮箱中查看</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text>2018年9月4日：函件助手 正式上线！！像购物一样制作函件！第一步先点【加入购物车】，然后再点【购物车结算】。然后点【发送至我的邮箱】！到邮箱中查看</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>公告</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5yZWNvcmRzID0gdGhpcy5sZXR0ZXJzLmRvaW5nLmNvbmNhdCh0aGlzLmxldHRlcnMucmVjb3JkcykKICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5kb2luZyA9IFtdCg==</text>
@@ -781,17 +781,16 @@
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>公告</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>公告</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>UserToekn</entry>
         <entry>User</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
@@ -811,6 +810,7 @@
         <entry>letter</entry>
         <entry>%s</entry>
         <entry>group</entry>
+        <entry>公告</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
