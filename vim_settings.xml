@@ -470,8 +470,8 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/jslib/templates/tutorial.html" timestamp="1531993014523">
-        <mark key="[" line="39" column="4" />
+      <file name="$USER_HOME$/jslib/templates/tutorial.html" timestamp="1536312775367">
+        <mark key="[" line="11" column="13" />
         <mark key="]" line="38" column="17" />
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="0" />
@@ -523,7 +523,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536286983450">
+      <file name="/Dummy.txt" timestamp="1536312780934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
