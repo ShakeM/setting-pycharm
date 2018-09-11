@@ -158,11 +158,11 @@
         <mark key="." line="123" column="19" />
         <mark key="^" line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/task.js" timestamp="1536631301560">
-        <mark key="[" line="230" column="23" />
-        <mark key="]" line="230" column="32" />
-        <mark key="^" line="230" column="32" />
-        <mark key="." line="230" column="32" />
+      <file name="$USER_HOME$/jslib/static/js/task.js" timestamp="1536632934812">
+        <mark key="[" line="183" column="4" />
+        <mark key="]" line="183" column="7" />
+        <mark key="^" line="183" column="7" />
+        <mark key="." line="183" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/mayi.py" timestamp="1529756447488">
         <mark key="[" line="100" column="0" />
@@ -529,7 +529,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536631305937">
+      <file name="/Dummy.txt" timestamp="1536632938847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -733,23 +733,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getOpp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9wcHMgPSBbXQo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getOpp</text>
+        <text>有</text>
       </register>
       <register name="/" type="4">
         <text>公告</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5yZWNvcmRzID0gdGhpcy5sZXR0ZXJzLmRvaW5nLmNvbmNhdCh0aGlzLmxldHRlcnMucmVjb3JkcykKICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5kb2luZyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRPbmVPcHAoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3Bwcy5wdXNoKHYpCg==</text>
+        <text encoding="base64">ICAgIG9wcHMgPSBbXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -759,179 +759,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbiA9IDAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBvcHBzID0gW10K</text>
       </register>
-      <register name="4" type="4">
-        <text>[{
-    &quot;domain&quot;: &quot;www.tianyancha.com&quot;,
-    &quot;hostOnly&quot;: true,
-    &quot;httpOnly&quot;: true,
-    &quot;name&quot;: &quot;aliyungf_tc&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: true,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;AQAAAOeVHwV2SQUAylXWZ+zSkwusjTUJ&quot;
-}, {
-    &quot;domain&quot;: &quot;www.tianyancha.com&quot;,
-    &quot;hostOnly&quot;: true,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;csrfToken&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: true,
-    &quot;session&quot;: true,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;burXCqE7811X-rRUTquhVUTb&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 1598751937.852331,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: true,
-    &quot;name&quot;: &quot;TYCID&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;8f1a0be0acbf11e881bd711eaddc4210&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 1598751937.852403,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: true,
-    &quot;name&quot;: &quot;undefined&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;8f1a0be0acbf11e881bd711eaddc4210&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 1567216276,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;Hm_lvt_e92c8d65d92d534b0fc290df538b4758&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;1535612572,1535613005,1535613223,1535680212&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 1598752276,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;_ga&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;GA1.2.1252536261.1535680213&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 1535766676,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;_gid&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;GA1.2.939315564.1535680213&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 2145923412,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;ssuid&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;5509115803&quot;
-}, {
-    &quot;domain&quot;: &quot;www.tianyancha.com&quot;,
-    &quot;hostOnly&quot;: true,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;token&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: true,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;b77d22a9b6ec4d3a8c874937c3fd71de&quot;
-}, {
-    &quot;domain&quot;: &quot;www.tianyancha.com&quot;,
-    &quot;hostOnly&quot;: true,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;_utm&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: true,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;aa8e573e4b80460cae6e78c8b895966e&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 1536285069,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;tyc-user-info&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;%257B%2522isExpired%2522%253A%25220%2522%252C%2522token%2522%253A%2522eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxNTYxODkxMjAxNSIsImlhdCI6MTUzNTY4MDI2OCwiZXhwIjoxNTUxMjMyMjY4fQ.zHL9Wi08HX_W84fwE1-6HIh8tysAVuU4sn5_t_E7FGHbphLuNrfJtnIooBP1JhHn4wx3B5cV8t_39-wZzU13Dg%2522%252C%2522integrity%2522%253A%25220%2525%2522%252C%2522state%2522%253A%25225%2522%252C%2522surday%2522%253A%2522355%2522%252C%2522redPoint%2522%253A%25220%2522%252C%2522vipManager%2522%253A%25220%2522%252C%2522vnum%2522%253A%252220%2522%252C%2522onum%2522%253A%25221%2522%252C%2522mobile%2522%253A%252215618912015%2522%257D&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;expirationDate&quot;: 1536285069,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;auth_token&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: false,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxNTYxODkxMjAxNSIsImlhdCI6MTUzNTY4MDI2OCwiZXhwIjoxNTUxMjMyMjY4fQ.zHL9Wi08HX_W84fwE1-6HIh8tysAVuU4sn5_t_E7FGHbphLuNrfJtnIooBP1JhHn4wx3B5cV8t_39-wZzU13Dg&quot;
-}, {
-    &quot;domain&quot;: &quot;.tianyancha.com&quot;,
-    &quot;hostOnly&quot;: false,
-    &quot;httpOnly&quot;: false,
-    &quot;name&quot;: &quot;Hm_lpvt_e92c8d65d92d534b0fc290df538b4758&quot;,
-    &quot;path&quot;: &quot;/&quot;,
-    &quot;sameSite&quot;: &quot;no_restriction&quot;,
-    &quot;secure&quot;: false,
-    &quot;session&quot;: true,
-    &quot;storeId&quot;: &quot;0&quot;,
-    &quot;value&quot;: &quot;1535680277&quot;
-}]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRPbmVPcHAoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc0xvYWRpbmcgPSB0cnVlCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdi5jbGljaygpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Rgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgdmFyIG4gPSAwCiAgICAgICAgb3BwcyA9IFtdCiAgICAgICAgJGEuZWFjaChmdW5jdGlvbiAoaSwgdikgewogICAgICAgICAgICBvcHBzLnB1c2godikKICAgICAgICB9KQogICAgICAgIGdldE9uZU9wcCgpCiAgICAgICAgZ2V0T25lT3BwKCkKICAgICAgICBnZXRPbmVPcHAoKQogICAgICAgIGdldE9uZU9wcCgpCiAgICAgICAgZ2V0T25lT3BwKCkKICAgICAgICBnZXRPbmVPcHAoKQogICAgICAgIGdldE9uZU9wcCgpCiAgICAgICAgZ2V0T25lT3BwKCkKICAgICAgICBnZXRPbmVPcHAoKQogICAgICAgIGdldE9uZU9wcCgpCgogICAgICAgIGZ1bmN0aW9uIGdldE9uZU9wcCgpIHsKICAgICAgICAgICAgdmFyIGluZGV4ID0gcGFyc2VJbnQob3Bwcy5sZW5ndGggKiBNYXRoLnJhbmRvbSgpIC0gMSkKCiAgICAgICAgICAgIGlmIChjbGlja2VkLmluZGV4T2YoaW5kZXgpID09PSAtMSkgewogICAgICAgICAgICAgICAgb3Bwc1tpbmRleF0uY2xpY2soKQogICAgICAgICAgICAgICAgY2xpY2tlZC5wdXNoKGluZGV4KQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgZ2V0T25lT3BwKCkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICB2YXIgbiA9IDAKICAgICAgICBvcHBzID0gW10KICAgICAgICAkYS5lYWNoKGZ1bmN0aW9uIChpLCB2KSB7CiAgICAgICAgICAgIG9wcHMucHVzaCh2KQogICAgICAgIH0pCiAgICAgICAgZ2V0T25lT3BwKCkKICAgICAgICBnZXRPbmVPcHAoKQogICAgICAgIGdldE9uZU9wcCgpCiAgICAgICAgZ2V0T25lT3BwKCkKICAgICAgICBnZXRPbmVPcHAoKQogICAgICAgIGdldE9uZU9wcCgpCiAgICAgICAgZ2V0T25lT3BwKCkKICAgICAgICBnZXRPbmVPcHAoKQogICAgICAgIGdldE9uZU9wcCgpCiAgICAgICAgZ2V0T25lT3BwKCkKCiAgICAgICAgZnVuY3Rpb24gZ2V0T25lT3BwKCkgewogICAgICAgICAgICB2YXIgaW5kZXggPSBwYXJzZUludChvcHBzLmxlbmd0aCAqIE1hdGgucmFuZG9tKCkgLSAxKQoKICAgICAgICAgICAgaWYgKGNsaWNrZWQuaW5kZXhPZihpbmRleCkgPT09IC0xKSB7CiAgICAgICAgICAgICAgICBvcHBzW2luZGV4XS5jbGljaygpCiAgICAgICAgICAgICAgICBjbGlja2VkLnB1c2goaW5kZXgpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBnZXRPbmVPcHAoKQogICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmxldHRlcnMucmVjb3JkcyA9IHRoaXMubGV0dGVycy5kb2luZy5jb25jYXQodGhpcy5sZXR0ZXJzLnJlY29yZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIG12TGV0dGVyKCkgewo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICB2YXIgbiA9IDAKICAgICAgICAkYS5lYWNoKGZ1bmN0aW9uIChpLCB2KSB7CiAgICAgICAgICAgIGlmICgkKHYpLmF0dHIoJ3RpdGxlJykuaW5kZXhPZignUmVtaW5kZXIgJykgPiAtMSB8fAogICAgICAgICAgICAgICAgJCh2KS5hdHRyKCd0aXRsZScpLmluZGV4T2YoJ2NoYW5nZScpID4gLTEgfHwKICAgICAgICAgICAgICAgICQodikuYXR0cigndGl0bGUnKS5pbmRleE9mKCdMZXR0ZXInKSA+IC0xIHx8CiAgICAgICAgICAgICAgICAkKHYpLmF0dHIoJ3RpdGxlJykuaW5kZXhPZignQ2hhbmdlJykgPiAtMSkgewogICAgICAgICAgICAgICAgbiA9IG4gKyAxCiAgICAgICAgICAgICAgICBpZiAobiA+IDI2KSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdmFyIG5ld19ocmVmID0gJCh0aGlzKS5hdHRyKCdocmVmJykgKyAnI2Nsb3NlJwogICAgICAgICAgICAgICAgJCh0aGlzKS5hdHRyKCdocmVmJywgbmV3X2hyZWYpCiAgICAgICAgICAgICAgICB0aGlzLmNsaWNrKCkKICAgICAgICAgICAgfQogICAgICAgIH0p</text>
       </register>
       <register name=":" type="4">
         <text>%s/letter/1/g</text>
