@@ -158,6 +158,12 @@
         <mark key="." line="123" column="19" />
         <mark key="^" line="123" column="18" />
       </file>
+      <file name="$USER_HOME$/jslib/static/js/task.js" timestamp="1536631301560">
+        <mark key="[" line="230" column="23" />
+        <mark key="]" line="230" column="32" />
+        <mark key="^" line="230" column="32" />
+        <mark key="." line="230" column="32" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/mayi.py" timestamp="1529756447488">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -523,7 +529,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536565374794">
+      <file name="/Dummy.txt" timestamp="1536631305937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -728,13 +734,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>price_add_discount</text>
+        <text>getOpp</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>price_add_discount</text>
+        <text>getOpp</text>
       </register>
       <register name="/" type="4">
         <text>公告</text>
@@ -742,7 +748,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5yZWNvcmRzID0gdGhpcy5sZXR0ZXJzLmRvaW5nLmNvbmNhdCh0aGlzLmxldHRlcnMucmVjb3JkcykKICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5kb2luZyA9IFtdCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3Bwcy5wdXNoKHYpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgbiA9IDAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvcHBzID0gW10K</text>
+      </register>
+      <register name="4" type="4">
         <text>[{
     &quot;domain&quot;: &quot;www.tianyancha.com&quot;,
     &quot;hostOnly&quot;: true,
@@ -896,36 +918,20 @@
     &quot;value&quot;: &quot;1535680277&quot;
 }]</text>
       </register>
-      <register name="q" type="4">
-        <keys>
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pc0xvYWRpbmcgPSB0cnVlCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Rgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmxldHRlcnMucmVjb3JkcyA9IHRoaXMubGV0dGVycy5kb2luZy5jb25jYXQodGhpcy5sZXR0ZXJzLnJlY29yZHMpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIG12TGV0dGVyKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5yZWNvcmRzID0gdGhpcy5sZXR0ZXJzLmRvaW5nLmNvbmNhdCh0aGlzLmxldHRlcnMucmVjb3JkcykKICAgICAgICAgICAgICAgIHRoaXMubGV0dGVycy5kb2luZyA9IFtdCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIG12TGV0dGVyKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/letter/1/g</text>
