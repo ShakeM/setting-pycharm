@@ -301,7 +301,7 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1536214337712">
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1536730899531">
         <mark key="'" line="386" column="2" />
         <mark key="[" line="463" column="105" />
         <mark key="]" line="463" column="105" />
@@ -733,14 +733,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9wcHMgPSBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text>函件助手 9月6日更新：已修复 第一次使用，出现空邮件的情况；已修复 深圳函件模板右上角还是上海地址的问题。 ☆有问题与意见请发送至jonathan.jiang@altium.com</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>有</text>
+        <text>函件助手 9月6日更新：已修复 第一次使用，出现空邮件的情况；已修复 深圳函件模板右上角还是上海地址的问题。 ☆有问题与意见请发送至jonathan.jiang@altium.com</text>
       </register>
       <register name="/" type="4">
         <text>公告</text>
