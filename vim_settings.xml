@@ -138,7 +138,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1537345678393">
+      <file name="/Python Console" timestamp="1537347243250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1537344589728">
@@ -353,6 +353,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/result.txt" timestamp="1537346668866">
+        <mark key="[" line="272" column="12" />
+        <mark key="]" line="108" column="58" />
+        <mark key="^" line="108" column="58" />
+        <mark key="." line="108" column="58" />
+      </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532930515332">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="27" column="20" />
@@ -365,11 +371,10 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537345672123">
-        <mark key="[" line="145" column="40" />
-        <mark key="]" line="146" column="34" />
-        <mark key="." line="146" column="34" />
-        <mark key="^" line="146" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537347225389">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
         <mark key="[" line="47" column="17" />
@@ -742,8 +747,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>异常	异常</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -758,57 +763,56 @@
         <text>异常	异常</text>
       </register>
       <register name="/" type="4">
-        <text>expiration</text>
+        <text>异常</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbmZvID0gdHkuZXh0cmFjdF9saW5rKGh0bWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0bWwgPSB0eS5yZXF1ZXN0KGNvbXBhbnlfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGh0bWwgPSB0eS5yZXF1ZXN0X3VybChsaW5rKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkZAo=</text>
+        <text encoding="base64">ICAgIGh0bWwgPSB0eS5yZXF1ZXN0KGNvbXBhbnlfbmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5rID0gbGluay5ncm91cCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxpbms6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZS5zZWFyY2goJ2h0dHBzLio/KD89XHQpJywgbGluaykuZ3JvdXAoKQo=</text>
+        <text encoding="base64">ICAgIGRkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5rID0gbGluay5ncm91cCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
       </register>
     </registers>
     <search>
-      <last-search>expiration</last-search>
+      <last-search>异常</last-search>
       <last-offset />
-      <last-pattern>expiration</last-pattern>
+      <last-pattern>异常</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>最近</entry>
         <entry>show</entry>
         <entry>remote</entry>
         <entry>ip</entry>
@@ -828,6 +832,7 @@
         <entry>send</entry>
         <entry>ex</entry>
         <entry>expiration</entry>
+        <entry>异常</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
