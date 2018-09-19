@@ -45,11 +45,8 @@
         <mark key="^" line="166" column="41" />
         <mark key="." line="109" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/company_list.txt" timestamp="1537335782512">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/company_list.txt" timestamp="1537341045249">
+        <mark key="[" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/config.py" timestamp="1530615193205">
         <mark key="[" line="0" column="8" />
@@ -353,9 +350,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/result.txt" timestamp="1537338606871">
-        <mark key="[" line="0" column="88" />
-      </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532930515332">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="27" column="20" />
@@ -368,11 +362,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537338764287">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="133" column="3" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537341129148">
+        <mark key="[" line="110" column="19" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="102" column="18" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
         <mark key="[" line="47" column="17" />
@@ -547,13 +541,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/link_list.txt" timestamp="1537337634106">
-        <mark key="'" line="58" column="41" />
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="45" />
-        <mark key="^" line="61" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
@@ -753,7 +740,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">biA9IDAK</text>
+        <text encoding="base64">ICAgIGRkZAo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -765,43 +752,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>child</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>expiration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmR1c3RyeSA9IHNvdXAuc2VsZWN0X29uZSgKICAgICAgICAgICAgJyNfY29udGFpbmVyX2Jhc2VJbmZvID4gdGFibGUudGFibGUuLXN0cmlwZWQtY29sLi1ib3JkZXItdG9wLW5vbmUgPiB0Ym9keSA+IHRyOm50aC1jaGlsZCgzKSA+IHRkOm50aC1jaGlsZCg0KScpLnRleHQK</text>
+        <text encoding="base64">IyAgICAgICAgICAgICBpbmZvLmFwcGVuZCgiw/vX1rK70rvWwtDo0qq6y7bUOiIgKyBjb21wYW55X25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">biA9IDAK</text>
+        <text encoding="base64">ICAgIGRkZAo=</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5rID0gbGluay5ncm91cCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG4gPiAyOgo=</text>
+        <text encoding="base64">ICAgIGlmIGxpbms6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG4gKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICByZS5zZWFyY2goJ2h0dHBzLio/KD89XHQpJywgbGluaykuZ3JvdXAoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5mb3MgPSBbXQo=</text>
+        <text encoding="base64">biA9IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YiA9IHJlLnNlYXJjaCgnaHR0cHM6Lio/KD89XHQpJywgKQo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmsK</text>
+        <text encoding="base64">ICAgIGlmIG4gPiAyOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmsgPSByZS5zZWFyY2goJ2h0dHBzLio/KD89XHQpJywgbGluaylkZAo=</text>
+        <text encoding="base64">ICAgIG4gKz0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
