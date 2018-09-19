@@ -138,7 +138,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1536905040160">
+      <file name="/Python Console" timestamp="1537335260931">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
@@ -805,7 +805,7 @@
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
