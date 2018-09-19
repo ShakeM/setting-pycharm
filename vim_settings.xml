@@ -138,7 +138,10 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1537343726918">
+      <file name="/Python Console" timestamp="1537345678393">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1537344589728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
@@ -362,11 +365,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537343700171">
-        <mark key="[" line="107" column="8" />
-        <mark key="]" line="107" column="9" />
-        <mark key="^" line="107" column="9" />
-        <mark key="." line="107" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537345672123">
+        <mark key="[" line="145" column="40" />
+        <mark key="]" line="146" column="34" />
+        <mark key="." line="146" column="34" />
+        <mark key="^" line="146" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
         <mark key="[" line="47" column="17" />
@@ -739,8 +742,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkZAo=</text>
+      <register name="&quot;" type="4">
+        <text>异常	异常</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -752,43 +755,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>异常	异常</text>
       </register>
       <register name="/" type="4">
         <text>expiration</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICBpbmZvLmFwcGVuZCgiw/vX1rK70rvWwtDo0qq6y7bUOiIgKyBjb21wYW55X25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvID0gdHkuZXh0cmFjdF9saW5rKGh0bWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5rID0gbGluay5ncm91cCgpCg==</text>
+        <text encoding="base64">ICAgIGh0bWwgPSB0eS5yZXF1ZXN0KGNvbXBhbnlfbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGxpbms6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZS5zZWFyY2goJ2h0dHBzLio/KD89XHQpJywgbGluaykuZ3JvdXAoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRkZAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">biA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBsaW5rID0gbGluay5ncm91cCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgIGlmIGxpbms6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG4gPiAyOgo=</text>
+        <text encoding="base64">ICAgICAgICByZS5zZWFyY2goJ2h0dHBzLio/KD89XHQpJywgbGluaykuZ3JvdXAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG4gKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
