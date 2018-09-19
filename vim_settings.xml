@@ -45,9 +45,6 @@
         <mark key="^" line="166" column="41" />
         <mark key="." line="109" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/company_list.txt" timestamp="1537341045249">
-        <mark key="[" line="7" column="12" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/config.py" timestamp="1530615193205">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="11" />
@@ -140,6 +137,9 @@
         <mark key="]" line="133" column="30" />
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
+      </file>
+      <file name="/Python Console" timestamp="1537343726918">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/index_2018-05-25_23-55-25__1527263725.json" timestamp="1527263920823">
         <mark key="[" line="0" column="0" />
@@ -362,11 +362,11 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537341129148">
-        <mark key="[" line="110" column="19" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="102" column="18" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537343700171">
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="107" column="9" />
+        <mark key="^" line="107" column="9" />
+        <mark key="." line="107" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
         <mark key="[" line="47" column="17" />
