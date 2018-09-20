@@ -138,8 +138,10 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1537430462678">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1537431840634">
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="/fragment.py" timestamp="1537344589728">
         <mark key="[" line="0" column="0" />
@@ -580,11 +582,12 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/playground/main.py" timestamp="1534744169728">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/playground/main.py" timestamp="1537431839028">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/inject.js" timestamp="1532685428920">
         <mark key="[" line="126" column="25" />
@@ -628,7 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="10" filename="$USER_HOME$/untitled3/main.py" />
       <jump line="32" column="24" filename="$USER_HOME$/untitled3/main.py" />
       <jump line="44" column="3" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
       <jump line="101" column="21" filename="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/pipelines.py" />
@@ -728,6 +730,7 @@
       <jump line="303" column="22" filename="$USER_HOME$/jslib/static/js/background.js" />
       <jump line="315" column="22" filename="$USER_HOME$/jslib/static/js/background.js" />
       <jump line="58" column="41" filename="$USER_HOME$/PycharmProjects/tianyan_score/link_list.txt" />
+      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/playground/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -741,8 +744,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
+      <register name="&quot;" type="4">
+        <text>FrenchDeck</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -754,7 +757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>异常	异常</text>
+        <text>FrenchDeck</text>
       </register>
       <register name="/" type="4">
         <text>异常</text>
@@ -763,34 +766,34 @@
         <text encoding="base64">ICAgICAgICBpbmZvID0gdHkuZXh0cmFjdF9saW5rKGh0bWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGh0bWwgPSB0eS5yZXF1ZXN0X3VybChsaW5rKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">amprCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGh0bWwgPSB0eS5yZXF1ZXN0KGNvbXBhbnlfbmFtZSkK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUKaW1wb3J0IGFzeW5jaW8KCm5vdyA9IGxhbWJkYTogdGltZS50aW1lKCkKCgphc3luYyBkZWYgc2xlZXAoKToKICAgIHByaW50KCdTbGVlcCEnKQogICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQogICAgcHJpbnQoJ1dha2UhJykKCgpzdGFydCA9IG5vdygpCgpsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCnRhc2sxID0gc2xlZXAoKQp0YXNrMiA9IHNsZWVwKCkKdGFza3MgPSBhc3luY2lvLndhaXQoW3Rhc2sxLCB0YXNrMl0pCmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHRhc2tzKQoKcHJpbnQoJ1RJTUU6ICcsIG5vdygpIC0gc3RhcnQpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQK</text>
+        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkZAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGh0bWwgPSB0eS5yZXF1ZXN0X3VybChsaW5rKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5rID0gbGluay5ncm91cCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGluZm8gPSB0eS5leHRyYWN0X2RldGFpbChodG1sKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
