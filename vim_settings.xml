@@ -374,10 +374,10 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537850812767">
+      <file name="$USER_HOME$/PycharmProjects/tianyan_score/main.py" timestamp="1537851464738">
         <mark key="[" line="155" column="15" />
-        <mark key="]" line="155" column="16" />
-        <mark key="." line="155" column="16" />
+        <mark key="]" line="155" column="15" />
+        <mark key="." line="155" column="15" />
         <mark key="^" line="144" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
@@ -753,7 +753,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>5</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -765,7 +765,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>异常</text>
