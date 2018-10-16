@@ -144,7 +144,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1539224751099">
+      <file name="/Python Console" timestamp="1539680321678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="9" />
         <mark key="^" line="1" column="9" />
@@ -321,12 +321,12 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1539225193157">
-        <mark key="'" line="393" column="2" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-        <mark key="^" line="181" column="47" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1539682465005">
+        <mark key="'" line="404" column="2" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu/myapp.py" timestamp="1528027715410">
         <mark key="[" line="22" column="0" />
@@ -549,7 +549,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539225202571">
+      <file name="/Dummy.txt" timestamp="1539682003828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -752,8 +752,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGlmckRvYykK</text>
+      <register name="&quot;" type="4">
+        <text>rocketMember</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -765,60 +765,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>contentWindow.document</text>
+        <text>rocketMember</text>
       </register>
       <register name="/" type="4">
-        <text>异常</text>
+        <text encoding="base64">XDwnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>window.frames</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByb2NrZXQ6ICdodHRwczovL2V1MS5zYWxlc2ZvcmNlLmNvbS8wME9EMDAwMDAwN05rdWwnICsgJyNleHQnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGlmckRvYykK</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1lcnM6JycK</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpZnJEb2MgPSBpZnIuY29udGVudERvY3VtZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDEpCg==</text>
+        <text encoding="base64">ICAgIC8vIHZhciBicm90aGVyc01lbWJlciA9IFsnSm9uYXRoYW4gSmlhbmcnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJG1hcmtldG8uY29udGVudHMoKS5maW5kKCdib2R5JykudGV4dCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGlmckRvYykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpZnJEb2MgPSBpZnIuY29udGVudERvY3VtZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJG1hcmtldG8uY29udGVudHMoKS5maW5kKCdib2R5JykudGV4dCgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkbWFya2V0by5jb250ZW50cygpLmZpbmQoJ2JvZHknKS5pbm5lclRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
       </register>
     </registers>
     <search>
-      <last-search>异常</last-search>
+      <last-search encoding="base64">XDwnXD4=</last-search>
       <last-offset />
-      <last-pattern>异常</last-pattern>
+      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
         <entry>remote</entry>
         <entry>ip</entry>
         <entry encoding="base64">XDxBUElcPg==</entry>
@@ -838,6 +837,7 @@
         <entry>ex</entry>
         <entry>expiration</entry>
         <entry>异常</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
