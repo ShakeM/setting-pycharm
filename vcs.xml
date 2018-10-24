@@ -42,6 +42,10 @@
           <option name="url" value="https://gitlab.com/Jonathan.Nuance/letter_assistant" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://list.applinzi.com" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jonathan.jiang" />
