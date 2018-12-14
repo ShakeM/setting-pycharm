@@ -81,11 +81,6 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sql_playground/main.py" timestamp="1544583342325">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529736684379">
         <mark key="[" line="68" column="29" />
         <mark key="]" line="68" column="33" />
@@ -285,7 +280,6 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sql_playground/venv/Lib/site-packages/flask_sqlalchemy/__init__.py" timestamp="1544588063665" />
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/js/cms.js" timestamp="1532930515332">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="27" column="20" />
@@ -536,6 +530,7 @@
         <mark key="^" line="8" column="2121" />
         <mark key="." line="8" column="2121" />
       </file>
+      <file name="$USER_HOME$/jslib/static/file/AltiumDirector MAX/AltiumDirector/manifest.json" timestamp="1544775789941" />
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/test.py" timestamp="1530614366918">
         <mark key="[" line="66" column="20" />
         <mark key="]" line="66" column="20" />
@@ -726,7 +721,7 @@
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
