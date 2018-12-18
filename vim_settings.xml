@@ -247,6 +247,12 @@
       <file name="$USER_HOME$/list3/requirements.txt" timestamp="1543801627784">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1545104983100">
+        <mark key="[" line="16" column="105" />
+        <mark key="]" line="16" column="104" />
+        <mark key="." line="16" column="104" />
+        <mark key="^" line="16" column="104" />
+      </file>
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -458,6 +464,9 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1545104987595">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="7" column="0" />
@@ -530,7 +539,6 @@
         <mark key="^" line="8" column="2121" />
         <mark key="." line="8" column="2121" />
       </file>
-      <file name="$USER_HOME$/jslib/static/file/AltiumDirector MAX/AltiumDirector/manifest.json" timestamp="1544775789941" />
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/spiders/test.py" timestamp="1530614366918">
         <mark key="[" line="66" column="20" />
         <mark key="]" line="66" column="20" />
@@ -660,7 +668,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cls.__name__.lower()</text>
+        <text>https://eu1.salesforce.com/00OD0000007NlxW</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -672,13 +680,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cls.__name__.lower()</text>
+        <text>https://eu1.salesforce.com/00OD0000007NlxW</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNscwo=</text>
+        <text encoding="base64">ICAgICAgICBrZW46ICdodHRwczovL2V1MS5zYWxlc2ZvcmNlLmNvbS8wME9EMDAwMDAwN05seFcnICsgJyNleHQnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgcmVmX3RhYmxlKGNscywgZGI9c2VsZi5kYik6CiAgICAgICAgICAgIGFzc29jaWF0aW9uX3RhYmxlX25hbWUgPSAiXyVzXyVzIiAlICh0YWJsZSwgdGFibGUpCg==</text>
