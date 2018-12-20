@@ -57,6 +57,12 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
+      <file name="$USER_HOME$/jslib/static/js/report.js" timestamp="1545281368487">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/xiaozhu.py" timestamp="1529732658868">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="19" />
@@ -80,6 +86,9 @@
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/jslib/static/js/reminder.js" timestamp="1545281155162">
+        <mark key="^" line="1" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529736684379">
         <mark key="[" line="68" column="29" />
@@ -126,11 +135,12 @@
         <mark key="." line="123" column="19" />
         <mark key="^" line="123" column="18" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/task.js" timestamp="1536632934812">
-        <mark key="[" line="183" column="4" />
-        <mark key="]" line="183" column="7" />
-        <mark key="^" line="183" column="7" />
-        <mark key="." line="183" column="7" />
+      <file name="$USER_HOME$/jslib/static/js/task.js" timestamp="1545281382054">
+        <mark key="'" line="265" column="0" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/mayi.py" timestamp="1529756447488">
         <mark key="[" line="100" column="0" />
@@ -168,6 +178,12 @@
       <file name="/_parent_child [sqlite]" timestamp="1544590826586">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/jslib/static/js/express.js" timestamp="1545281401186">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="/person [sqlite]" timestamp="1544590163297">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,11 +208,11 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/record.js" timestamp="1540351456231">
-        <mark key="[" line="40" column="92" />
-        <mark key="]" line="40" column="99" />
-        <mark key="." line="40" column="99" />
-        <mark key="^" line="40" column="99" />
+      <file name="$USER_HOME$/jslib/static/js/record.js" timestamp="1545281388281">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
         <mark key="[" line="34" column="0" />
@@ -247,14 +263,20 @@
       <file name="$USER_HOME$/list3/requirements.txt" timestamp="1543801627784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1545206000781">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="19" column="43" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1545281094025">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jslib/static/js/activity_history.js" timestamp="1545281408774">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
         <mark key="[" line="23" column="13" />
@@ -464,7 +486,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545205801414">
+      <file name="/Dummy.txt" timestamp="1545281270062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
@@ -554,10 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_order.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_order.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_order.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/list/verify_status/xiaozhu_order.py" />
       <jump line="136" column="3" filename="$USER_HOME$/PycharmProjects/list3/zhenguo.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/list3/test.py" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/list3/test.py" />
@@ -654,6 +672,10 @@
       <jump line="46" column="14" filename="$USER_HOME$/PycharmProjects/sql_playground/app.py" />
       <jump line="49" column="27" filename="$USER_HOME$/PycharmProjects/sql_playground/app.py" />
       <jump line="51" column="9" filename="$USER_HOME$/PycharmProjects/sql_playground/models.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
+      <jump line="261" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -668,7 +690,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBpZiAoYnJvdGhlcnNNZW1iZXIuaW5kZXhPZihuYW1lKSA+PSAwKSB7CiAgICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiYm9keSIpLnN0eWxlLnZpc2liaWxpdHkgPSAiaGlkZGVuIgogICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCJib2R5Iikuc3R5bGUudmlzaWJpbGl0eSA9ICJ2aXNpYmxlIgogICAgICAgIH0sIDIwMDAwKQogICAgfQ==</text>
+        <text>Jonathan Jiang</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -680,7 +702,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Jonathan Jiang</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -688,35 +710,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3RoZXJzTWVtYmVyKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBpZiAoYnJvdGhlcnNNZW1iZXIuaW5kZXhPZihuYW1lKSA+PSAwKSB7CiAgICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiYm9keSIpLnN0eWxlLnZpc2liaWxpdHkgPSAiaGlkZGVuIgogICAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCJib2R5Iikuc3R5bGUudmlzaWJpbGl0eSA9ICJ2aXNpYmxlIgogICAgICAgIH0sIDIwMDAwKQogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWUpCiAgICBjb25zb2xlLmxvZyhicm90aGVyc01lbWJlcikKICAgIGNvbnNvbGUubG9nKG5hbWUgaW4gYnJvdGhlcnNNZW1iZXIpCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChuYW1lID09ICJMdWN5IExpIikgewogICAgICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoImJvZHkiKS5zdHlsZS52aXNpYmlsaXR5ID0gImhpZGRlbiIKICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiYm9keSIpLnN0eWxlLnZpc2liaWxpdHkgPSAidmlzaWJsZSIKICAgICAgICB9LCAyMDAwMCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcmVmX3RhYmxlKGNscywgZGI9c2VsZi5kYik6CiAgICAgICAgICAgIGFzc29jaWF0aW9uX3RhYmxlX25hbWUgPSAiXyVzXyVzIiAlICh0YWJsZSwgdGFibGUpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawp9Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>var username = document.querySelector(&quot;#userNavLabel&quot;).innerText
+if (username == &quot;Shirley Chen&quot;) {
+    console.log(&quot;break&quot;)
+    break
+}</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNscwo=</text>
+        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
