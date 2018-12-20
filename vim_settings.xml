@@ -163,11 +163,11 @@
       <file name="/husband [sqlite]" timestamp="1544591336472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/list3/zhenguo.py" timestamp="1543802721900">
-        <mark key="[" line="55" column="49" />
-        <mark key="]" line="55" column="62" />
-        <mark key="^" line="55" column="62" />
-        <mark key="." line="55" column="62" />
+      <file name="$USER_HOME$/list3/zhenguo.py" timestamp="1545296374473">
+        <mark key="[" line="93" column="23" />
+        <mark key="]" line="93" column="623" />
+        <mark key="^" line="93" column="623" />
+        <mark key="." line="93" column="623" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/airbnb3.py" timestamp="1529756468539">
         <mark key="[" line="22" column="26" />
@@ -486,9 +486,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545287036701">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1545296388151" />
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="7" column="0" />
@@ -690,7 +688,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Jonathan Jiang</text>
+        <text>uuid=163215cb5a4c8--1373565-64d1-163215cb5a4c8; _ga=GA1.2.649200422.1525273122; _lxsdk_cuid=163215cde8cc8-07b6bc032cc743-1373565-1fa400-163215cde8cc8; _lxsdk=163215cb5a4c8-00e482656c5a02-1373565-64d1-163215cb5a4c8; phxwww=09be45f0-76ab-11e8-ac8b-53615f79939e; _gid=GA1.2.1763961277.1529733766; _lxsdk_s=1642b3cd9a9-5fd-5eb-147%7C%7C64; XSRF-TOKEN=ui7DpRI4-VP2NnK1LfMEOtu8ZX1F4Sx1QgLI; __mta=146626443.1525273124802.1529733816619.1529733820255.193</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -702,7 +700,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Jonathan Jiang</text>
+        <text>uuid=163215cb5a4c8--1373565-64d1-163215cb5a4c8; _ga=GA1.2.649200422.1525273122; _lxsdk_cuid=163215cde8cc8-07b6bc032cc743-1373565-1fa400-163215cde8cc8; _lxsdk=163215cb5a4c8-00e482656c5a02-1373565-64d1-163215cb5a4c8; phxwww=09be45f0-76ab-11e8-ac8b-53615f79939e; _gid=GA1.2.1763961277.1529733766; _lxsdk_s=1642b3cd9a9-5fd-5eb-147%7C%7C64; XSRF-TOKEN=ui7DpRI4-VP2NnK1LfMEOtu8ZX1F4Sx1QgLI; __mta=146626443.1525273124802.1529733816619.1529733820255.193</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
