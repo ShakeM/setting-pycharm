@@ -272,11 +272,11 @@
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/activity_history.js" timestamp="1545281408774">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
+      <file name="$USER_HOME$/jslib/static/js/activity_history.js" timestamp="1546481517832">
+        <mark key="[" line="32" column="75" />
+        <mark key="]" line="32" column="76" />
+        <mark key="^" line="32" column="53" />
+        <mark key="." line="32" column="76" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/zhishu2/myapp.py" timestamp="1528040924127">
         <mark key="[" line="23" column="13" />
@@ -486,6 +486,9 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
+      <file name="/Dummy.txt" timestamp="1546481521192">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="7" column="0" />
@@ -687,7 +690,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>uuid=163215cb5a4c8--1373565-64d1-163215cb5a4c8; _ga=GA1.2.649200422.1525273122; _lxsdk_cuid=163215cde8cc8-07b6bc032cc743-1373565-1fa400-163215cde8cc8; _lxsdk=163215cb5a4c8-00e482656c5a02-1373565-64d1-163215cb5a4c8; phxwww=09be45f0-76ab-11e8-ac8b-53615f79939e; _gid=GA1.2.1763961277.1529733766; _lxsdk_s=1642b3cd9a9-5fd-5eb-147%7C%7C64; XSRF-TOKEN=ui7DpRI4-VP2NnK1LfMEOtu8ZX1F4Sx1QgLI; __mta=146626443.1525273124802.1529733816619.1529733820255.193</text>
+        <text encoding="base64">I2VwID4gZGl2LnBiQm9keSA+IGRpdi5wYlN1YnNlY3Rpb24gPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDExKSA+IHRkLmRhdGEyQ29sIA==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -699,7 +702,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>uuid=163215cb5a4c8--1373565-64d1-163215cb5a4c8; _ga=GA1.2.649200422.1525273122; _lxsdk_cuid=163215cde8cc8-07b6bc032cc743-1373565-1fa400-163215cde8cc8; _lxsdk=163215cb5a4c8-00e482656c5a02-1373565-64d1-163215cb5a4c8; phxwww=09be45f0-76ab-11e8-ac8b-53615f79939e; _gid=GA1.2.1763961277.1529733766; _lxsdk_s=1642b3cd9a9-5fd-5eb-147%7C%7C64; XSRF-TOKEN=ui7DpRI4-VP2NnK1LfMEOtu8ZX1F4Sx1QgLI; __mta=146626443.1525273124802.1529733816619.1529733820255.193</text>
+        <text encoding="base64">I2VwID4gZGl2LnBiQm9keSA+IGRpdi5wYlN1YnNlY3Rpb24gPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDExKSA+IHRkLmRhdGEyQ29sIA==</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -708,7 +711,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3RoZXJzTWVtYmVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmNkJyxyY2QpCg==</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
@@ -717,29 +720,29 @@
         <text encoding="base64">fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawp9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>var username = document.querySelector(&quot;#userNavLabel&quot;).innerText
 if (username == &quot;Shirley Chen&quot;) {
     console.log(&quot;break&quot;)
     break
 }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
