@@ -114,7 +114,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1545632079711">
+      <file name="/Python Console" timestamp="1546503224031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="9" />
         <mark key="^" line="8" column="9" />
@@ -272,6 +272,12 @@
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/socket/templates/index.html" timestamp="1546506166622">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="38" />
+        <mark key="." line="34" column="38" />
+        <mark key="^" line="34" column="38" />
+      </file>
       <file name="$USER_HOME$/jslib/static/js/activity_history.js" timestamp="1546481517832">
         <mark key="[" line="32" column="75" />
         <mark key="]" line="32" column="76" />
@@ -383,6 +389,13 @@
         <mark key="." line="185" column="45" />
         <mark key="^" line="181" column="29" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546507724293">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
@@ -486,7 +499,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546481521192">
+      <file name="/Dummy.txt" timestamp="1546503452861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
@@ -576,7 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="3" filename="$USER_HOME$/PycharmProjects/list3/zhenguo.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/list3/test.py" />
       <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/list3/test.py" />
       <jump line="0" column="0" filename="/Python Console" />
@@ -676,6 +688,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
       <jump line="0" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
       <jump line="261" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
+      <jump line="19" column="8" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -689,8 +702,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">I2VwID4gZGl2LnBiQm9keSA+IGRpdi5wYlN1YnNlY3Rpb24gPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDExKSA+IHRkLmRhdGEyQ29sIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -702,47 +715,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">I2VwID4gZGl2LnBiQm9keSA+IGRpdi5wYlN1YnNlY3Rpb24gPiB0YWJsZSA+IHRib2R5ID4gdHI6bnRoLWNoaWxkKDExKSA+IHRkLmRhdGEyQ29sIA==</text>
+        <text>++</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3RoZXJzTWVtYmVyKQo=</text>
+        <text encoding="base64">ICAgIHNlbmQodXNlcm5hbWUgKyAnIGhhcyBlbnRlcmVkIHRoZSByb29tLicsIHJvb209cm9vbSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmNkJyxyY2QpCg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3Quc2lkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgIHJlcXUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvY2tldGlvLnNlcnZlci5ramtqa2prCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVtaXQoJ2pvaW4nLCB1c2VybmFtZSArICcgaGFzIGVudGVyZWQgdGhlIHJvb20uJywgcm9vbT1yb29tKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAppZiAodXNlcm5hbWUgPT0gIlNoaXJsZXkgQ2hlbiIpIHsKICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICBicmVhawp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>var username = document.querySelector(&quot;#userNavLabel&quot;).innerText
-if (username == &quot;Shirley Chen&quot;) {
-    console.log(&quot;break&quot;)
-    break
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
