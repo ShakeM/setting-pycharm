@@ -344,8 +344,8 @@
       <file name="/friend [sqlite [4]]" timestamp="1544593886475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" timestamp="1546583656875">
-        <mark key="'" line="113" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" timestamp="1546585527534">
+        <mark key="'" line="226" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list3/templates/index.html" timestamp="1530026062434">
         <mark key="[" line="7" column="1" />
@@ -398,12 +398,12 @@
         <mark key="." line="185" column="45" />
         <mark key="^" line="181" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546583894806">
-        <mark key="'" line="28" column="18" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="14" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546585584157">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="28" column="58" />
+        <mark key="]" line="28" column="61" />
+        <mark key="." line="28" column="61" />
+        <mark key="^" line="28" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -695,12 +695,12 @@
       <jump line="132" column="35" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
       <jump line="189" column="9" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
       <jump line="212" column="31" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/flask_socketio/__init__.py" />
-      <jump line="226" column="17" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
       <jump line="114" column="34" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
-      <jump line="113" column="48" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
       <jump line="29" column="49" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
       <jump line="37" column="8" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
-      <jump line="28" column="18" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
+      <jump line="113" column="23" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
+      <jump line="28" column="31" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
+      <jump line="226" column="22" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -715,7 +715,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>'</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -727,7 +727,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
