@@ -398,12 +398,12 @@
         <mark key="." line="185" column="45" />
         <mark key="^" line="181" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546591553911">
+      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546592362981">
         <mark key="'" line="29" column="34" />
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="48" />
-        <mark key="^" line="29" column="48" />
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -715,7 +715,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>event</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -727,43 +727,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QuZXZlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXRpby5zZXJ2ZXIucm9vbXNbJyddWycnXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QuZXZlbnQpCg==</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCctJyAqIDIwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3QuZXZlbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJvb21zKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzb2NrZXRpby5zZXJ2ZXIucm9vbXNbJyddWycnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNvY2tldElPLm1hbmFnZV9zZXNzaW9uLmdldF9wYXJ0aWNpcGFudHMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCctJyAqIDIwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcC5zZXJ2Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJvb21zKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNvY2tldElPLmdldF9wYXJ0aWNpcGFudHMK</text>
+        <text encoding="base64">ICAgIHByaW50KFNvY2tldElPLm1hbmFnZV9zZXNzaW9uLmdldF9wYXJ0aWNpcGFudHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIGFwcC5zZXJ2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIHUK</text>
+        <text encoding="base64">ICAgIFNvY2tldElPLmdldF9wYXJ0aWNpcGFudHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodSkK</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
