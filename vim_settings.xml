@@ -114,7 +114,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1546503224031">
+      <file name="/Python Console" timestamp="1546580653786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="9" />
         <mark key="^" line="8" column="9" />
@@ -272,11 +272,11 @@
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/templates/index.html" timestamp="1546506166622">
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="38" />
-        <mark key="." line="34" column="38" />
-        <mark key="^" line="34" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/socket/templates/index.html" timestamp="1546581754095">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+        <mark key="^" line="14" column="61" />
       </file>
       <file name="$USER_HOME$/jslib/static/js/activity_history.js" timestamp="1546481517832">
         <mark key="[" line="32" column="75" />
@@ -389,12 +389,12 @@
         <mark key="." line="185" column="45" />
         <mark key="^" line="181" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546507724293">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546582394810">
+        <mark key="'" line="28" column="14" />
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -499,7 +499,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546503452861">
+      <file name="/Dummy.txt" timestamp="1546580673611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
@@ -547,6 +547,7 @@
         <mark key="." line="62" column="38" />
         <mark key="^" line="62" column="38" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/flask_socketio/__init__.py" timestamp="1546582054764" />
       <file name="/friend [sqlite]" timestamp="1544591669935">
         <mark key="[" line="0" column="0" />
       </file>
@@ -589,9 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/list3/test.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/PycharmProjects/list3/test.py" />
-      <jump line="0" column="0" filename="/Python Console" />
       <jump line="20" column="22" filename="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" />
       <jump line="147" column="3" filename="$USER_HOME$/PycharmProjects/list3/xiaozhu.py" />
       <jump line="52" column="7" filename="$USER_HOME$/PycharmProjects/list3/utils/my_sqlalchemy.py" />
@@ -689,6 +687,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
       <jump line="261" column="0" filename="$USER_HOME$/jslib/static/js/task.js" />
       <jump line="19" column="8" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
+      <jump line="36" column="11" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
+      <jump line="22" column="10" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
+      <jump line="28" column="14" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -702,8 +703,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+      <register name="&quot;" type="4">
+        <text>users</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -715,43 +716,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>++</text>
+        <text>users</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbmQodXNlcm5hbWUgKyAnIGhhcyBlbnRlcmVkIHRoZSByb29tLicsIHJvb209cm9vbSkK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIHZhbHVlPSJqb2luIHJvb20iIEBjbGljaz0iam9pbl9yb29tIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIHUK</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcXVlc3Quc2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMucG9wKHUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvY2tldGlvLnNlcnZlci5ramtqa2prCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVtaXQoJ2pvaW4nLCB1c2VybmFtZSArICcgaGFzIGVudGVyZWQgdGhlIHJvb20uJywgcm9vbT1yb29tKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CkBzb2NrZXRpby5vbignam9pbicpCmRlZiBvbl9qb2luKGRhdGEpOgogICAgdXNlcm5hbWUgPSBkYXRhWyd1c2VybmFtZSddCiAgICByb29tID0gZGF0YVsncm9vbSddCiAgICBqb2luX3Jvb20ocm9vbSkKCiAgICBnbG9iYWwgdXNlcnMKICAgIHVzZXJzLmFwcGVuZCh7J3VzZXJuYW1lJzogdXNlcm5hbWUsCiAgICAgICAgICAgICAgICAgICdyb29tJzogcm9vbSwKICAgICAgICAgICAgICAgICAgJ3NpZCc6IHJlcXVlc3Quc2lkfSkKCiAgICBzZW5kKHVzZXJzLCByb29tPXJvb20p</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAnc2lkJzogcmVxdWVzdC5zaWR9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAncm9vbSc6IHJvb20sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIGxlYXZlX3Jvb20ocm9vbSkKICAgIGdsb2JhbCB1c2Vycwo=</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
