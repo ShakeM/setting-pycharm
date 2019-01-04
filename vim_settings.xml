@@ -114,7 +114,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1546580653786">
+      <file name="/Python Console" timestamp="1546591076998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="9" />
         <mark key="^" line="8" column="9" />
@@ -208,8 +208,8 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" timestamp="1546583677050">
-        <mark key="'" line="37" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" timestamp="1546591497893">
+        <mark key="'" line="39" column="46" />
       </file>
       <file name="$USER_HOME$/jslib/static/js/record.js" timestamp="1546480594080">
         <mark key="[" line="5" column="21" />
@@ -398,11 +398,12 @@
         <mark key="." line="185" column="45" />
         <mark key="^" line="181" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546586934953">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546591553911">
+        <mark key="'" line="29" column="34" />
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+        <mark key="^" line="29" column="48" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -555,8 +556,8 @@
         <mark key="." line="62" column="38" />
         <mark key="^" line="62" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/flask_socketio/__init__.py" timestamp="1546583587819">
-        <mark key="'" line="212" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/flask_socketio/__init__.py" timestamp="1546591332166">
+        <mark key="'" line="212" column="35" />
       </file>
       <file name="/friend [sqlite]" timestamp="1544591669935">
         <mark key="[" line="0" column="0" />
@@ -600,8 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="27" filename="$USER_HOME$/PycharmProjects/twins/main.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/twins/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/twins/main.py" />
       <jump line="37" column="10" filename="$USER_HOME$/jslib/main.py" />
       <jump line="3" column="18" filename="$USER_HOME$/jslib/main.py" />
@@ -689,17 +688,19 @@
       <jump line="8" column="24" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/__init__.py" />
       <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3/six/__init__.pyi" />
       <jump line="71" column="4" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3/six/__init__.pyi" />
-      <jump line="39" column="46" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
-      <jump line="30" column="28" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
       <jump line="132" column="35" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
       <jump line="189" column="9" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
-      <jump line="212" column="31" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/flask_socketio/__init__.py" />
       <jump line="114" column="34" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
-      <jump line="29" column="49" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
       <jump line="37" column="8" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
       <jump line="113" column="23" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
       <jump line="28" column="31" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
       <jump line="226" column="22" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/server.py" />
+      <jump line="30" column="28" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
+      <jump line="20" column="13" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
+      <jump line="212" column="35" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/flask_socketio/__init__.py" />
+      <jump line="29" column="34" filename="$USER_HOME$/PycharmProjects/socket/app.py" />
+      <jump line="35" column="36" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
+      <jump line="39" column="46" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -714,7 +715,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -726,7 +727,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -735,34 +736,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGVkOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCctJyAqIDIwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzb2NrZXRpby5zZXJ2ZXIucm9vbXNbJyddWycnXQo=</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJvb21zKCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCctJyAqIDIwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNvY2tldElPLm1hbmFnZV9zZXNzaW9uLmdldF9wYXJ0aWNpcGFudHMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJvb21zKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcC5zZXJ2Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KFNvY2tldElPLm1hbmFnZV9zZXNzaW9uLmdldF9wYXJ0aWNpcGFudHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNvY2tldElPLmdldF9wYXJ0aWNpcGFudHMK</text>
+        <text encoding="base64">ICAgIGFwcC5zZXJ2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIFNvY2tldElPLmdldF9wYXJ0aWNpcGFudHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIHUK</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIHUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMucG9wKHUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodSkK</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
