@@ -266,20 +266,20 @@
       <file name="$USER_HOME$/list3/requirements.txt" timestamp="1543801627784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1545632397877">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1546587216571">
+        <mark key="[" line="14" column="106" />
+        <mark key="]" line="14" column="106" />
+        <mark key="^" line="14" column="106" />
+        <mark key="." line="14" column="106" />
       </file>
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/templates/index.html" timestamp="1546581754095">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="61" />
-        <mark key="." line="14" column="61" />
-        <mark key="^" line="14" column="61" />
+      <file name="$USER_HOME$/PycharmProjects/socket/templates/index.html" timestamp="1546586208511">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="34" />
+        <mark key="." line="51" column="34" />
+        <mark key="^" line="51" column="34" />
       </file>
       <file name="$USER_HOME$/jslib/static/js/activity_history.js" timestamp="1546481517832">
         <mark key="[" line="32" column="75" />
@@ -398,12 +398,11 @@
         <mark key="." line="185" column="45" />
         <mark key="^" line="181" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546585584157">
-        <mark key="'" line="28" column="31" />
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="28" column="61" />
-        <mark key="." line="28" column="61" />
-        <mark key="^" line="28" column="61" />
+      <file name="$USER_HOME$/PycharmProjects/socket/app.py" timestamp="1546586934953">
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -508,7 +507,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546580673611">
+      <file name="/Dummy.txt" timestamp="1546587220705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
@@ -715,7 +714,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -727,43 +726,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNvY2tldElPLmdldF9wYXJ0aWNpcGFudHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGVkOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJvb21zKCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCctJyAqIDIwKQo=</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNvY2tldElPLm1hbmFnZV9zZXNzaW9uLmdldF9wYXJ0aWNpcGFudHMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJvb21zKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcC5zZXJ2Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KFNvY2tldElPLm1hbmFnZV9zZXNzaW9uLmdldF9wYXJ0aWNpcGFudHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNvY2tldElPLmdldF9wYXJ0aWNpcGFudHMK</text>
+        <text encoding="base64">ICAgIGFwcC5zZXJ2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIFNvY2tldElPLmdldF9wYXJ0aWNpcGFudHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIHUK</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIHUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMucG9wKHUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcnMucG9wKHUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
