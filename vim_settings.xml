@@ -230,6 +230,12 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="51" column="17" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled2/main.py" timestamp="1547084337912">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="27" column="10" />
+        <mark key="^" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+      </file>
       <file name="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" timestamp="1532929999611">
         <mark key="[" line="17" column="77" />
         <mark key="]" line="17" column="77" />
@@ -716,7 +722,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, namespace='/')</text>
+        <text>instance</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -728,13 +734,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, namespace='/')</text>
+        <text>instance</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJlZnNbJ2JveCddLnN0eWxlLnRvcCArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc29ja2V0Lm9uKCcnLCBmdW5jdGlvbiAoKSB7CgogICAgICAgICAgICAgICAgfSkK</text>
