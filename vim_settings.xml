@@ -114,11 +114,11 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1546591076998">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="9" />
+      <file name="/Python Console" timestamp="1547091473614">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="/fragment.py" timestamp="1537344589728">
         <mark key="[" line="0" column="0" />
@@ -722,7 +722,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.product</text>
+        <text>pd.datetime()</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -734,7 +734,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.product</text>
+        <text>pd.datetime()</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
