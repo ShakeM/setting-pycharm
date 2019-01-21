@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb2_order.py" timestamp="1529413148988">
@@ -272,7 +272,7 @@
       <file name="$USER_HOME$/list3/requirements.txt" timestamp="1543801627784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1547084229310">
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1548035121379">
         <mark key="[" line="14" column="115" />
         <mark key="]" line="14" column="127" />
         <mark key="^" line="14" column="127" />
@@ -858,7 +858,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
