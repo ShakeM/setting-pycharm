@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/airbnb2_order.py" timestamp="1529413148988">
@@ -87,8 +87,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/reminder.js" timestamp="1545281155162">
-        <mark key="^" line="1" column="3" />
+      <file name="$USER_HOME$/jslib/static/js/reminder.js" timestamp="1550713600485">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/verify_status/fanqie.py" timestamp="1529736684379">
         <mark key="[" line="68" column="29" />
@@ -216,6 +219,12 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1550714175275">
+        <mark key="[" line="153" column="57" />
+        <mark key="]" line="153" column="57" />
+        <mark key="." line="153" column="57" />
+        <mark key="^" line="124" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
         <mark key="[" line="34" column="0" />
@@ -515,7 +524,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546929012186">
+      <file name="/Dummy.txt" timestamp="1550714179385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
@@ -539,7 +548,7 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/close.js" timestamp="1536031370623">
+      <file name="$USER_HOME$/jslib/static/js/close.js" timestamp="1550713959016">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="1" column="0" />
@@ -722,7 +731,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pd.datetime()</text>
+        <text>0</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -734,7 +743,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pd.datetime()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
