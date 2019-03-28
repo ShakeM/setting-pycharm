@@ -422,6 +422,12 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/notee/main.py" timestamp="1553745269767">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
@@ -732,7 +738,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>username in licensed_users</text>
+        <text>False</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -744,7 +750,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>username in licensed_users</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -753,34 +759,34 @@
         <text encoding="base64">ICAgICAgICAnQ2FyYSBDaGVuJywgJ0xhbmNlciBXYW5nJywgJ0t1cnQgWmhhbmcnLCAnRG9yYSBTdW4nLCAnRmVsaXggWGlhbycsICdKZXR0IFh1ZScsICdMaWx5IEppYW5nJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoY2xpZW50LmNvbnN1bWVyX2tleSkK</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm90ZV9zdG9yZSA9IGNsaWVudC5jb25zdW1lcl9rZXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnIENoZW4nLCAnTGFuY2VyIFdhbmcnLCAnS3VydCBaaGFuZycsICdEb3JhIFN1bicsICdGZWxpeCBYaWFvJywgJ0pldHQgWHVlJywgJ0xpbHkgSmlhbmcnLAo=</text>
+        <text encoding="base64">Y2xpZW50ID0gRXZlcm5vdGVDbGllbnQodG9rZW49ZGV2X3Rva2VuLCBzYW5kYm94PUZhbHNlKQp1c2VyU3RvcmUgPSBjbGllbnQuZ2V0X3VzZXJfc3RvcmUoKQp1c2VyID0gdXNlclN0b3JlLmdldFVzZXIoKQpwcmludCh1c2VyLnVzZXJuYW1lKQoKZnJvbSBldmVybm90ZS5hcGkuY2xpZW50IGltcG9ydCBFdmVybm90ZUNsaWVudApzPSIqKioqKioqIgpkZXZlbG9wZXJfdG9rZW4gPSBzCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgdXNlci51c2VybmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnIENoZW4nLCAnTGFuY2VyIFdhbmcnLCAnS3VydCBaaGFuZycsICdEb3JhIFN1bicsICdGZWxpeCBYaWFvJywgJ0pldHQgWHVlJywgJ0xpbHkgSmlhbmcnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh1c2VybmFtZSA9PSAiU2hpcmxleSBDaGVuIikgewogICAgICAgIGNvbnNvbGUubG9nKCJicmVhayIpCiAgICAgICAgcmV0dXJuCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action MoveTabRight</text>
