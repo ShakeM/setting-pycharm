@@ -69,6 +69,9 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/edam/notestore/NoteStore.py" timestamp="1553751600788">
+        <mark key="'" line="3804" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/run_stock.py" timestamp="1530633722959">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="1" column="0" />
@@ -117,7 +120,7 @@
         <mark key="^" line="133" column="30" />
         <mark key="." line="133" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1548035060042">
+      <file name="/Python Console" timestamp="1553749888384">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -352,6 +355,9 @@
         <mark key="." line="155" column="15" />
         <mark key="^" line="144" column="14" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/api/client.py" timestamp="1553751406336">
+        <mark key="'" line="103" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/list3/verify_status/yijia_order.py" timestamp="1530543981730">
         <mark key="[" line="47" column="17" />
         <mark key="]" line="47" column="28" />
@@ -422,11 +428,12 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/notee/main.py" timestamp="1553748289232">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="52" />
-        <mark key="." line="4" column="52" />
-        <mark key="^" line="4" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/notee/main.py" timestamp="1553752572765">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+        <mark key="^" line="19" column="62" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/list/mayi.py" timestamp="1527254652582">
         <mark key="[" line="149" column="0" />
@@ -624,16 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/jslib/main.py" />
-      <jump line="54" column="42" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
-      <jump line="83" column="28" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/cms.html" />
-      <jump line="129" column="0" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/js/price.js" />
-      <jump line="23" column="30" filename="$USER_HOME$/Desktop/EXT/AltiumDirector/js/background.js" />
-      <jump line="1" column="10" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
-      <jump line="2" column="10" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
-      <jump line="9" column="31" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/tianyan_score/main.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/untitled3/main.py" />
       <jump line="9" column="22" filename="$USER_HOME$/jslib/static/js/report.js" />
       <jump line="421" column="39" filename="$USER_HOME$/jslib/static/js/opp.js" />
@@ -724,6 +721,16 @@
       <jump line="39" column="46" filename="$USER_HOME$/PycharmProjects/socket/venv/Lib/site-packages/socketio/base_manager.py" />
       <jump line="38" column="27" filename="$USER_HOME$/PycharmProjects/socket/templates/index.html" />
       <jump line="284" column="0" filename="$USER_HOME$/jslib/static/js/opp.js" />
+      <jump line="5" column="31" filename="$USER_HOME$/PycharmProjects/notee/main.py" />
+      <jump line="93" column="30" filename="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/api/client.py" />
+      <jump line="133" column="35" filename="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/api/client.py" />
+      <jump line="27" column="57" filename="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/api/client.py" />
+      <jump line="6" column="26" filename="$USER_HOME$/PycharmProjects/notee/main.py" />
+      <jump line="103" column="17" filename="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/api/client.py" />
+      <jump line="10" column="22" filename="$USER_HOME$/PycharmProjects/notee/main.py" />
+      <jump line="3804" column="19" filename="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/edam/notestore/NoteStore.py" />
+      <jump line="1" column="9" filename="$USER_HOME$/PycharmProjects/notee/main.py" />
+      <jump line="14" column="31" filename="$USER_HOME$/PycharmProjects/notee/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -738,7 +745,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -750,7 +757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -759,37 +766,37 @@
         <text encoding="base64">ICAgICAgICAnQ2FyYSBDaGVuJywgJ0xhbmNlciBXYW5nJywgJ0t1cnQgWmhhbmcnLCAnRG9yYSBTdW4nLCAnRmVsaXggWGlhbycsICdKZXR0IFh1ZScsICdMaWx5IEppYW5nJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoY2xpZW50LmNvbnN1bWVyX2tleSkK</text>
+        <text encoding="base64">IyMgYzMyOGJkY2EtNzAzNC00MTEzLWE5ZTQtNGFhZjQ5ZGVlMGRkCg==</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm90ZV9zdG9yZSA9IGNsaWVudC5jb25zdW1lcl9rZXkK</text>
+        <text encoding="base64">IyMgYzMyOGJkY2EtNzAzNC00MTEzLWE5ZTQtNGFhZjQ5ZGVlMGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xpZW50ID0gRXZlcm5vdGVDbGllbnQodG9rZW49ZGV2X3Rva2VuLCBzYW5kYm94PUZhbHNlKQp1c2VyU3RvcmUgPSBjbGllbnQuZ2V0X3VzZXJfc3RvcmUoKQp1c2VyID0gdXNlclN0b3JlLmdldFVzZXIoKQpwcmludCh1c2VyLnVzZXJuYW1lKQoKZnJvbSBldmVybm90ZS5hcGkuY2xpZW50IGltcG9ydCBFdmVybm90ZUNsaWVudApzPSIqKioqKioqIgpkZXZlbG9wZXJfdG9rZW4gPSBzCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgdXNlci51c2VybmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobm90ZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnIENoZW4nLCAnTGFuY2VyIFdhbmcnLCAnS3VydCBaaGFuZycsICdEb3JhIFN1bicsICdGZWxpeCBYaWFvJywgJ0pldHQgWHVlJywgJ0xpbHkgSmlhbmcnLAo=</text>
+        <text encoding="base64">Zm9yIG4gaW4gbm90ZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBldmVybm90ZS5hcGkgaW1wb3J0IE5vdGVGaWx0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvemVuc2V0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MoveTabRight</text>
+        <text>action PrevSplitter</text>
       </register>
     </registers>
     <search>
@@ -799,7 +806,7 @@
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -836,7 +843,6 @@
         <entry>vsplit</entry>
         <entry>action $Paste</entry>
         <entry>action CloseContent</entry>
-        <entry>action PrevSplitter</entry>
         <entry>action CloseAllEditorsButActive</entry>
         <entry>wq</entry>
         <entry>action Replace</entry>
@@ -845,6 +851,7 @@
         <entry>action NextTab</entry>
         <entry>%s/letter/1/g</entry>
         <entry>action MoveTabRight</entry>
+        <entry>action PrevSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
