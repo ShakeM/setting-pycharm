@@ -223,11 +223,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1550714175275">
-        <mark key="[" line="153" column="57" />
-        <mark key="]" line="153" column="57" />
-        <mark key="." line="153" column="57" />
-        <mark key="^" line="124" column="61" />
+      <file name="$USER_HOME$/jslib/static/js/background.js" timestamp="1554272336110">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="185" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scrapy_project/scrapy_project/output/__init__.py" timestamp="1527902017815">
         <mark key="[" line="34" column="0" />
@@ -286,10 +286,6 @@
       </file>
       <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1552030626312">
         <mark key="'" line="292" column="0" />
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="10" />
       </file>
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
@@ -538,7 +534,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552030631251">
+      <file name="/Dummy.txt" timestamp="1554272339880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
@@ -744,8 +740,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -757,7 +753,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>console.log(JSON.stringify(temp1))</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -766,34 +762,34 @@
         <text encoding="base64">ICAgICAgICAnQ2FyYSBDaGVuJywgJ0xhbmNlciBXYW5nJywgJ0t1cnQgWmhhbmcnLCAnRG9yYSBTdW4nLCAnRmVsaXggWGlhbycsICdKZXR0IFh1ZScsICdMaWx5IEppYW5nJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgYzMyOGJkY2EtNzAzNC00MTEzLWE5ZTQtNGFhZjQ5ZGVlMGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgYzMyOGJkY2EtNzAzNC00MTEzLWE5ZTQtNGFhZjQ5ZGVlMGRkCg==</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDIxNDU5MjQyNzMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTQyNzIzMzAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1ODU4MDc3MjcuMDAxMzk1LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQobm90ZXMpCg==</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTQyNzE3NDUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG4pCg==</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTk0NTU2ODIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIG4gaW4gbm90ZXM6Cg==</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTk0NTU2ODIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBldmVybm90ZS5hcGkgaW1wb3J0IE5vdGVGaWx0ZXIK</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1ODU4MDc1NzMuMzIxMTU1LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvemVuc2V0Cg==</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1ODU4MDc3MjYsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PrevSplitter</text>
@@ -806,7 +802,7 @@
       <last-replace>1</last-replace>
       <last-substitute>letter</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
