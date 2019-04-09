@@ -284,8 +284,12 @@
       <file name="$USER_HOME$/list3/requirements.txt" timestamp="1543801627784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1552030626312">
-        <mark key="'" line="292" column="0" />
+      <file name="$USER_HOME$/jslib/static/js/opp.js" timestamp="1554801769662">
+        <mark key="'" line="531" column="78" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="/parent [sqlite]" timestamp="1544590855147">
         <mark key="[" line="0" column="0" />
@@ -534,7 +538,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554272339880">
+      <file name="/Dummy.txt" timestamp="1554801773638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mail/mail_parser.py" timestamp="1506270199924">
@@ -627,7 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/untitled3/main.py" />
       <jump line="9" column="22" filename="$USER_HOME$/jslib/static/js/report.js" />
       <jump line="421" column="39" filename="$USER_HOME$/jslib/static/js/opp.js" />
       <jump line="510" column="35" filename="$USER_HOME$/jslib/static/js/opp.js" />
@@ -727,6 +730,7 @@
       <jump line="3804" column="19" filename="$USER_HOME$/PycharmProjects/notee/venv/Lib/site-packages/evernote/edam/notestore/NoteStore.py" />
       <jump line="1" column="9" filename="$USER_HOME$/PycharmProjects/notee/main.py" />
       <jump line="14" column="31" filename="$USER_HOME$/PycharmProjects/notee/main.py" />
+      <jump line="537" column="78" filename="$USER_HOME$/jslib/static/js/opp.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -740,8 +744,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -753,7 +757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>console.log(JSON.stringify(temp1))</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -762,34 +766,34 @@
         <text encoding="base64">ICAgICAgICAnQ2FyYSBDaGVuJywgJ0xhbmNlciBXYW5nJywgJ0t1cnQgWmhhbmcnLCAnRG9yYSBTdW4nLCAnRmVsaXggWGlhbycsICdKZXR0IFh1ZScsICdMaWx5IEppYW5nJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJsYWNrTGlzdCA9IFsKICAgICAgICAiWW9jZWx5biBYaSIsICJMaWFuZ3FpbmcgTGl1IiwgIkpvbmF0aGFuIEppYW5nIgogICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <text>dthj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDIxNDU5MjQyNzMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTQyNzIzMzAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1ODU4MDc3MjcuMDAxMzk1LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTQyNzE3NDUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTk0NTU2ODIsCg==</text>
+        <text encoding="base64">ICAgIC8vdmFyIHVzZXJuYW1lID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiI3VzZXJOYXZMYWJlbCIpLmlubmVyVGV4dAoKICAgIC8vILDXw/u1pdbGtsgKICAgIC8vICBjb25zdCBsaWNlbnNlZF91c2VycyA9IFsKICAgIC8vICAgICAgJ0FsYW4gSmlhbmcnLCAnSm9uYXRoYW4gSmlhbmcnLCAnTWlrZSBYdScsICdOZWFsIEZhbicsICdLYXJvbiBTaGknLCAnTHVjeSBMaScsICdCcmFtYmxlIE5pJywKICAgICAvLyAgICAgJ093ZW4gTGVpJywgJ1N1c2llIFN1bicsICdWaXZpYW4gV2VpJywgJ05pY2sgU29uZycsICdCZWxsYSBNYScsICdTaGFsbHRlYXIgWmh1JywgJ0FiYnkgRG9uZycsCiAgICAgICAgIC8vICJGZW5neHVhbiBaaGFuZyIsICJIYWlkb25nIExpdSIsICJSdWkgTHUiLCAiU3VtbWVyIFRhbiIsICJFdGhhbiBaaG91IiwKICAgICAgICAgLy8gJ0NhcmEgQ2hlbicsICdMYW5jZXIgV2FuZycsICdLdXJ0IFpoYW5nJywgJ0RvcmEgU3VuJywgJ0ZlbGl4IFhpYW8nLCAnSmV0dCBYdWUnLCAnTGlseSBKaWFuZycsCiAgICAgICAgIC8vICdKb3ljZSBaaHUnLCAnSGVkeSBIb3UnLCAnRXJpbiBXYW5nJywgJ0FpYmVsbCBMaScKICAgICAvLyBdCiAgICAgLy8gaWYgKCEodXNlcm5hbWUgaW4gbGljZW5zZWRfdXNlcnMpKSB7CiAgICAgICAvLyAgIHJldHVybgoKICAgICAvLyB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTk0NTU2ODIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1ODU4MDc1NzMuMzIxMTU1LAo=</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDIxNDU5MjQyNzMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1ODU4MDc3MjYsCg==</text>
+        <text encoding="base64">ICAgICJleHBpcmF0aW9uRGF0ZSI6IDE1NTQyNzIzMzAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action PrevSplitter</text>
